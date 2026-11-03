@@ -7,7 +7,8 @@ Projeto da disciplina SCC0252 (Visualização Computacional, ICMC-USP, 2026/2). 
 
 ## Links
 
-- [Visualização interativa (Q1)](https://vmoreli.github.io/viscomp-projeto/)
+- [Site com as visualizações](https://vmoreli.github.io/viscomp-projeto/) (menu com todas)
+- [Q1: atraso por reprovação](https://vmoreli.github.io/viscomp-projeto/vis/q1.html)
 - [Notebook da Q1 no nbviewer](https://nbviewer.org/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb)
 - [Notebook da Q1 no Colab](https://colab.research.google.com/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb)
 
@@ -18,13 +19,26 @@ pip install -r requirements.txt
 jupyter notebook notebooks/
 ```
 
-O `02_q1_atraso_reprovacao.ipynb` lê os CSVs de `dados/processado` e grava `q1_interativo.html` na pasta `notebooks/`. A cópia publicada no GitHub Pages é o `index.html` da raiz.
+O `02_q1_atraso_reprovacao.ipynb` lê os CSVs de `dados/processado` e grava `q1_interativo.html` na pasta `notebooks/`.
+
+## Como publicar uma visualização no site
+
+O site tem uma página inicial (`index.html`) e uma página por visualização em `vis/`. O menu do topo e os cartões da página inicial vêm da lista `VISUALIZACOES` em `menu.js`.
+
+1. Rode o notebook que gera o HTML da visualização (ex.: `notebooks/q1_interativo.html`).
+2. Na raiz do repositório, gere a página:
+   `python scripts/publicar_vis.py notebooks/q1_interativo.html q1 "Grade do ICMC como rede: Q1"`
+3. Se a visualização for nova, adicione um item em `VISUALIZACOES` no `menu.js` (id, arquivo, rótulo, título, descrição e, se houver, uma figura).
+4. Faça commit e push; o GitHub Pages atualiza sozinho.
 
 ## Pastas
 
 | Pasta | Conteúdo |
 |---|---|
-| `index.html` | Visualização interativa da Q1 (GitHub Pages) |
+| `index.html` | Página inicial do site (GitHub Pages), com o menu das visualizações |
+| `menu.js` | Lista das visualizações; monta o menu do topo e os cartões da página inicial |
+| `vis/` | Uma página por visualização (`q1.html`, …) |
+| `scripts/` | `publicar_vis.py` (gera as páginas de `vis/`) e `capturas_q1.py` (gera as figuras com Playwright) |
 | `notebooks/01_criacao_dataset.ipynb` | Coleta no JúpiterWeb, limpeza e geração das tabelas |
 | `notebooks/02_q1_atraso_reprovacao.ipynb` | Q1: quanto uma reprovação em obrigatória atrasa o curso |
 | `dados/bruto/` | `disciplinas_brutas.json`: dados de cada disciplina como vieram do scraper |

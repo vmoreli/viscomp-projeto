@@ -1,229 +1,43 @@
-<!doctype html><meta charset='utf-8'><title>Grade do ICMC como rede: Q1</title>
-<div id="q1_e4b35145" class="q1">
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grade do ICMC como rede</title>
+<script src="menu.js" data-atual="inicio"></script>
 <style>
-  #q1_e4b35145 { font-family: Inter, Arial, sans-serif; color: #52514e; background: #fcfcfb;
-          padding: 12px 8px; }
-  #q1_e4b35145 .ctl { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; }
-  #q1_e4b35145 select { font: inherit; padding: 4px 6px; border: 1px solid #c3c2b7;
-                 border-radius: 4px; background: white; color: #0b0b0b; }
-  #q1_e4b35145 .grp { display: inline-flex; border: 1px solid #c3c2b7; border-radius: 4px; overflow: hidden; }
-  #q1_e4b35145 .grp button { font: inherit; font-size: 13px; padding: 4px 10px; border: 0;
-                      background: white; color: #52514e; cursor: pointer; }
-  #q1_e4b35145 .grp button + button { border-left: 1px solid #c3c2b7; }
-  #q1_e4b35145 .grp button.on { background: #2a78d6; color: white; }
-  #q1_e4b35145 .resumo { margin: 10px 0 4px; font-size: 14px; color: #0b0b0b; }
-  #q1_e4b35145 .paineis { display: flex; flex-wrap: wrap; gap: 12px; }
-  #q1_e4b35145 .p1 { flex: 1 1 380px; min-width: 320px; }
-  #q1_e4b35145 .p2 { flex: 1.5 1 520px; min-width: 360px; }
-  #q1_e4b35145 h4 { margin: 8px 0 0; font-size: 14px; color: #0b0b0b; font-weight: 600; }
-  #q1_e4b35145 h4 small { font-weight: 400; color: #898781; }
-  #q1_e4b35145 .sub { font-size: 12px; color: #52514e; min-height: 16px; }
-  #q1_e4b35145 .leg { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; margin-top: 2px; }
-  #q1_e4b35145 .leg i { display: inline-block; vertical-align: middle; margin-right: 5px; }
-  #q1_e4b35145 .v1 .bars .point path { cursor: pointer; }
+  body { margin: 0; background: #fcfcfb; color: #52514e; font: 15px/1.5 Inter, Arial, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 28px 16px 40px; }
+  h1 { margin: 0 0 6px; font-size: 26px; color: #0b0b0b; }
+  .intro { margin: 0 0 4px; max-width: 760px; }
+  .autores { margin: 0 0 28px; font-size: 13px; color: #898781; }
+  #lista-vis { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+  .cartao { display: flex; flex-direction: column; border: 1px solid #e1e0d9; border-radius: 6px;
+            background: white; color: inherit; text-decoration: none; overflow: hidden; }
+  .cartao:hover { border-color: #2a78d6; }
+  .cartao img { width: 100%; aspect-ratio: 2 / 1; object-fit: cover; object-position: top left;
+                border-bottom: 1px solid #e1e0d9; }
+  .cartao div { padding: 12px 14px 14px; }
+  .cartao .rotulo { font-size: 12px; font-weight: 600; color: #2a78d6; }
+  .cartao h2 { margin: 2px 0 6px; font-size: 16px; color: #0b0b0b; }
+  .cartao p { margin: 0; font-size: 13px; }
+  footer { margin-top: 32px; font-size: 13px; color: #898781; }
+  footer a { color: #2a78d6; }
 </style>
-<div class="ctl">
-  <label>Curso <select class="curso"></select></label>
-  <span class="grp" data-k="oferta"><button data-v="anual">Oferta anual</button><button data-v="semestral">Oferta semestral</button></span>
-  <span class="grp" data-k="forte"><button data-v="forte">Reprovação forte</button><button data-v="branda">Reprovação branda</button></span>
-</div>
-<div class="resumo"></div>
-<div class="paineis">
-  <div class="p1"><h4>1. Quais reprovações custam mais? <small>clique numa barra</small></h4>
-    <div class="leg"><span><i style="width:12px;height:10px;background:#a9a8a0"></i>formatura não atrasa</span>
-      <span><i style="width:12px;height:10px;background:#2a78d6"></i>formatura atrasa</span></div>
-    <div class="v1"></div></div>
-  <div class="p2"><h4 class="t2"></h4><div class="sub"></div>
-    <div class="leg"><span><i style="width:9px;height:9px;transform:rotate(45deg);margin:0 7px 0 2px;background:#d03b3b"></i>reprovada</span>
-      <span><i style="width:9px;height:9px;border-radius:50%;background:#ec835a"></i>adiada (passe o mouse para ver o novo semestre)</span>
-      <span><i style="width:7px;height:7px;border-radius:50%;background:#e6e5df;border:1px solid #c3c2b7"></i>sem efeito</span>
-      <span><i style="width:18px;border-top:2px solid #52514e"></i>requisito</span>
-      <span><i style="width:18px;border-top:2px dotted #52514e"></i>requisito fraco</span></div>
-    <div class="v2"></div></div>
-</div>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2.35.2/plotly.min.js"></script>
-<script>
-(function() {
-const D = {"ordem": ["55041-0", "55090-0", "55051-4", "97001-0"], "cursos": {"55041-0": {"nome": "Bach. Ciências de Computação", "alunos": 22, "maxsem": 10, "nos": [{"s": "SCC0201", "x": 2, "y": 1.5}, {"s": "SCC0202", "x": 2, "y": 0.5}, {"s": "SCC0205", "x": 6, "y": 1.5}, {"s": "SCC0215", "x": 3, "y": 2.5}, {"s": "SCC0216", "x": 3, "y": 1.5}, {"s": "SCC0217", "x": 7, "y": 1.5}, {"s": "SCC0218", "x": 4, "y": 2.0}, {"s": "SCC0221", "x": 1, "y": 1.0}, {"s": "SCC0230", "x": 6, "y": 0.5}, {"s": "SCC0240", "x": 5, "y": 2.0}, {"s": "SCC0250", "x": 7, "y": 0.5}, {"s": "SCC0291", "x": 9, "y": 0.0}, {"s": "SCC0292", "x": 10, "y": 0.0}, {"s": "SMA0353", "x": 1, "y": 0.0}, {"s": "SMA0354", "x": 2, "y": -0.5}, {"s": "SMA0355", "x": 3, "y": -2.5}, {"s": "SME0104", "x": 5, "y": 0.0}, {"s": "SME0110", "x": 6, "y": -0.5}, {"s": "SME0121", "x": 5, "y": 1.0}, {"s": "SME0123", "x": 4, "y": 1.0}, {"s": "SME0142", "x": 4, "y": 0.0}, {"s": "SSC0103", "x": 3, "y": 0.5}, {"s": "SSC0117", "x": 1, "y": -1.0}, {"s": "SSC0118", "x": 2, "y": -1.5}, {"s": "SSC0124", "x": 4, "y": -2.0}, {"s": "SSC0130", "x": 5, "y": -2.0}, {"s": "SSC0140", "x": 4, "y": -1.0}, {"s": "SSC0142", "x": 5, "y": -1.0}, {"s": "SSC0900", "x": 7, "y": -0.5}, {"s": "SSC0902", "x": 3, "y": -1.5}, {"s": "SSC0903", "x": 6, "y": -1.5}, {"s": "SSC0904", "x": 7, "y": -1.5}, {"s": "SSC0960", "x": 3, "y": -0.5}], "arestas": [["SCC0221", "SCC0201", false], ["SMA0353", "SMA0354", false], ["SMA0353", "SME0104", false], ["SSC0117", "SSC0118", false], ["SCC0201", "SCC0205", false], ["SCC0201", "SCC0215", false], ["SCC0201", "SCC0230", false], ["SCC0202", "SCC0215", false], ["SCC0202", "SCC0216", false], ["SCC0202", "SSC0103", false], ["SCC0202", "SSC0140", false], ["SCC0202", "SSC0960", false], ["SMA0354", "SMA0355", false], ["SMA0354", "SME0123", false], ["SSC0118", "SSC0902", false], ["SCC0215", "SCC0240", false], ["SCC0216", "SCC0218", false], ["SSC0103", "SCC0250", false], ["SSC0103", "SSC0124", false], ["SSC0902", "SSC0140", false], ["SSC0902", "SSC0903", false], ["SME0123", "SME0121", false], ["SME0142", "SME0104", false], ["SSC0124", "SSC0130", false], ["SSC0140", "SSC0142", false], ["SSC0140", "SSC0903", false], ["SSC0140", "SSC0904", false], ["SME0104", "SME0110", false], ["SSC0142", "SSC0900", false], ["SSC0142", "SSC0904", false], ["SCC0205", "SCC0217", false], ["SCC0291", "SCC0292", true]], "nomes": {"SCC0200": "Informação Profissional e Tutoria Acadêmica em Ciências da Computação", "SCC0221": "Introdução à Ciência de Computação I", "SCC0222": "Laboratório de Introdução à Ciência de Computação I", "SMA0300": "Geometria Analítica", "SMA0353": "Cálculo I", "SSC0104": "Evolução Histórica da Computação e Aplicações", "SSC0109": "Prática em Lógica Digital", "SSC0117": "Introdução à Lógica Digital", "SSC0180": "Eletrônica para Computação", "SCC0201": "Introdução à Ciência de Computação II", "SCC0202": "Algoritmos e Estruturas de Dados I", "SMA0180": "Matemática Discreta I", "SMA0354": "Cálculo II", "SSC0108": "Prática em Sistemas Digitais", "SSC0118": "Sistemas Digitais", "SCC0215": "Organização de Arquivos", "SCC0216": "Modelagem Computacional em Grafos", "SMA0355": "Cálculo III", "SSC0103": "Programação Orientada a Objetos", "SSC0902": "Organização e Arquitetura de Computadores", "SSC0960": "Programação Funcional", "SCC0213": "Metodologia de Pesquisa em Computação", "SCC0218": "Algoritmos Avançados e Aplicações", "SME0123": "Estatística", "SME0142": "Álgebra Linear e Aplicações", "SSC0124": "Análise e Projeto Orientados a Objetos", "SSC0140": "Sistemas Operacionais I", "SCC0219": "Introdução ao Desenvolvimento Web", "SCC0240": "Bases de Dados", "SME0104": "Cálculo Numérico", "SME0121": "Processos Estocásticos", "SSC0130": "Engenharia de Software", "SSC0142": "Redes de Computadores", "SCC0205": "Teoria da Computação e Linguagens Formais", "SCC0207": "Computadores e Sociedade I", "SCC0230": "Inteligência Artificial", "SME0110": "Programação Matemática", "SSC0903": "Computação de Alto Desempenho", "SCC0217": "Linguagens de Programação e Compiladores", "SCC0250": "Computação Gráfica", "SSC0120": "Sistemas de Informação", "SSC0900": "Engenharia de Segurança", "SSC0904": "Sistemas Computacionais Distribuídos", "SCC0291": "Estágio Supervisionado I", "SCC0292": "Estágio Supervisionado II"}, "sem": {"SCC0200": 1, "SCC0221": 1, "SCC0222": 1, "SMA0300": 1, "SMA0353": 1, "SSC0104": 1, "SSC0109": 1, "SSC0117": 1, "SSC0180": 1, "SCC0201": 2, "SCC0202": 2, "SMA0180": 2, "SMA0354": 2, "SSC0108": 2, "SSC0118": 2, "SCC0215": 3, "SCC0216": 3, "SMA0355": 3, "SSC0103": 3, "SSC0902": 3, "SSC0960": 3, "SCC0213": 4, "SCC0218": 4, "SME0123": 4, "SME0142": 4, "SSC0124": 4, "SSC0140": 4, "SCC0219": 5, "SCC0240": 5, "SME0104": 5, "SME0121": 5, "SSC0130": 5, "SSC0142": 5, "SCC0205": 6, "SCC0207": 6, "SCC0230": 6, "SME0110": 6, "SSC0903": 6, "SCC0217": 7, "SCC0250": 7, "SSC0120": 7, "SSC0900": 7, "SSC0904": 7, "SCC0291": 9, "SCC0292": 10}, "cen": {"anual|forte": {"impacto": [{"s": "SCC0202", "e": 13, "a": 0}, {"s": "SSC0117", "e": 7, "a": 0}, {"s": "SSC0118", "e": 6, "a": 0}, {"s": "SSC0902", "e": 5, "a": 0}, {"s": "SMA0353", "e": 4, "a": 0}, {"s": "SSC0140", "e": 4, "a": 0}, {"s": "SCC0221", "e": 3, "a": 0}, {"s": "SMA0354", "e": 3, "a": 0}, {"s": "SCC0201", "e": 2, "a": 0}, {"s": "SSC0103", "e": 2, "a": 0}, {"s": "SME0142", "e": 2, "a": 0}, {"s": "SSC0142", "e": 2, "a": 0}, {"s": "SCC0291", "e": 1, "a": 1}, {"s": "SCC0215", "e": 1, "a": 0}, {"s": "SCC0216", "e": 1, "a": 0}, {"s": "SME0123", "e": 1, "a": 0}, {"s": "SSC0124", "e": 1, "a": 0}, {"s": "SME0104", "e": 1, "a": 0}, {"s": "SCC0205", "e": 1, "a": 0}, {"s": "SCC0292", "e": 0, "a": 1}], "cascata": {"SCC0202": {"SCC0202": 4, "SCC0215": 5, "SCC0216": 5, "SSC0103": 5, "SSC0960": 5, "SCC0218": 6, "SSC0124": 6, "SSC0140": 6, "SCC0240": 7, "SSC0130": 7, "SSC0142": 7, "SSC0903": 8, "SSC0900": 9, "SSC0904": 9}, "SSC0117": {"SSC0117": 3, "SSC0118": 4, "SSC0902": 5, "SSC0140": 6, "SSC0142": 7, "SSC0903": 8, "SSC0900": 9, "SSC0904": 9}, "SSC0118": {"SSC0118": 4, "SSC0902": 5, "SSC0140": 6, "SSC0142": 7, "SSC0903": 8, "SSC0900": 9, "SSC0904": 9}, "SSC0902": {"SSC0902": 5, "SSC0140": 6, "SSC0142": 7, "SSC0903": 8, "SSC0900": 9, "SSC0904": 9}, "SMA0353": {"SMA0353": 3, "SMA0354": 4, "SMA0355": 5, "SME0123": 6, "SME0121": 7}, "SSC0140": {"SSC0140": 6, "SSC0142": 7, "SSC0903": 8, "SSC0900": 9, "SSC0904": 9}, "SCC0221": {"SCC0221": 3, "SCC0201": 4, "SCC0215": 5, "SCC0240": 7}, "SMA0354": {"SMA0354": 4, "SMA0355": 5, "SME0123": 6, "SME0121": 7}, "SCC0201": {"SCC0201": 4, "SCC0215": 5, "SCC0240": 7}, "SSC0103": {"SSC0103": 5, "SSC0124": 6, "SSC0130": 7}, "SME0142": {"SME0142": 6, "SME0104": 7, "SME0110": 8}, "SSC0142": {"SSC0142": 7, "SSC0900": 9, "SSC0904": 9}, "SCC0291": {"SCC0291": 10, "SCC0292": 11}, "SCC0215": {"SCC0215": 5, "SCC0240": 7}, "SCC0216": {"SCC0216": 5, "SCC0218": 6}, "SME0123": {"SME0123": 6, "SME0121": 7}, "SSC0124": {"SSC0124": 6, "SSC0130": 7}, "SME0104": {"SME0104": 7, "SME0110": 8}, "SCC0205": {"SCC0205": 8, "SCC0217": 9}, "SCC0292": {"SCC0292": 11}}, "n": 45, "adiam": 19, "atrasam": 2}, "anual|branda": {"impacto": [{"s": "SCC0291", "e": 1, "a": 1}, {"s": "SCC0292", "e": 0, "a": 1}], "cascata": {"SCC0291": {"SCC0291": 10, "SCC0292": 11}, "SCC0292": {"SCC0292": 11}}, "n": 45, "adiam": 1, "atrasam": 2}, "semestral|forte": {"impacto": [{"s": "SCC0202", "e": 7, "a": 0}, {"s": "SSC0117", "e": 4, "a": 0}, {"s": "SSC0118", "e": 3, "a": 0}, {"s": "SCC0221", "e": 2, "a": 0}, {"s": "SMA0353", "e": 2, "a": 0}, {"s": "SSC0103", "e": 2, "a": 0}, {"s": "SSC0902", "e": 2, "a": 0}, {"s": "SME0142", "e": 2, "a": 0}, {"s": "SCC0291", "e": 1, "a": 1}, {"s": "SCC0201", "e": 1, "a": 0}, {"s": "SMA0354", "e": 1, "a": 0}, {"s": "SCC0216", "e": 1, "a": 0}, {"s": "SME0123", "e": 1, "a": 0}, {"s": "SSC0124", "e": 1, "a": 0}, {"s": "SSC0140", "e": 1, "a": 0}, {"s": "SME0104", "e": 1, "a": 0}, {"s": "SCC0205", "e": 1, "a": 0}, {"s": "SCC0292", "e": 0, "a": 1}], "cascata": {"SCC0202": {"SCC0202": 3, "SCC0215": 4, "SCC0216": 4, "SSC0103": 4, "SSC0960": 4, "SCC0218": 5, "SSC0124": 5, "SSC0130": 6}, "SSC0117": {"SSC0117": 2, "SSC0118": 3, "SSC0902": 4, "SSC0140": 5, "SSC0142": 6}, "SSC0118": {"SSC0118": 3, "SSC0902": 4, "SSC0140": 5, "SSC0142": 6}, "SCC0221": {"SCC0221": 2, "SCC0201": 3, "SCC0215": 4}, "SMA0353": {"SMA0353": 2, "SMA0354": 3, "SMA0355": 4}, "SSC0103": {"SSC0103": 4, "SSC0124": 5, "SSC0130": 6}, "SSC0902": {"SSC0902": 4, "SSC0140": 5, "SSC0142": 6}, "SME0142": {"SME0142": 5, "SME0104": 6, "SME0110": 7}, "SCC0291": {"SCC0291": 10, "SCC0292": 11}, "SCC0201": {"SCC0201": 3, "SCC0215": 4}, "SMA0354": {"SMA0354": 3, "SMA0355": 4}, "SCC0216": {"SCC0216": 4, "SCC0218": 5}, "SME0123": {"SME0123": 5, "SME0121": 6}, "SSC0124": {"SSC0124": 5, "SSC0130": 6}, "SSC0140": {"SSC0140": 5, "SSC0142": 6}, "SME0104": {"SME0104": 6, "SME0110": 7}, "SCC0205": {"SCC0205": 7, "SCC0217": 8}, "SCC0292": {"SCC0292": 11}}, "n": 45, "adiam": 17, "atrasam": 2}, "semestral|branda": {"impacto": [{"s": "SCC0291", "e": 1, "a": 1}, {"s": "SCC0292", "e": 0, "a": 1}], "cascata": {"SCC0291": {"SCC0291": 10, "SCC0292": 11}, "SCC0292": {"SCC0292": 11}}, "n": 45, "adiam": 1, "atrasam": 2}}}, "55090-0": {"nome": "Bach. Ciência de Dados", "alunos": 20, "maxsem": 8, "nos": [{"s": "SCC0204", "x": 3, "y": 1.5}, {"s": "SCC0221", "x": 1, "y": 0.5}, {"s": "SCC0223", "x": 2, "y": 1.5}, {"s": "SCC0224", "x": 3, "y": 0.5}, {"s": "SCC0230", "x": 4, "y": 1.0}, {"s": "SCC0240", "x": 5, "y": 1.5}, {"s": "SCC0252", "x": 6, "y": 1.5}, {"s": "SCC0270", "x": 5, "y": 0.5}, {"s": "SCC0276", "x": 5, "y": -0.5}, {"s": "SCC0291", "x": 8, "y": 0.0}, {"s": "SCC0633", "x": 7, "y": 1.0}, {"s": "SCC0802", "x": 7, "y": -1.0}, {"s": "SMA0353", "x": 1, "y": -0.5}, {"s": "SMA0354", "x": 2, "y": -0.5}, {"s": "SMA0355", "x": 3, "y": -0.5}, {"s": "SME0142", "x": 2, "y": 0.5}, {"s": "SME0212", "x": 4, "y": 0.0}, {"s": "SME0220", "x": 2, "y": -1.5}, {"s": "SME0221", "x": 3, "y": -1.5}, {"s": "SME0808", "x": 6, "y": -1.5}, {"s": "SME0820", "x": 4, "y": -1.0}, {"s": "SME0822", "x": 6, "y": -0.5}, {"s": "SME0852", "x": 5, "y": -1.5}, {"s": "SME0878", "x": 7, "y": 0.0}, {"s": "SSC0957", "x": 6, "y": 0.5}], "arestas": [["SCC0221", "SCC0223", false], ["SCC0221", "SME0212", false], ["SCC0221", "SME0878", true], ["SMA0353", "SMA0354", false], ["SMA0353", "SME0220", false], ["SCC0223", "SCC0204", false], ["SCC0223", "SCC0224", false], ["SCC0223", "SCC0230", false], ["SCC0223", "SCC0240", false], ["SMA0354", "SMA0355", false], ["SMA0354", "SME0212", false], ["SME0142", "SME0212", false], ["SME0220", "SME0221", false], ["SCC0204", "SCC0252", false], ["SME0221", "SME0808", true], ["SME0221", "SME0820", true], ["SME0221", "SME0822", true], ["SCC0230", "SCC0270", false], ["SCC0230", "SCC0276", false], ["SCC0230", "SCC0633", false], ["SME0820", "SCC0802", false], ["SME0820", "SME0852", false], ["SME0820", "SME0878", true], ["SME0820", "SSC0957", false], ["SME0822", "SME0878", true]], "nomes": {"5500004": "Fundamentos em Ciências de Dados", "5500005": "Informação Profissional em Ciência de Dados", "SCC0221": "Introdução à Ciência de Computação I", "SCC0222": "Laboratório de Introdução à Ciência de Computação I", "SMA0353": "Cálculo I", "SSC0955": "Introdução a Sistemas Computacionais", "SCC0223": "Estruturas de dados I", "SMA0354": "Cálculo II", "SME0142": "Álgebra Linear e Aplicações", "SME0220": "Introdução à Teoria das Probabilidades", "SCC0204": "Programação Orientada a Objetos", "SCC0224": "Estruturas de dados II", "SMA0355": "Cálculo III", "SME0221": "Introdução à Inferência Estatística", "SCC0230": "Inteligência Artificial", "SMA0180": "Matemática Discreta I", "SME0212": "Otimização Não Linear", "SME0820": "Modelos de Regressão e Aprendizado Supervisionado I", "SCC0240": "Bases de Dados", "SCC0270": "Redes Neurais e Aprendizado Profundo", "SCC0276": "Aprendizado de Máquina", "SME0852": "Prática em Ciência de Dados I", "SCC0252": "Visualização Computacional", "SME0808": "Séries Temporais e Aprendizado Dinâmico", "SME0822": "Análise Multivariada e Aprendizado Não Supervisionado", "SSC0957": "Prática em Ciência de Dados II", "SCC0633": "Processamento de Linguagem Natural", "SCC0802": "Prática em Ciência de Dados III", "SME0878": "Mineração Estatística de Dados", "SCC0291": "Estágio Supervisionado I"}, "sem": {"5500004": 1, "5500005": 1, "SCC0221": 1, "SCC0222": 1, "SMA0353": 1, "SSC0955": 1, "SCC0223": 2, "SMA0354": 2, "SME0142": 2, "SME0220": 2, "SCC0204": 3, "SCC0224": 3, "SMA0355": 3, "SME0221": 3, "SCC0230": 4, "SMA0180": 4, "SME0212": 4, "SME0820": 4, "SCC0240": 5, "SCC0270": 5, "SCC0276": 5, "SME0852": 5, "SCC0252": 6, "SME0808": 6, "SME0822": 6, "SSC0957": 6, "SCC0633": 7, "SCC0802": 7, "SME0878": 7, "SCC0291": 8}, "cen": {"anual|forte": {"impacto": [{"s": "SMA0353", "e": 8, "a": 0}, {"s": "SCC0221", "e": 6, "a": 0}, {"s": "SCC0223", "e": 5, "a": 0}, {"s": "SME0220", "e": 4, "a": 0}, {"s": "SME0221", "e": 3, "a": 0}, {"s": "SMA0354", "e": 2, "a": 0}, {"s": "SCC0230", "e": 2, "a": 0}, {"s": "SME0820", "e": 2, "a": 0}, {"s": "SME0822", "e": 1, "a": 1}, {"s": "SME0142", "e": 1, "a": 0}, {"s": "SCC0633", "e": 0, "a": 1}, {"s": "SCC0802", "e": 0, "a": 1}, {"s": "SME0878", "e": 0, "a": 1}, {"s": "SCC0291", "e": 0, "a": 1}], "cascata": {"SMA0353": {"SMA0353": 3, "SMA0354": 4, "SME0220": 4, "SMA0355": 5, "SME0221": 5, "SME0212": 6, "SME0820": 6, "SME0852": 7, "SSC0957": 8}, "SCC0221": {"SCC0221": 3, "SCC0223": 4, "SCC0204": 5, "SCC0224": 5, "SCC0230": 6, "SCC0270": 7, "SCC0276": 7}, "SCC0223": {"SCC0223": 4, "SCC0204": 5, "SCC0224": 5, "SCC0230": 6, "SCC0270": 7, "SCC0276": 7}, "SME0220": {"SME0220": 4, "SME0221": 5, "SME0820": 6, "SME0852": 7, "SSC0957": 8}, "SME0221": {"SME0221": 5, "SME0820": 6, "SME0852": 7, "SSC0957": 8}, "SMA0354": {"SMA0354": 4, "SMA0355": 5, "SME0212": 6}, "SCC0230": {"SCC0230": 6, "SCC0270": 7, "SCC0276": 7}, "SME0820": {"SME0820": 6, "SME0852": 7, "SSC0957": 8}, "SME0822": {"SME0822": 8, "SME0878": 9}, "SME0142": {"SME0142": 4, "SME0212": 6}, "SCC0633": {"SCC0633": 9}, "SCC0802": {"SCC0802": 9}, "SME0878": {"SME0878": 9}, "SCC0291": {"SCC0291": 9}}, "n": 30, "adiam": 10, "atrasam": 5}, "anual|branda": {"impacto": [{"s": "SME0822", "e": 1, "a": 1}, {"s": "SME0221", "e": 1, "a": 0}, {"s": "SCC0633", "e": 0, "a": 1}, {"s": "SCC0802", "e": 0, "a": 1}, {"s": "SME0878", "e": 0, "a": 1}, {"s": "SCC0291", "e": 0, "a": 1}], "cascata": {"SME0822": {"SME0822": 8, "SME0878": 9}, "SME0221": {"SME0221": 5, "SME0820": 6}, "SCC0633": {"SCC0633": 9}, "SCC0802": {"SCC0802": 9}, "SME0878": {"SME0878": 9}, "SCC0291": {"SCC0291": 9}}, "n": 30, "adiam": 2, "atrasam": 5}, "semestral|forte": {"impacto": [{"s": "SMA0353", "e": 6, "a": 0}, {"s": "SCC0221", "e": 3, "a": 0}, {"s": "SME0220", "e": 3, "a": 0}, {"s": "SCC0223", "e": 2, "a": 0}, {"s": "SME0221", "e": 2, "a": 0}, {"s": "SCC0230", "e": 2, "a": 0}, {"s": "SMA0354", "e": 1, "a": 0}, {"s": "SME0820", "e": 1, "a": 0}, {"s": "SME0822", "e": 1, "a": 0}, {"s": "SCC0291", "e": 0, "a": 1}], "cascata": {"SMA0353": {"SMA0353": 2, "SMA0354": 3, "SME0220": 3, "SMA0355": 4, "SME0221": 4, "SME0820": 5, "SME0852": 6}, "SCC0221": {"SCC0221": 2, "SCC0223": 3, "SCC0204": 4, "SCC0224": 4}, "SME0220": {"SME0220": 3, "SME0221": 4, "SME0820": 5, "SME0852": 6}, "SCC0223": {"SCC0223": 3, "SCC0204": 4, "SCC0224": 4}, "SME0221": {"SME0221": 4, "SME0820": 5, "SME0852": 6}, "SCC0230": {"SCC0230": 5, "SCC0270": 6, "SCC0276": 6}, "SMA0354": {"SMA0354": 3, "SMA0355": 4}, "SME0820": {"SME0820": 5, "SME0852": 6}, "SME0822": {"SME0822": 7, "SME0878": 8}, "SCC0291": {"SCC0291": 9}}, "n": 30, "adiam": 9, "atrasam": 1}, "semestral|branda": {"impacto": [{"s": "SME0221", "e": 1, "a": 0}, {"s": "SME0822", "e": 1, "a": 0}, {"s": "SCC0291", "e": 0, "a": 1}], "cascata": {"SME0221": {"SME0221": 4, "SME0820": 5}, "SME0822": {"SME0822": 7, "SME0878": 8}, "SCC0291": {"SCC0291": 9}}, "n": 30, "adiam": 2, "atrasam": 1}}}, "55051-4": {"nome": "Bach. Sistemas de Informação", "alunos": 3, "maxsem": 8, "nos": [{"s": "SCC0502", "x": 2, "y": 1.0}, {"s": "SCC0503", "x": 3, "y": 3.0}, {"s": "SCC0504", "x": 3, "y": 0.0}, {"s": "SCC0505", "x": 4, "y": 1.5}, {"s": "SCC0530", "x": 5, "y": 2.0}, {"s": "SCC0540", "x": 4, "y": 2.5}, {"s": "SCC0541", "x": 5, "y": 1.0}, {"s": "SCC0560", "x": 4, "y": -1.5}, {"s": "SCC0580", "x": 6, "y": -1.0}, {"s": "SEP0172", "x": 6, "y": -2.0}, {"s": "SEP0301", "x": 6, "y": -3.0}, {"s": "SMA0501", "x": 2, "y": 0.0}, {"s": "SME0500", "x": 3, "y": 1.0}, {"s": "SME0510", "x": 4, "y": -0.5}, {"s": "SME0520", "x": 3, "y": -3.0}, {"s": "SSC0501", "x": 1, "y": 0.0}, {"s": "SSC0503", "x": 2, "y": 2.0}, {"s": "SSC0512", "x": 1, "y": -1.0}, {"s": "SSC0513", "x": 2, "y": -1.0}, {"s": "SSC0524", "x": 4, "y": 0.5}, {"s": "SSC0530", "x": 1, "y": 1.0}, {"s": "SSC0531", "x": 6, "y": 3.0}, {"s": "SSC0532", "x": 2, "y": -2.0}, {"s": "SSC0533", "x": 3, "y": -2.0}, {"s": "SSC0534", "x": 4, "y": -2.5}, {"s": "SSC0535", "x": 5, "y": -1.0}, {"s": "SSC0536", "x": 6, "y": 1.0}, {"s": "SSC0540", "x": 5, "y": -2.0}, {"s": "SSC0541", "x": 3, "y": -1.0}, {"s": "SSC0547", "x": 6, "y": 0.0}, {"s": "SSC0570", "x": 6, "y": 2.0}, {"s": "SSC0591", "x": 7, "y": 0.0}, {"s": "SSC0592", "x": 8, "y": 0.0}, {"s": "SSC0960", "x": 3, "y": 2.0}, {"s": "SSC0961", "x": 5, "y": 0.0}], "arestas": [["SSC0501", "SCC0502", false], ["SSC0501", "SCC0505", false], ["SSC0501", "SME0500", false], ["SSC0501", "SSC0503", false], ["SSC0512", "SSC0513", false], ["SSC0530", "SSC0531", false], ["SSC0530", "SSC0570", false], ["SCC0502", "SCC0503", false], ["SCC0502", "SCC0504", false], ["SCC0502", "SSC0541", false], ["SCC0502", "SSC0960", false], ["SMA0501", "SME0500", false], ["SMA0501", "SME0520", false], ["SSC0503", "SCC0530", false], ["SSC0513", "SSC0541", false], ["SSC0532", "SSC0533", false], ["SCC0503", "SCC0540", false], ["SCC0504", "SCC0560", false], ["SCC0504", "SSC0524", false], ["SCC0504", "SSC0534", false], ["SCC0504", "SSC0961", false], ["SME0500", "SME0510", false], ["SSC0533", "SCC0560", false], ["SSC0533", "SSC0534", false], ["SSC0541", "SSC0540", false], ["SCC0540", "SCC0541", false], ["SCC0560", "SCC0580", false], ["SSC0524", "SSC0536", false], ["SSC0534", "SEP0172", false], ["SSC0534", "SEP0301", false], ["SSC0534", "SSC0535", false], ["SSC0535", "SSC0536", false], ["SSC0540", "SSC0547", false], ["SSC0591", "SSC0592", false]], "nomes": {"SMA0505": "Matrizes, Vetores e Geometria Analítica", "SMA0508": "Matemática Discreta", "SSC0501": "Introdução à Ciência de Computação I", "SSC0502": "Laboratório de Introdução à Ciência de Computação I", "SSC0512": "Elementos de Lógica Digital", "SSC0530": "Introdução a Sistemas de Informação", "SSC0571": "Computação e Sociedade: Evolução Histórica e Aplicações", "SSC0599": "Informação Profissional em Sistemas de Informação", "SCC0502": "Algoritmos e Estruturas de Dados I", "SMA0501": "Cálculo I", "SSC0503": "Introdução à Ciência de Computação II", "SSC0513": "Organização e Arquitetura de Computadores", "SSC0532": "Metodologias de Desenvolvimento de Software", "SCC0503": "Algoritmos e Estruturas de Dados II", "SCC0504": "Programação Orientada a Objetos", "SME0500": "Cálculo Numérico", "SME0520": "Introdução à Estatística", "SSC0533": "Requisitos de Software", "SSC0541": "Sistemas Operacionais I", "SSC0960": "Programação Funcional", "SCC0505": "Introdução à Teoria da Computação", "SCC0540": "Bases de Dados", "SCC0560": "Interação Humano-Computador e Experiência do Usuário", "SEP0584": "Contabilidade para Computação", "SME0510": "Introdução à Pesquisa Operacional", "SSC0524": "Verificação, Validação e Teste de Software", "SSC0534": "Modelagem de Sistemas de Software", "SCC0530": "Inteligência Artificial", "SCC0541": "Laboratório de Bases de Dados", "SEP0324": "Modelagem de Sistemas", "SSC0535": "Gerência de Configuração, Manutenção e Evolução de Software", "SSC0540": "Redes de Computadores", "SSC0961": "Desenvolvimento Web e Mobile", "SCC0580": "Acessibilidade em Sistemas Computacionais", "SEP0172": "Prática e Gerenciamento de Projetos", "SEP0301": "Modelagem de sistemas de planejamento e controle da produção", "SEP0566": "Fundamentos de Economia", "SSC0531": "Gestão de Sistemas de Informação", "SSC0536": "Projeto e Desenvolvimento de Sistemas de Informação", "SSC0547": "Engenharia de Segurança", "SSC0570": "Empreendedorismo", "SSC0591": "Estágio Supervisionado I", "SSC0592": "Estágio Supervisionado II"}, "sem": {"SMA0505": 1, "SMA0508": 1, "SSC0501": 1, "SSC0502": 1, "SSC0512": 1, "SSC0530": 1, "SSC0571": 1, "SSC0599": 1, "SCC0502": 2, "SMA0501": 2, "SSC0503": 2, "SSC0513": 2, "SSC0532": 2, "SCC0503": 3, "SCC0504": 3, "SME0500": 3, "SME0520": 3, "SSC0533": 3, "SSC0541": 3, "SSC0960": 3, "SCC0505": 4, "SCC0540": 4, "SCC0560": 4, "SEP0584": 4, "SME0510": 4, "SSC0524": 4, "SSC0534": 4, "SCC0530": 5, "SCC0541": 5, "SEP0324": 5, "SSC0535": 5, "SSC0540": 5, "SSC0961": 5, "SCC0580": 6, "SEP0172": 6, "SEP0301": 6, "SEP0566": 6, "SSC0531": 6, "SSC0536": 6, "SSC0547": 6, "SSC0570": 6, "SSC0591": 7, "SSC0592": 8}, "cen": {"anual|forte": {"impacto": [{"s": "SSC0501", "e": 21, "a": 0}, {"s": "SCC0502", "e": 17, "a": 0}, {"s": "SCC0504", "e": 9, "a": 0}, {"s": "SSC0532", "e": 8, "a": 0}, {"s": "SSC0533", "e": 7, "a": 0}, {"s": "SSC0512", "e": 4, "a": 0}, {"s": "SSC0534", "e": 4, "a": 0}, {"s": "SMA0501", "e": 3, "a": 0}, {"s": "SSC0513", "e": 3, "a": 0}, {"s": "SCC0503", "e": 2, "a": 0}, {"s": "SSC0541", "e": 2, "a": 0}, {"s": "SSC0591", "e": 1, "a": 1}, {"s": "SME0500", "e": 1, "a": 0}, {"s": "SCC0540", "e": 1, "a": 0}, {"s": "SCC0560", "e": 1, "a": 0}, {"s": "SSC0524", "e": 1, "a": 0}, {"s": "SSC0535", "e": 1, "a": 0}, {"s": "SSC0540", "e": 1, "a": 0}, {"s": "SSC0592", "e": 0, "a": 1}], "cascata": {"SSC0501": {"SSC0501": 3, "SCC0502": 4, "SSC0503": 4, "SCC0503": 5, "SCC0504": 5, "SME0500": 5, "SSC0541": 5, "SSC0960": 5, "SCC0540": 6, "SCC0560": 6, "SME0510": 6, "SSC0524": 6, "SSC0534": 6, "SCC0541": 7, "SSC0535": 7, "SSC0540": 7, "SSC0961": 7, "SCC0580": 8, "SEP0172": 8, "SEP0301": 8, "SSC0536": 8, "SSC0547": 8}, "SCC0502": {"SCC0502": 4, "SCC0503": 5, "SCC0504": 5, "SSC0541": 5, "SSC0960": 5, "SCC0540": 6, "SCC0560": 6, "SSC0524": 6, "SSC0534": 6, "SCC0541": 7, "SSC0535": 7, "SSC0540": 7, "SSC0961": 7, "SCC0580": 8, "SEP0172": 8, "SEP0301": 8, "SSC0536": 8, "SSC0547": 8}, "SCC0504": {"SCC0504": 5, "SCC0560": 6, "SSC0524": 6, "SSC0534": 6, "SSC0535": 7, "SSC0961": 7, "SCC0580": 8, "SEP0172": 8, "SEP0301": 8, "SSC0536": 8}, "SSC0532": {"SSC0532": 4, "SSC0533": 5, "SCC0560": 6, "SSC0534": 6, "SSC0535": 7, "SCC0580": 8, "SEP0172": 8, "SEP0301": 8, "SSC0536": 8}, "SSC0533": {"SSC0533": 5, "SCC0560": 6, "SSC0534": 6, "SSC0535": 7, "SCC0580": 8, "SEP0172": 8, "SEP0301": 8, "SSC0536": 8}, "SSC0512": {"SSC0512": 3, "SSC0513": 4, "SSC0541": 5, "SSC0540": 7, "SSC0547": 8}, "SSC0534": {"SSC0534": 6, "SSC0535": 7, "SEP0172": 8, "SEP0301": 8, "SSC0536": 8}, "SMA0501": {"SMA0501": 4, "SME0500": 5, "SME0520": 5, "SME0510": 6}, "SSC0513": {"SSC0513": 4, "SSC0541": 5, "SSC0540": 7, "SSC0547": 8}, "SCC0503": {"SCC0503": 5, "SCC0540": 6, "SCC0541": 7}, "SSC0541": {"SSC0541": 5, "SSC0540": 7, "SSC0547": 8}, "SSC0591": {"SSC0591": 8, "SSC0592": 9}, "SME0500": {"SME0500": 5, "SME0510": 6}, "SCC0540": {"SCC0540": 6, "SCC0541": 7}, "SCC0560": {"SCC0560": 6, "SCC0580": 8}, "SSC0524": {"SSC0524": 6, "SSC0536": 8}, "SSC0535": {"SSC0535": 7, "SSC0536": 8}, "SSC0540": {"SSC0540": 7, "SSC0547": 8}, "SSC0592": {"SSC0592": 9}}, "n": 43, "adiam": 18, "atrasam": 2}, "anual|branda": {"impacto": [{"s": "SSC0592", "e": 0, "a": 1}], "cascata": {"SSC0592": {"SSC0592": 9}}, "n": 43, "adiam": 0, "atrasam": 1}, "semestral|forte": {"impacto": [{"s": "SSC0501", "e": 13, "a": 0}, {"s": "SCC0502", "e": 11, "a": 0}, {"s": "SSC0532", "e": 5, "a": 0}, {"s": "SCC0504", "e": 5, "a": 0}, {"s": "SSC0533", "e": 4, "a": 0}, {"s": "SMA0501", "e": 3, "a": 0}, {"s": "SSC0512", "e": 2, "a": 0}, {"s": "SCC0503", "e": 2, "a": 0}, {"s": "SSC0534", "e": 2, "a": 0}, {"s": "SSC0591", "e": 1, "a": 1}, {"s": "SSC0513", "e": 1, "a": 0}, {"s": "SME0500", "e": 1, "a": 0}, {"s": "SCC0540", "e": 1, "a": 0}, {"s": "SSC0535", "e": 1, "a": 0}, {"s": "SSC0540", "e": 1, "a": 0}, {"s": "SSC0592", "e": 0, "a": 1}], "cascata": {"SSC0501": {"SSC0501": 2, "SCC0502": 3, "SSC0503": 3, "SCC0503": 4, "SCC0504": 4, "SSC0541": 4, "SSC0960": 4, "SCC0540": 5, "SCC0560": 5, "SSC0524": 5, "SSC0534": 5, "SCC0541": 6, "SSC0535": 6, "SSC0536": 7}, "SCC0502": {"SCC0502": 3, "SCC0503": 4, "SCC0504": 4, "SSC0541": 4, "SSC0960": 4, "SCC0540": 5, "SCC0560": 5, "SSC0524": 5, "SSC0534": 5, "SCC0541": 6, "SSC0535": 6, "SSC0536": 7}, "SSC0532": {"SSC0532": 3, "SSC0533": 4, "SCC0560": 5, "SSC0534": 5, "SSC0535": 6, "SSC0536": 7}, "SCC0504": {"SCC0504": 4, "SCC0560": 5, "SSC0524": 5, "SSC0534": 5, "SSC0535": 6, "SSC0536": 7}, "SSC0533": {"SSC0533": 4, "SCC0560": 5, "SSC0534": 5, "SSC0535": 6, "SSC0536": 7}, "SMA0501": {"SMA0501": 3, "SME0500": 4, "SME0520": 4, "SME0510": 5}, "SSC0512": {"SSC0512": 2, "SSC0513": 3, "SSC0541": 4}, "SCC0503": {"SCC0503": 4, "SCC0540": 5, "SCC0541": 6}, "SSC0534": {"SSC0534": 5, "SSC0535": 6, "SSC0536": 7}, "SSC0591": {"SSC0591": 8, "SSC0592": 9}, "SSC0513": {"SSC0513": 3, "SSC0541": 4}, "SME0500": {"SME0500": 4, "SME0510": 5}, "SCC0540": {"SCC0540": 5, "SCC0541": 6}, "SSC0535": {"SSC0535": 6, "SSC0536": 7}, "SSC0540": {"SSC0540": 6, "SSC0547": 7}, "SSC0592": {"SSC0592": 9}}, "n": 43, "adiam": 15, "atrasam": 2}, "semestral|branda": {"impacto": [{"s": "SSC0592", "e": 0, "a": 1}], "cascata": {"SSC0592": {"SSC0592": 9}}, "n": 43, "adiam": 0, "atrasam": 1}}}, "97001-0": {"nome": "Engenharia de Computação", "alunos": 2, "maxsem": 9, "nos": [{"s": "1800122", "x": 9, "y": 0.5}, {"s": "7600006", "x": 2, "y": 2.0}, {"s": "SCC0604", "x": 4, "y": 0.0}, {"s": "SCC0605", "x": 7, "y": 3.0}, {"s": "SCC0606", "x": 3, "y": 3.0}, {"s": "SCC0607", "x": 4, "y": 3.0}, {"s": "SCC0630", "x": 7, "y": 1.0}, {"s": "SCC0640", "x": 6, "y": 3.0}, {"s": "SEL0602", "x": 3, "y": 0.0}, {"s": "SEL0604", "x": 4, "y": 1.0}, {"s": "SEL0606", "x": 4, "y": -2.0}, {"s": "SEL0607", "x": 4, "y": -1.0}, {"s": "SEL0608", "x": 4, "y": 2.0}, {"s": "SEL0609", "x": 5, "y": 1.5}, {"s": "SEL0610", "x": 6, "y": 2.0}, {"s": "SEL0611", "x": 5, "y": -0.5}, {"s": "SEL0612", "x": 5, "y": 2.5}, {"s": "SEL0613", "x": 6, "y": 1.0}, {"s": "SEL0614", "x": 6, "y": -3.0}, {"s": "SEL0615", "x": 5, "y": 0.5}, {"s": "SEL0616", "x": 7, "y": 0.0}, {"s": "SEL0617", "x": 7, "y": -2.0}, {"s": "SEL0618", "x": 7, "y": 2.0}, {"s": "SEL0619", "x": 8, "y": 0.0}, {"s": "SEL0620", "x": 8, "y": -1.0}, {"s": "SEL0621", "x": 8, "y": 1.0}, {"s": "SEL0628", "x": 3, "y": -3.0}, {"s": "SEL0637", "x": 2, "y": 0.0}, {"s": "SHS0619", "x": 3, "y": 2.0}, {"s": "SMA0304", "x": 2, "y": -2.0}, {"s": "SMA0353", "x": 1, "y": 0.5}, {"s": "SMA0354", "x": 2, "y": 1.0}, {"s": "SMA0355", "x": 3, "y": 1.0}, {"s": "SME0340", "x": 3, "y": -1.0}, {"s": "SME0602", "x": 3, "y": -2.0}, {"s": "SME0610", "x": 5, "y": -2.5}, {"s": "SSC0600", "x": 1, "y": -0.5}, {"s": "SSC0603", "x": 2, "y": -1.0}, {"s": "SSC0620", "x": 7, "y": -1.0}, {"s": "SSC0621", "x": 6, "y": 0.0}, {"s": "SSC0640", "x": 5, "y": -1.5}, {"s": "SSC0641", "x": 6, "y": -1.0}, {"s": "SSC0670", "x": 9, "y": -0.5}, {"s": "SSC0902", "x": 4, "y": -3.0}, {"s": "SSC0903", "x": 7, "y": -3.0}, {"s": "SSC0904", "x": 6, "y": -2.0}], "arestas": [["SMA0353", "SMA0354", false], ["SMA0353", "SMA0355", false], ["SSC0600", "SCC0604", false], ["SSC0600", "SCC0630", false], ["SSC0600", "SSC0603", false], ["7600006", "SHS0619", false], ["SEL0637", "SEL0602", false], ["SMA0304", "SME0602", false], ["SSC0603", "SSC0640", false], ["SCC0606", "SCC0605", false], ["SCC0606", "SCC0607", false], ["SEL0602", "SEL0604", false], ["SEL0602", "SEL0609", false], ["SEL0602", "SEL0616", false], ["SEL0628", "SEL0606", false], ["SEL0628", "SSC0902", false], ["SMA0355", "SEL0608", false], ["SME0340", "SEL0611", false], ["SME0602", "SME0610", false], ["SCC0604", "SSC0621", false], ["SCC0607", "SCC0640", false], ["SEL0604", "SEL0611", false], ["SEL0604", "SEL0615", false], ["SEL0604", "SEL0616", false], ["SEL0607", "SEL0617", false], ["SEL0608", "SEL0612", false], ["SSC0902", "SEL0614", false], ["SSC0902", "SSC0640", false], ["SSC0902", "SSC0903", false], ["SEL0609", "SEL0610", false], ["SEL0609", "SEL0613", false], ["SEL0611", "SEL0620", false], ["SSC0640", "SSC0641", false], ["SSC0640", "SSC0903", false], ["SSC0640", "SSC0904", false], ["SEL0613", "SEL0618", false], ["SSC0621", "SSC0620", true], ["SEL0616", "SEL0619", false], ["SEL0618", "SEL0621", false]], "nomes": {"7600005": "Física I", "7600109": "Laboratório de Física Geral I", "9700102": "Introdução à Engenharia de Computação", "IAU0126": "Humanidades e Ciências Sociais", "IAU0678": "Desenho", "SMA0300": "Geometria Analítica", "SMA0353": "Cálculo I", "SSC0600": "Introdução à Ciência de Computação I", "SSC0601": "Laboratório de Introdução à Ciência de Computação I", "7500012": "Química Geral", "7500017": "Química Geral Experimental", "7600006": "Física II", "7600110": "Laboratório de Física Geral II", "SEL0637": "Circuitos Elétricos Lineares em Corrente Contínua", "SET0623": "Mecânica dos Sólidos", "SMA0304": "Álgebra Linear", "SMA0354": "Cálculo II", "SSC0603": "Estrutura de Dados I", "SCC0606": "Estrutura de Dados II", "SEL0441": "Laboratório de Medidas e Circuitos Elétricos", "SEL0602": "Circuitos Elétricos", "SEL0628": "Sistemas Digitais", "SHS0619": "Fenômenos de Transporte", "SMA0355": "Cálculo III", "SME0340": "Equações Diferenciais Ordinárias", "SME0602": "Cálculo Numérico", "SCC0604": "Programação Orientada a Objetos", "SCC0607": "Estrutura de Dados III", "SEL0604": "Sinais e Sistemas", "SEL0606": "Laboratório de Sistemas Digitais", "SEL0607": "Fundamentos de Semicondutores", "SEL0608": "Eletromagnetismo", "SMA0356": "Cálculo IV", "SSC0902": "Organização e Arquitetura de Computadores", "SEL0609": "Circuitos Eletrônicos I", "SEL0611": "Fundamentos de Controle", "SEL0612": "Ondas Eletromagnéticas", "SEL0615": "Processamento Digital de Sinais", "SME0610": "Programação Matemática", "SME0620": "Estatística I", "SSC0640": "Sistemas Operacionais I", "SCC0640": "Bases de Dados", "SEL0610": "Laboratório de Circuitos Eletrônicos", "SEL0613": "Circuitos Eletrônicos II", "SEL0614": "Aplicação de Microprocessadores", "SEP0529": "Administração e Empreendedorismo", "SEP0587": "Princípios de Economia", "SSC0621": "Modelagem Orientada a Objetos", "SSC0641": "Redes de Computadores", "SSC0904": "Sistemas Computacionais Distribuídos", "SCC0605": "Teoria da Computação e Compiladores", "SCC0630": "Inteligência Artificial", "SEL0616": "Princípios de Comunicação", "SEL0617": "Fundamentos de Microeletrônica", "SEL0618": "Projetos de Circuitos Integrados Analógicos", "SHS0623": "Gestão Ambiental para Engenheiros", "SSC0620": "Engenharia de Software", "SSC0903": "Computação de Alto Desempenho", "SEL0619": "Comunicação Digital", "SEL0620": "Controle Digital", "SEL0621": "Projetos de Circuitos Integrados Digitais I", "1800122": "Estágio Supervisionado", "SSC0670": "Projeto de Formatura I"}, "sem": {"7600005": 1, "7600109": 1, "9700102": 1, "IAU0126": 1, "IAU0678": 1, "SMA0300": 1, "SMA0353": 1, "SSC0600": 1, "SSC0601": 1, "7500012": 2, "7500017": 2, "7600006": 2, "7600110": 2, "SEL0637": 2, "SET0623": 2, "SMA0304": 2, "SMA0354": 2, "SSC0603": 2, "SCC0606": 3, "SEL0441": 3, "SEL0602": 3, "SEL0628": 3, "SHS0619": 3, "SMA0355": 3, "SME0340": 3, "SME0602": 3, "SCC0604": 4, "SCC0607": 4, "SEL0604": 4, "SEL0606": 4, "SEL0607": 4, "SEL0608": 4, "SMA0356": 4, "SSC0902": 4, "SEL0609": 5, "SEL0611": 5, "SEL0612": 5, "SEL0615": 5, "SME0610": 5, "SME0620": 5, "SSC0640": 5, "SCC0640": 6, "SEL0610": 6, "SEL0613": 6, "SEL0614": 6, "SEP0529": 6, "SEP0587": 6, "SSC0621": 6, "SSC0641": 6, "SSC0904": 6, "SCC0605": 7, "SCC0630": 7, "SEL0616": 7, "SEL0617": 7, "SEL0618": 7, "SHS0623": 7, "SSC0620": 7, "SSC0903": 7, "SEL0619": 8, "SEL0620": 8, "SEL0621": 8, "1800122": 9, "SSC0670": 9}, "cen": {"anual|forte": {"impacto": [{"s": "SEL0637", "e": 9, "a": 1}, {"s": "SEL0602", "e": 8, "a": 1}, {"s": "SEL0628", "e": 7, "a": 0}, {"s": "SSC0902", "e": 5, "a": 0}, {"s": "SEL0609", "e": 4, "a": 1}, {"s": "SMA0353", "e": 4, "a": 0}, {"s": "SSC0640", "e": 3, "a": 0}, {"s": "SEL0613", "e": 2, "a": 1}, {"s": "SMA0304", "e": 2, "a": 0}, {"s": "SCC0606", "e": 2, "a": 0}, {"s": "SMA0355", "e": 2, "a": 0}, {"s": "SCC0604", "e": 2, "a": 0}, {"s": "SEL0604", "e": 2, "a": 0}, {"s": "SEL0616", "e": 1, "a": 1}, {"s": "SEL0618", "e": 1, "a": 1}, {"s": "SSC0600", "e": 1, "a": 0}, {"s": "7600006", "e": 1, "a": 0}, {"s": "SME0340", "e": 1, "a": 0}, {"s": "SME0602", "e": 1, "a": 0}, {"s": "SCC0607", "e": 1, "a": 0}, {"s": "SEL0608", "e": 1, "a": 0}, {"s": "SSC0621", "e": 1, "a": 0}, {"s": "SSC0670", "e": 0, "a": 2}, {"s": "SEL0619", "e": 0, "a": 1}, {"s": "SEL0620", "e": 0, "a": 1}, {"s": "SEL0621", "e": 0, "a": 1}, {"s": "1800122", "e": 0, "a": 1}], "cascata": {"SEL0637": {"SEL0637": 4, "SEL0602": 5, "SEL0604": 6, "SEL0609": 7, "SEL0611": 7, "SEL0615": 7, "SEL0610": 8, "SEL0613": 8, "SEL0618": 9, "SEL0621": 10}, "SEL0602": {"SEL0602": 5, "SEL0604": 6, "SEL0609": 7, "SEL0611": 7, "SEL0615": 7, "SEL0610": 8, "SEL0613": 8, "SEL0618": 9, "SEL0621": 10}, "SEL0628": {"SEL0628": 5, "SEL0606": 6, "SSC0902": 6, "SSC0640": 7, "SEL0614": 8, "SSC0641": 8, "SSC0904": 8, "SSC0903": 9}, "SSC0902": {"SSC0902": 6, "SSC0640": 7, "SEL0614": 8, "SSC0641": 8, "SSC0904": 8, "SSC0903": 9}, "SEL0609": {"SEL0609": 7, "SEL0610": 8, "SEL0613": 8, "SEL0618": 9, "SEL0621": 10}, "SMA0353": {"SMA0353": 3, "SMA0354": 4, "SMA0355": 5, "SEL0608": 6, "SEL0612": 7}, "SSC0640": {"SSC0640": 7, "SSC0641": 8, "SSC0904": 8, "SSC0903": 9}, "SEL0613": {"SEL0613": 8, "SEL0618": 9, "SEL0621": 10}, "SMA0304": {"SMA0304": 4, "SME0602": 5, "SME0610": 7}, "SCC0606": {"SCC0606": 5, "SCC0607": 6, "SCC0640": 8}, "SMA0355": {"SMA0355": 5, "SEL0608": 6, "SEL0612": 7}, "SCC0604": {"SCC0604": 6, "SSC0621": 8, "SSC0620": 9}, "SEL0604": {"SEL0604": 6, "SEL0611": 7, "SEL0615": 7}, "SEL0616": {"SEL0616": 9, "SEL0619": 10}, "SEL0618": {"SEL0618": 9, "SEL0621": 10}, "SSC0600": {"SSC0600": 3, "SSC0603": 4}, "7600006": {"7600006": 4, "SHS0619": 5}, "SME0340": {"SME0340": 5, "SEL0611": 7}, "SME0602": {"SME0602": 5, "SME0610": 7}, "SCC0607": {"SCC0607": 6, "SCC0640": 8}, "SEL0608": {"SEL0608": 6, "SEL0612": 7}, "SSC0621": {"SSC0621": 8, "SSC0620": 9}, "SSC0670": {"SSC0670": 11}, "SEL0619": {"SEL0619": 10}, "SEL0620": {"SEL0620": 10}, "SEL0621": {"SEL0621": 10}, "1800122": {"1800122": 10}}, "n": 63, "adiam": 22, "atrasam": 11}, "anual|branda": {"impacto": [{"s": "SSC0621", "e": 1, "a": 0}, {"s": "SSC0670", "e": 0, "a": 2}, {"s": "SEL0619", "e": 0, "a": 1}, {"s": "SEL0620", "e": 0, "a": 1}, {"s": "SEL0621", "e": 0, "a": 1}, {"s": "1800122", "e": 0, "a": 1}], "cascata": {"SSC0621": {"SSC0621": 8, "SSC0620": 9}, "SSC0670": {"SSC0670": 11}, "SEL0619": {"SEL0619": 10}, "SEL0620": {"SEL0620": 10}, "SEL0621": {"SEL0621": 10}, "1800122": {"1800122": 10}}, "n": 63, "adiam": 1, "atrasam": 5}, "semestral|forte": {"impacto": [{"s": "SEL0628", "e": 5, "a": 0}, {"s": "SEL0637", "e": 4, "a": 0}, {"s": "SEL0609", "e": 4, "a": 0}, {"s": "SEL0602", "e": 3, "a": 0}, {"s": "SSC0902", "e": 3, "a": 0}, {"s": "SMA0355", "e": 2, "a": 0}, {"s": "SEL0604", "e": 2, "a": 0}, {"s": "SSC0640", "e": 2, "a": 0}, {"s": "SEL0613", "e": 2, "a": 0}, {"s": "SMA0353", "e": 1, "a": 0}, {"s": "SSC0600", "e": 1, "a": 0}, {"s": "7600006", "e": 1, "a": 0}, {"s": "SMA0304", "e": 1, "a": 0}, {"s": "SCC0606", "e": 1, "a": 0}, {"s": "SEL0608", "e": 1, "a": 0}, {"s": "SSC0621", "e": 1, "a": 0}, {"s": "SEL0616", "e": 1, "a": 0}, {"s": "SEL0618", "e": 1, "a": 0}, {"s": "1800122", "e": 0, "a": 1}, {"s": "SSC0670", "e": 0, "a": 1}], "cascata": {"SEL0628": {"SEL0628": 4, "SEL0606": 5, "SSC0902": 5, "SSC0640": 6, "SSC0641": 7, "SSC0904": 7}, "SEL0637": {"SEL0637": 3, "SEL0602": 4, "SEL0604": 5, "SEL0611": 6, "SEL0615": 6}, "SEL0609": {"SEL0609": 6, "SEL0610": 7, "SEL0613": 7, "SEL0618": 8, "SEL0621": 9}, "SEL0602": {"SEL0602": 4, "SEL0604": 5, "SEL0611": 6, "SEL0615": 6}, "SSC0902": {"SSC0902": 5, "SSC0640": 6, "SSC0641": 7, "SSC0904": 7}, "SMA0355": {"SMA0355": 4, "SEL0608": 5, "SEL0612": 6}, "SEL0604": {"SEL0604": 5, "SEL0611": 6, "SEL0615": 6}, "SSC0640": {"SSC0640": 6, "SSC0641": 7, "SSC0904": 7}, "SEL0613": {"SEL0613": 7, "SEL0618": 8, "SEL0621": 9}, "SMA0353": {"SMA0353": 2, "SMA0354": 3}, "SSC0600": {"SSC0600": 2, "SSC0603": 3}, "7600006": {"7600006": 3, "SHS0619": 4}, "SMA0304": {"SMA0304": 3, "SME0602": 4}, "SCC0606": {"SCC0606": 4, "SCC0607": 5}, "SEL0608": {"SEL0608": 5, "SEL0612": 6}, "SSC0621": {"SSC0621": 7, "SSC0620": 8}, "SEL0616": {"SEL0616": 8, "SEL0619": 9}, "SEL0618": {"SEL0618": 8, "SEL0621": 9}, "1800122": {"1800122": 10}, "SSC0670": {"SSC0670": 10}}, "n": 63, "adiam": 18, "atrasam": 2}, "semestral|branda": {"impacto": [{"s": "SSC0621", "e": 1, "a": 0}, {"s": "1800122", "e": 0, "a": 1}, {"s": "SSC0670", "e": 0, "a": 1}], "cascata": {"SSC0621": {"SSC0621": 7, "SSC0620": 8}, "1800122": {"1800122": 10}, "SSC0670": {"SSC0670": 10}}, "n": 63, "adiam": 1, "atrasam": 2}}}}};
-const root = document.getElementById("q1_e4b35145");
-
-const COR = {tinta: "#0b0b0b", tinta2: "#52514e", muda: "#898781", grade: "#e1e0d9",
-             cinza: "#c3c2b7", barra: "#a9a8a0", cinzaClaro: "#e6e5df", azul: "#2a78d6",
-             vermelho: "#d03b3b", laranja: "#ec835a", fundo: "#fcfcfb"};
-const st = {curso: D.ordem[0], oferta: "anual", forte: "forte", sel: null};
-const $ = (s) => root.querySelector(s);
-const v1 = $(".v1"), v2 = $(".v2");
-const cfg = {displayModeBar: false, responsive: true};
-const fonte = {family: "Inter, Arial, sans-serif", size: 12, color: COR.tinta2};
-
-const curso = () => D.cursos[st.curso];
-const cenario = () => curso().cen[st.oferta + "|" + st.forte];
-const rotulo = (s) => `${s} · ${curso().nomes[s].slice(0, 28)} (${curso().sem[s]}º)`;
-let ordemV1 = [];   // siglas na ordem em que as barras foram desenhadas
-
-// ---------- controles (consultas dinâmicas) ----------
-const sel = $(".curso");
-D.ordem.forEach((k) => {
-  const o = document.createElement("option");
-  o.value = k;
-  o.textContent = D.cursos[k].nome;
-  sel.appendChild(o);
-});
-sel.addEventListener("change", () => { st.curso = sel.value; st.sel = null; tudo(); });
-root.querySelectorAll(".grp").forEach((g) => {
-  g.querySelectorAll("button").forEach((b) => b.addEventListener("click", () => {
-    st[g.dataset.k] = b.dataset.v;
-    tudo();
-  }));
-});
-function marcaBotoes() {
-  root.querySelectorAll(".grp").forEach((g) => g.querySelectorAll("button").forEach((b) =>
-    b.classList.toggle("on", st[g.dataset.k] === b.dataset.v)));
-}
-
-// ---------- visão 1: barras ordenadas ----------
-// seleção (clique): contorno grosso + rótulo em negrito com ▶
-// hover vindo da visão 2: a barra correspondente fica em foco e as outras esmaecem
-function larguras() {
-  return ordemV1.map((s) => (s === st.sel ? 2.5 : 0));
-}
-function opacidades(destaque) {
-  return ordemV1.map((s) => (!destaque || s === destaque ? 1 : 0.3));
-}
-function rotulosEixo() {
-  return ordemV1.map((s) => (s === st.sel ? `<b>▶ ${rotulo(s)}</b>` : rotulo(s)));
-}
-function desenhaV1() {
-  const imp = cenario().impacto;
-  if (!imp.some((r) => r.s === st.sel)) st.sel = imp.length ? imp[0].s : null;
-  const rev = imp.slice().reverse();   // plotly desenha de baixo para cima
-  ordemV1 = rev.map((r) => r.s);
-  const y = rev.map((r) => rotulo(r.s));
-  const xmax = Math.max(4, ...imp.map((r) => r.e));
-  const dica = rev.map((r) => [r.s, curso().nomes[r.s], r.e, r.a]);
-  const alvo = {   // faixa invisível: torna a linha toda clicável, mesmo com barra curta
-    type: "bar", orientation: "h", y, x: rev.map(() => xmax * 1.6), customdata: dica,
-    marker: {color: "rgba(0,0,0,0)"}, hovertemplate:
-      "<b>%{customdata[0]}</b> %{customdata[1]}<br>adia %{customdata[2]} disciplina(s)" +
-      "<br>formatura +%{customdata[3]} semestre(s)<br><i>clique para ver a cascata</i><extra></extra>"};
-  const barras = {
-    type: "bar", orientation: "h", y, x: rev.map((r) => r.e), customdata: dica,
-    hoverinfo: "skip", cliponaxis: false, textposition: "outside",
-    text: rev.map((r) => `${r.e}` +
-      (r.a ? `   formatura +${r.a}` : "")),
-    // quem atrasa a formatura ganha o texto em azul, além da barra azul
-    textfont: {size: 11, color: rev.map((r) => (r.a > 0 ? COR.azul : COR.tinta2))},
-    marker: {color: rev.map((r) => (r.a > 0 ? COR.azul : COR.barra)),
-             opacity: opacidades(), line: {color: COR.tinta, width: larguras()}}};
-  const layout = {
-    font: fonte, paper_bgcolor: COR.fundo, plot_bgcolor: COR.fundo, barmode: "overlay",
-    bargap: 0.28, height: Math.max(200, 70 + 22 * rev.length), showlegend: false,
-    margin: {l: 10, r: 10, t: 10, b: 45},
-    xaxis: {title: {text: "disciplinas adiadas"}, range: [0, xmax * 1.6], gridcolor: COR.grade,
-            zeroline: false, fixedrange: true},
-    yaxis: {automargin: true, tickfont: {size: 11}, fixedrange: true,
-            tickmode: "array", tickvals: y, ticktext: rotulosEixo()},
-    annotations: imp.length ? [] : [{text: "Nenhuma reprovação adia outra disciplina neste cenário",
-      xref: "paper", yref: "paper", x: 0.5, y: 0.5, showarrow: false, font: {size: 13}}]};
-  return Plotly.react(v1, [alvo, barras], layout, cfg);
-}
-
-// ---------- visão 2: nós e arestas em camadas ----------
-function desenhaV2() {
-  const c = curso(), cen = cenario();
-  const casc = st.sel ? cen.cascata[st.sel] : {};
-  const naCasc = (s) => s in casc;
-  const pos = Object.fromEntries(c.nos.map((n) => [n.s, n]));
-  const tracos = [];
-  // arestas: contexto (cinza) e cascata (escuras); contínua = requisito, pontilhada = fraco
-  for (const destaque of [false, true]) {
-    for (const forte of [true, false]) {
-      const xs = [], ys = [];
-      c.arestas.forEach(([p, q, f]) => {
-        if (f !== forte || !(p in pos) || !(q in pos)) return;
-        // na reprovação branda, requisito fraco não propaga a cascata
-        const ehCasc = naCasc(p) && naCasc(q) && (f || st.forte === "forte");
-        if (ehCasc !== destaque) return;
-        xs.push(pos[p].x, pos[q].x, null); ys.push(pos[p].y, pos[q].y, null);
-      });
-      tracos.push({type: "scatter", mode: "lines", x: xs, y: ys, hoverinfo: "skip",
-        line: {color: destaque ? COR.tinta2 : COR.grade, width: destaque ? 2 : 1,
-               dash: forte ? "solid" : "dot"}});
-    }
-  }
-  // nós em três grupos
-  const grupos = [
-    {lst: c.nos.filter((n) => !naCasc(n.s)), cor: COR.cinzaClaro, tam: 9, txt: (n) => n.s,
-     tf: {size: 9, color: COR.muda}},
-    {lst: c.nos.filter((n) => naCasc(n.s) && n.s !== st.sel), cor: COR.laranja, tam: 12,
-     txt: (n) => `<b>${n.s}</b>`, tf: {size: 11, color: COR.tinta}},
-    {lst: c.nos.filter((n) => n.s === st.sel), cor: COR.vermelho, tam: 17, forma: "diamond",
-     txt: (n) => `<b>${n.s}</b>`, tf: {size: 11, color: COR.tinta}}];
-  grupos.forEach((g) => tracos.push({
-    type: "scatter", mode: "markers+text", x: g.lst.map((n) => n.x), y: g.lst.map((n) => n.y),
-    // rótulos alternados (semestre ímpar em cima, par embaixo) para não colidirem
-    text: g.lst.map(g.txt), textposition: g.lst.map((n) => (n.x % 2 ? "top center" : "bottom center")),
-    textfont: g.tf, customdata: g.lst.map((n) => n.s),
-    marker: {size: g.tam, color: g.cor, symbol: g.forma || "circle", line: {color: g.cor === COR.cinzaClaro ? COR.cinza : COR.fundo, width: 1}},
-    hovertext: g.lst.map((n) => `<b>${n.s}</b> ${c.nomes[n.s]}<br>` + (
-      n.s === st.sel ? `reprovada no ${c.sem[n.s]}º → refaz no ${casc[n.s]}º`
-      : naCasc(n.s) ? `adiada: ${c.sem[n.s]}º → ${casc[n.s]}º`
-      : `semestre ideal: ${c.sem[n.s]}º`)), hoverinfo: "text"}));
-
-  const ys = c.nos.map((n) => n.y);
-  const cols = {};
-  c.nos.forEach((n) => { cols[n.x] = (cols[n.x] || 0) + 1; });
-  const layout = {
-    font: fonte, paper_bgcolor: COR.fundo, plot_bgcolor: COR.fundo, showlegend: false,
-    height: 130 + 62 * Math.max(...Object.values(cols)), margin: {l: 10, r: 10, t: 10, b: 45},
-    xaxis: {title: {text: "semestre ideal"}, dtick: 1, range: [0.2, c.maxsem + 1.0],
-            gridcolor: COR.grade, zeroline: false},
-    yaxis: {visible: false, range: [Math.min(...ys) - 0.8, Math.max(...ys) + 0.8]},
-    hovermode: "closest"};
-  // títulos fora do gráfico (HTML)
-  const r = cen.impacto.find((x) => x.s === st.sel);
-  $(".t2").innerHTML = st.sel
-    ? `2. Reprovar em ${st.sel} (${c.nomes[st.sel]})`
-    : "2. Por onde a cascata se propaga?";
-  $(".sub").textContent = r
-    ? `adia ${r.e} disciplina(s); formatura +${r.a} semestre(s)`
-    : "nenhuma reprovação com efeito neste cenário";
-  return Plotly.react(v2, tracos, layout, cfg);
-}
-
-function desenhaResumo() {
-  const c = curso(), cen = cenario();
-  $(".resumo").innerHTML = `<b>${c.nome}</b>: ${cen.n} obrigatórias · ` +
-    `${cen.adiam} adiam outra disciplina se o aluno reprovar · ${cen.atrasam} atrasam a formatura` +
-    (cen.atrasam ? ` <span style="color:${COR.azul}">(${cen.impacto.filter((r) => r.a > 0)
-      .map((r) => r.s).join(", ")})</span>` : "");
-}
-
-function tudo() {
-  marcaBotoes();
-  desenhaResumo();
-  return desenhaV1().then(desenhaV2);
-}
-
-// ---------- ligação entre as visões ----------
-function seleciona(s) {
-  if (!cenario().cascata[s]) return;
-  st.sel = s;
-  Plotly.restyle(v1, {"marker.line.width": [larguras()]}, [1]);
-  Plotly.relayout(v1, {"yaxis.ticktext": rotulosEixo()});
-  desenhaV2();
-}
-tudo().then(() => {
-  v1.on("plotly_click", (ev) => seleciona(ev.points[0].customdata[0]));
-  v2.on("plotly_click", (ev) => { const s = ev.points[0].customdata; if (s) seleciona(s); });
-  v2.on("plotly_hover", (ev) => {
-    const s = ev.points[0].customdata;
-    if (s && ordemV1.includes(s)) Plotly.restyle(v1, {"marker.opacity": [opacidades(s)]}, [1]);
-  });
-  v2.on("plotly_unhover", () => Plotly.restyle(v1, {"marker.opacity": [opacidades()]}, [1]));
-});
-
-
-})();
-</script>
+</head>
+<body>
+<main>
+  <h1>Grade do ICMC como rede</h1>
+  <p class="intro">A grade curricular dos cursos do ICMC-USP vista como uma rede de
+    pré-requisitos, com dados do JúpiterWeb coletados em 31/10/2026. Escolha uma
+    visualização abaixo ou no menu do topo.</p>
+  <p class="autores">SCC0252 Visualização Computacional (2026/2) · Letícia Raddatz Jönck,
+    Rodrigo Li e Victor Moreli dos Santos · Prof. Jean R. Ponciano</p>
+  <div id="lista-vis"></div>
+  <footer>
+    Código, dados e notebooks no
+    <a href="https://github.com/vmoreli/viscomp-projeto">repositório do GitHub</a>.
+  </footer>
+</main>
+</body>
+</html>
