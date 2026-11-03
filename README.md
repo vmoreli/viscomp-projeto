@@ -7,9 +7,9 @@ Projeto da disciplina SCC0252 (Visualização Computacional, ICMC-USP, 2026/2). 
 
 ## Links
 
-- Visualização interativa (Q1): https://vmoreli.github.io/viscomp-projeto/
-- Notebook da Q1 no nbviewer: https://nbviewer.org/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb
-- Notebook da Q1 no Colab: https://colab.research.google.com/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb
+- [Visualização interativa (Q1)](https://vmoreli.github.io/viscomp-projeto/)
+- [Notebook da Q1 no nbviewer](https://nbviewer.org/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb)
+- [Notebook da Q1 no Colab](https://colab.research.google.com/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb)
 
 ## Como rodar localmente
 
@@ -29,7 +29,7 @@ O `02_q1_atraso_reprovacao.ipynb` lê os CSVs de `dados/processado` e grava `q1_
 | `notebooks/02_q1_atraso_reprovacao.ipynb` | Q1: quanto uma reprovação em obrigatória atrasa o curso |
 | `dados/bruto/` | `disciplinas_brutas.json`: dados de cada disciplina como vieram do scraper |
 | `dados/processado/` | As 11 tabelas finais em CSV (descritas abaixo) |
-| `figuras/` | Figuras estáticas para o relatório |
+| `figuras/` | Figuras estáticas da Q1 para o relatório (`q1_bcc_aed1.png`, `q1_ecomp_sel0637.png`) |
 
 ## Tabelas de `dados/processado`
 
