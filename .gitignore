@@ -1,0 +1,13 @@
+# Cache das páginas do JúpiterWeb (~70 MB); é recriado pelo 01_criacao_dataset.ipynb
+dados/cache_html/
+
+# Zips de dados
+*.zip
+
+# Cópia gerada pelo notebook 02 (no repositório fica só o index.html)
+q1_interativo.html
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store

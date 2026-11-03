@@ -1,0 +1,13 @@
+# Análise e visualização (02_q1_atraso_reprovacao.ipynb)
+pandas
+networkx
+plotly
+jupyter
+
+# Coleta (01_criacao_dataset.ipynb)
+jupiterweb-scraper==1.1.2
+requests
+beautifulsoup4
+lxml
+tenacity
+tqdm

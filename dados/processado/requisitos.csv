@@ -1,0 +1,1202 @@
+requisito,disciplina,tipo_requisito,codcur,codhab,nome_curso,grupo_alternativa,n_grupos
+SLC0630,5500003,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0230,5500003,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0332,SCC0122,requisito fraco,76041,,Bacharelado em Física Computacional (integral),0,1
+SME0332,SCC0173,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,1
+SME0332,SCC0173,requisito,76062,,Bacharelado em Física Biomolecular (integral),0,1
+SME0230,SCC0202,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0201,SCC0202,indicação de conjunto,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0230,SCC0201,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0221,SCC0201,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0202,SCC0203,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0223,SCC0204,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0223,SCC0204,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0223,SCC0204,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0201,SCC0205,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0201,SCC0210,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0202,SCC0210,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0603,SCC0210,requisito,97001,0,Engenharia de Computação (integral),0,1
+SCC0606,SCC0210,requisito,97001,0,Engenharia de Computação (integral),0,1
+SCC0210,SCC0211,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0606,SCC0211,requisito,97001,0,Engenharia de Computação (integral),0,1
+SSC0603,SCC0211,requisito,97001,0,Engenharia de Computação (integral),0,1
+SCC0201,SCC0215,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0202,SCC0215,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0202,SCC0215,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0201,SCC0215,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0224,SCC0215,indicação de conjunto,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0223,SCC0215,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0202,SCC0216,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0202,SCC0216,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0603,SCC0216,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0216,SCC0218,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0224,SCC0218,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0224,SCC0218,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0205,SCC0217,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0224,SCC0219,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0223,SCC0219,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0606,SCC0219,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0201,SCC0220,indicação de conjunto,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0223,SCC0220,indicação de conjunto,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0230,SCC0223,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0221,SCC0223,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0223,SCC0224,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SCC0223,SCC0224,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0223,SCC0224,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0103,SCC0225,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0227,SCC0228,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0227,SCC0228,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0228,SCC0229,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0228,SCC0229,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0230,SCC0230,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0180,SCC0230,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0230,SCC0230,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SCC0201,SCC0230,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0223,SCC0230,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SSC0800,SCC0230,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SME0827,SCC0230,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0223,SCC0230,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0230,SCC0231,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0230,SCC0233,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0215,SCC0240,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0215,SCC0240,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0223,SCC0240,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SSC0800,SCC0240,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SME0827,SCC0240,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0223,SCC0240,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0332,SCC0240,requisito,76041,,Bacharelado em Física Computacional (integral),0,1
+SCC0240,SCC0241,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0240,SCC0241,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0240,SCC0243,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0240,SCC0243,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0230,SCC0244,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0240,SCC0244,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0240,SCC0244,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0230,SCC0244,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0540,SCC0244,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0530,SCC0244,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0240,SCC0244,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0230,SCC0244,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0230,SCC0244,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SCC0240,SCC0244,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SME0828,SCC0244,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0230,SCC0244,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0240,SCC0244,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0630,SCC0244,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0640,SCC0244,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0240,SCC0245,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0240,SCC0245,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0240,SCC0247,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0240,SCC0247,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0204,SCC0250,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SSC0103,SCC0250,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0204,SCC0250,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0202,SCC0251,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0201,SCC0251,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0827,SCC0251,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0223,SCC0251,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0224,SCC0251,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0240,SCC0252,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0250,SCC0252,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SSC0103,SCC0252,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0504,SCC0252,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0204,SCC0252,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SSC0800,SCC0252,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SME0827,SCC0252,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0204,SCC0252,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0604,SCC0252,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0103,SCC0260,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0201,SCC0261,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0223,SCC0261,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0230,SCC0270,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0230,SCC0270,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0530,SCC0270,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0230,SCC0270,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0230,SCC0270,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SME0829,SCC0270,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0230,SCC0270,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0630,SCC0270,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SCC0215,SCC0271,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0216,SCC0271,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0224,SCC0271,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0201,SCC0273,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0606,SCC0273,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0230,SCC0275,indicação de conjunto,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0530,SCC0275,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0230,SCC0275,indicação de conjunto,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0230,SCC0275,indicação de conjunto,55070,,Bacharelado em Estatística (noturno),0,1
+SCC0630,SCC0275,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0216,SCC0276,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0230,SCC0276,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0530,SCC0276,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0230,SCC0276,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0230,SCC0276,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SCC0230,SCC0276,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0630,SCC0276,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SCC0230,SCC0277,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0828,SCC0277,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SSC0130,SCC0280,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0202,SCC0282,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0502,SCC0282,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0223,SCC0282,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0216,SCC0283,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0180,SCC0283,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0502,SCC0283,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SMA0508,SCC0283,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0224,SCC0283,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0180,SCC0283,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0202,SCC0284,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0223,SCC0284,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0230,SCC0287,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0828,SCC0287,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0230,SCC0287,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0289,SCC0290,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0291,SCC0292,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0293,SCC0294,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0202,SCC0303,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0215,SCC0370,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0216,SCC0370,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0501,SCC0502,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0502,SCC0503,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0502,SCC0504,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0501,SCC0505,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0503,SCC0530,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0503,SCC0540,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0540,SCC0541,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0504,SCC0560,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0533,SCC0560,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0503,SCC0561,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0530,SCC0570,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0560,SCC0580,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0602,SCC0602,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SSC0602,SCC0602,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SSC0600,SCC0604,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0606,SCC0605,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0606,SCC0607,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0600,SCC0630,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0630,SCC0632,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SCC0230,SCC0633,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0230,SCC0633,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0630,SCC0633,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SCC0630,SCC0634,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0607,SCC0640,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0640,SCC0641,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0604,SCC0650,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0606,SCC0651,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0603,SCC0651,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0604,SCC0652,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0607,SCC0661,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0820,SCC0802,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0375,SMA0120,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0343,SMA0120,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0375,SMA0120,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0343,SMA0120,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SMA0120,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0343,SMA0120,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0343,SMA0120,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0142,SMA0120,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0306,SMA0125,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0308,SMA0125,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0240,SMA0136,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0240,SMA0136,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0380,SMA0169,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0240,SMA0169,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SMA0169,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0356,SMA0169,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0240,SMA0169,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0240,SMA0169,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0380,SMA0169,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0308,SMA0143,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0308,SMA0143,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0308,SMA0143,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0343,SMA0171,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0343,SMA0171,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0306,SMA0173,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0306,SMA0173,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SMA0173,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0332,SMA0175,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0375,SMA0175,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0300,SMA0175,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0332,SMA0175,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SMA0175,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SMA0175,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0332,SMA0175,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0171,SMA0192,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0175,SMA0192,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0305,SMA0193,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0375,SMA0193,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0305,SMA0193,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SMA0193,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0386,SMA0305,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0386,SMA0305,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0305,SMA0306,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0803,SMA0307,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0803,SMA0307,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0356,SMA0307,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0332,SMA0308,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0356,SMA0308,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0380,SMA0308,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0802,SMA0308,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0803,SMA0308,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0802,SMA0308,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0803,SMA0308,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0355,SMA0308,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0386,SMA0326,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0386,SMA0326,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0340,SMA0327,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SLC0606,SMA0327,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0605,SMA0327,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+7600108,SMA0328,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SLC0630,SMA0328,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0305,SMA0329,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SMA0329,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SMA0329,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0301,SMA0332,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0301,SMA0332,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0301,SMA0332,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0386,SMA0337,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0386,SMA0337,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0171,SMA0344,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0380,SMA0344,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0171,SMA0344,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0380,SMA0344,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0386,SMA0343,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SMA0343,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0356,SMA0343,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0386,SMA0343,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0354,SMA0343,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SLC0630,SMA0345,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0614,SMA0346,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0630,SMA0350,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SLC0630,SMA0350,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0353,SMA0354,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0353,SMA0354,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0353,SMA0354,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0353,SMA0354,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0353,SMA0354,requisito,75014,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+SMA0353,SMA0354,requisito,75015,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+SMA0353,SMA0354,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,1
+SMA0353,SMA0354,requisito,76041,,Bacharelado em Física Computacional (integral),0,1
+SMA0353,SMA0354,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,1
+SMA0353,SMA0354,requisito,76062,,Bacharelado em Física Biomolecular (integral),0,1
+SMA0353,SMA0354,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0354,SMA0355,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0354,SMA0355,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0354,SMA0355,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0354,SMA0355,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0354,SMA0355,requisito,75014,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+SMA0354,SMA0355,requisito,75015,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+SMA0354,SMA0355,requisito fraco,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,1
+SMA0354,SMA0355,requisito fraco,76041,,Bacharelado em Física Computacional (integral),0,1
+SMA0354,SMA0355,requisito fraco,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,1
+SMA0354,SMA0355,requisito fraco,76062,,Bacharelado em Física Biomolecular (integral),0,1
+SMA0353,SMA0355,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0380,SMA0357,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0380,SMA0357,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0301,SMA0356,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0355,SMA0356,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0353,SMA0356,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,1
+SMA0354,SMA0356,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,1
+SMA0353,SMA0356,requisito,76041,,Bacharelado em Física Computacional (integral),0,1
+SMA0354,SMA0356,requisito,76041,,Bacharelado em Física Computacional (integral),0,1
+SMA0353,SMA0356,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,1
+SMA0354,SMA0356,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,1
+SMA0353,SMA0356,requisito,76062,,Bacharelado em Física Biomolecular (integral),0,1
+SMA0354,SMA0356,requisito,76062,,Bacharelado em Física Biomolecular (integral),0,1
+SMA0370,SMA0365,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0614,SMA0365,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0614,SMA0367,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0371,SMA0366,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0614,SMA0366,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0365,SMA0370,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0614,SMA0370,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0366,SMA0371,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0614,SMA0371,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0300,SMA0375,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0171,SMA0378,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0375,SMA0378,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0240,SMA0379,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0301,SMA0380,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0356,SMA0380,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0301,SMA0380,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SLC0605,SMA0383,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0606,SMA0383,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0606,SMA0384,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0605,SMA0384,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0175,SMA0387,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0171,SMA0388,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0305,SMA0388,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0380,SMA0389,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SMA0390,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SMA0390,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0354,SMA0390,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0332,SMA0390,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0354,SMA0390,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0354,SMA0390,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0356,SMA0391,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0356,SMA0391,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0356,SMA0391,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0353,SMA0392,requisito fraco,18023,,Engenharia Civil (integral),0,1
+SMA0353,SMA0392,requisito fraco,18030,,Engenharia Ambiental (integral),0,1
+SMA0353,SMA0392,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0353,SMA0392,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0353,SMA0392,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMA0353,SMA0392,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SMA0353,SMA0392,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SMA0353,SMA0392,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0353,SMA0392,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SMA0301,SMA0392,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0301,SMA0392,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0353,SMA0392,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0301,SMA0392,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0353,SMA0392,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0353,SMA0392,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0353,SMA0392,requisito fraco,99001,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),0,1
+SMA0353,SMA0392,requisito fraco,99002,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),0,1
+SMA0355,SMA0393,requisito fraco,18023,,Engenharia Civil (integral),0,1
+SMA0355,SMA0393,requisito fraco,18030,,Engenharia Ambiental (integral),0,1
+SMA0355,SMA0393,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0355,SMA0393,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0355,SMA0393,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMA0355,SMA0393,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SMA0355,SMA0393,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SMA0355,SMA0393,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0355,SMA0393,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SMA0332,SMA0393,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SMA0393,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0355,SMA0393,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0332,SMA0393,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0355,SMA0393,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0355,SMA0393,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0355,SMA0393,requisito fraco,99001,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),0,1
+SMA0355,SMA0393,requisito fraco,99002,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),0,1
+SMA0300,SMA0394,requisito fraco,18023,,Engenharia Civil (integral),0,1
+SMA0300,SMA0394,requisito fraco,18030,,Engenharia Ambiental (integral),0,1
+SMA0300,SMA0394,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0300,SMA0394,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0300,SMA0394,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMA0300,SMA0394,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SMA0300,SMA0394,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SMA0300,SMA0394,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0300,SMA0394,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SMA0300,SMA0394,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0300,SMA0394,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0300,SMA0394,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0300,SMA0394,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0800,SMA0394,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0300,SMA0394,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SLC0606,SMA0398,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0350,SMA0404,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0801,SMA0803,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0801,SMA0803,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0801,SMA0802,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0801,SMA0802,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0104,SME0110,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0353,SME0104,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0142,SME0104,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0123,SME0121,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0220,SME0121,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0220,SME0121,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0620,SME0121,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0354,SME0123,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0216,SME0130,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SCC0216,SME0130,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SMA0353,SME0130,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0503,SME0130,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0224,SME0130,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0801,SME0130,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SSC0800,SME0130,requisito fraco,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0801,SME0130,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SSC0800,SME0130,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0620,SME0130,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0600,SME0130,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0240,SME0202,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0240,SME0202,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0230,SME0205,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0375,SME0205,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0375,SME0205,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0230,SME0205,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SME0205,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0230,SME0205,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0221,SME0205,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0142,SME0205,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0375,SME0211,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SME0211,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0142,SME0211,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0230,SME0206,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0240,SME0206,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0240,SME0206,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0230,SME0206,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SME0240,SME0206,indicação de conjunto,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0230,SME0206,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0240,SME0206,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0230,SME0206,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SEP0405,SME0213,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SME0211,SME0213,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0211,SME0213,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0354,SME0212,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SME0341,SME0212,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SCC0124,SME0212,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SME0230,SME0212,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0375,SME0212,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0332,SME0212,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0804,SME0212,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SSC0800,SME0212,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0802,SME0212,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0804,SME0212,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0802,SME0212,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SSC0800,SME0212,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0354,SME0212,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0221,SME0212,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0142,SME0212,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0211,SME0214,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SEP0405,SME0216,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SME0211,SME0216,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0211,SME0216,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0301,SME0220,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0301,SME0220,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0353,SME0220,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0220,SME0221,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0220,SME0221,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0220,SME0221,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0375,SME0231,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0230,SME0231,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0142,SME0231,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0202,SME0231,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0504,SME0231,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SMA0505,SME0231,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SMA0375,SME0231,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SCC0223,SME0231,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0804,SME0231,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0827,SME0231,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0142,SME0231,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0223,SME0231,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0301,SME0240,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0375,SME0240,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0301,SME0240,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SME0240,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0375,SME0240,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0301,SME0240,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0801,SME0240,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0804,SME0240,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0353,SME0240,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0142,SME0240,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0375,SME0243,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0142,SME0243,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0332,SME0245,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0380,SME0245,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0332,SME0245,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0356,SME0245,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SMA0380,SME0245,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0332,SME0250,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0206,SME0251,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0205,SME0251,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0206,SME0253,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0205,SME0253,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0205,SME0254,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0206,SME0256,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0808,SME0262,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0262,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0262,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0808,SME0262,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0262,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0808,SME0262,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0353,SME0300,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0354,SME0300,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0304,SME0300,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SSC0600,SME0300,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SSC0601,SME0300,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SCC0221,SME0300,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SCC0222,SME0300,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0304,SME0300,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0354,SME0300,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0353,SME0300,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0304,SME0300,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SSC0304,SME0300,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SSC0304,SME0300,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SMA0304,SME0300,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SCC0124,SME0300,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SME0341,SME0300,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SSC0304,SME0300,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0304,SME0300,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SCC0124,SME0305,requisito fraco,18023,,Engenharia Civil (integral),0,1
+SCC0124,SME0305,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SMA0354,SME0305,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SCC0124,SME0306,requisito fraco,18023,,Engenharia Civil (integral),0,1
+SME0305,SME0306,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SMA0353,SME0320,requisito fraco,18023,,Engenharia Civil (integral),0,1
+SMA0353,SME0320,requisito fraco,18030,,Engenharia Ambiental (integral),0,1
+SMA0354,SME0320,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0354,SME0320,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0354,SME0320,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMA0353,SME0320,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SSC0304,SME0320,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMA0353,SME0320,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SMA0354,SME0320,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SMA0353,SME0320,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SMA0353,SME0320,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0354,SME0320,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SSC0304,SME0320,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0353,SME0334,requisito fraco,18030,,Engenharia Ambiental (integral),0,1
+SME0341,SME0334,requisito fraco,18030,,Engenharia Ambiental (integral),0,1
+SMA0501,SME0500,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0501,SME0500,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0500,SME0510,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0892,SME0510,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0892,SME0510,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0501,SME0520,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0340,SME0602,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SMA0304,SME0602,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0602,SME0610,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0801,SME0800,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0801,SME0800,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0802,SME0801,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0800,SME0801,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0802,SME0801,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0800,SME0801,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0220,SME0805,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0800,SME0805,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0800,SME0805,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0806,indicação de conjunto,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0123,SME0806,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0520,SME0806,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0221,SME0806,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0806,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0806,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0806,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0620,SME0806,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SME0818,SME0807,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0807,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0807,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0221,SME0809,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0809,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0801,SME0809,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0818,SME0809,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0809,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0221,SME0808,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0123,SME0808,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0520,SME0808,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0221,SME0808,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0808,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0808,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0808,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0620,SME0808,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0818,SME0810,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0810,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0810,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0221,SME0811,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0811,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0811,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0812,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0812,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0812,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0818,SME0814,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0807,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0808,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0810,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0811,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0816,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0820,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0822,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0824,SME0815,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0221,SME0816,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0816,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0816,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0816,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0800,SME0818,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0800,SME0818,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0800,SME0819,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0221,SME0820,indicação de conjunto,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0221,SME0820,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0820,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0820,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0820,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0620,SME0820,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SME0221,SME0821,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0821,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0821,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0822,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0123,SME0822,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0520,SME0822,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0221,SME0822,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0822,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0822,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0822,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0620,SME0822,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0221,SME0823,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SME0123,SME0823,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0520,SME0823,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0221,SME0823,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0823,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0823,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0823,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0620,SME0823,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0221,SME0824,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0818,SME0824,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0824,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0818,SME0826,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0825,SME0826,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0221,SME0826,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0825,SME0826,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0800,SME0827,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SSC0801,SME0827,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0827,SME0828,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0828,SME0829,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0800,SME0830,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0828,SME0852,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0820,SME0852,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SMA0804,SME0854,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0828,SME0853,requisito fraco,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0223,SME0860,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0223,SME0861,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0223,SME0862,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0818,SME0870,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0870,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0870,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0820,SME0871,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0822,SME0871,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0803,SME0871,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0820,SME0871,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0803,SME0871,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0820,SME0871,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0803,SME0871,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0822,SME0871,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0820,SME0871,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0808,SME0873,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0820,SME0873,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0818,SME0875,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0875,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0875,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0809,SME0876,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0876,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0809,SME0876,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0818,SME0876,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0221,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,2
+SME0822,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,2
+SME0230,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,2
+SME0820,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,2
+SME0221,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),1,2
+SME0822,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),1,2
+SME0230,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),1,2
+SME0820,SME0878,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),1,2
+SME0123,SME0878,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0822,SME0878,requisito,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SME0822,SME0878,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0520,SME0878,requisito,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SME0220,SME0878,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0822,SME0878,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0820,SME0878,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0230,SME0878,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SME0221,SME0878,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SSC0800,SME0878,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0800,SME0878,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0822,SME0878,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0878,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0820,SME0878,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0820,SME0878,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SSC0800,SME0878,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0822,SME0878,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0818,SME0878,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0800,SME0878,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0822,SME0878,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0221,SME0878,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0820,SME0878,requisito,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0620,SME0878,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0822,SME0878,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0800,SME0879,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SSC0800,SME0879,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0807,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0808,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0810,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0811,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0816,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0820,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0822,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0824,SME0881,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0880,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0818,SME0882,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SME0818,SME0882,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0801,SME0892,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0804,SME0892,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SSC0800,SME0892,requisito,55070,,Bacharelado em Estatística (noturno),0,1
+SMA0801,SME0892,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SMA0804,SME0892,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SSC0800,SME0892,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SCC0202,SSC0103,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0118,SSC0108,indicação de conjunto,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0112,SSC0119,indicação de conjunto,55041,0,Bacharelado em Ciências de Computação (integral),0,2
+SSC0902,SSC0119,indicação de conjunto,55041,0,Bacharelado em Ciências de Computação (integral),1,2
+SSC0117,SSC0118,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0130,SSC0120,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0130,SSC0123,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0103,SSC0124,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0204,SSC0124,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0202,SSC0140,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0902,SSC0140,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0223,SSC0140,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0955,SSC0140,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0124,SSC0130,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0124,SSC0130,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0140,SSC0142,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0140,SSC0142,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0140,SSC0141,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0142,SSC0152,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0641,SSC0152,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0140,SSC0154,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0140,SSC0158,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0142,SSC0158,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0202,SSC0158,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0540,SSC0158,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0140,SSC0158,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SCC0223,SSC0158,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0142,SSC0158,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0143,SSC0159,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0202,SSC0160,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0140,SSC0160,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0501,SSC0503,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0512,SSC0513,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0504,SSC0524,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0503,SSC0528,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0530,SSC0531,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0532,SSC0533,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0533,SSC0534,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0504,SSC0534,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0535,SSC0536,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0524,SSC0536,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0534,SSC0535,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0541,SSC0540,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0513,SSC0541,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0502,SSC0541,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0530,SSC0570,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0540,SSC0547,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0591,SSC0592,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0593,SSC0594,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0595,SSC0596,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0597,SSC0598,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0600,SSC0602,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SSC0601,SSC0602,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SCC0221,SSC0602,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SCC0222,SSC0602,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SSC0600,SSC0603,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0621,SSC0620,requisito,97001,0,Engenharia de Computação (integral),0,1
+SCC0604,SSC0621,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0620,SSC0622,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0902,SSC0640,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0603,SSC0640,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0640,SSC0641,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0114,SSC0643,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,2
+SSC0902,SSC0643,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),1,2
+SSC0902,SSC0643,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0676,SSC0675,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0130,SSC0720,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0620,SSC0720,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0201,SSC0724,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0201,SSC0723,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0124,SSC0725,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0534,SSC0725,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0621,SSC0725,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0740,SSC0741,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0740,SSC0741,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0902,SSC0740,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0902,SSC0740,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0130,SSC0726,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0534,SSC0726,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0620,SSC0726,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0640,SSC0743,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0140,SSC0745,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0640,SSC0745,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0903,SSC0744,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0904,SSC0744,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0904,SSC0744,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0640,SSC0746,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0142,SSC0748,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0641,SSC0748,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0103,SSC0770,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0504,SSC0770,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0604,SSC0770,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0142,SSC0900,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0142,SSC0900,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0641,SSC0900,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0118,SSC0902,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SEL0628,SSC0902,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0900,SSC0901,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0900,SSC0901,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0900,SSC0901,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0902,SSC0903,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0140,SSC0903,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0955,SSC0903,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0140,SSC0903,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0640,SSC0903,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0902,SSC0903,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0142,SSC0904,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0140,SSC0904,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0142,SSC0904,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0140,SSC0904,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0641,SSC0904,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SSC0640,SSC0904,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0140,SSC0950,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0540,SSC0950,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0223,SSC0952,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0603,SSC0952,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0201,SSC0951,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0902,SSC0951,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0142,SSC0954,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0230,SSC0956,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0822,SSC0956,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SME0820,SSC0957,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0130,SSC0959,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SSC0130,SSC0959,requisito fraco,55090,0,Bacharelado em Ciência de Dados (integral),0,1
+SSC0620,SSC0959,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SCC0202,SSC0960,requisito fraco,55041,0,Bacharelado em Ciências de Computação (integral),0,1
+SCC0502,SSC0960,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0504,SSC0961,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SCC0604,SSC0961,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+1800040,1800043,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+1800040,1800043,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+1800040,1800043,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+1800040,1800043,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+1800040,1800043,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0301,7600005,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+SMA0301,7600005,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+7500004,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental (integral),0,1
+7600117,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental (integral),0,1
+7500004,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Alimentos (integral),0,1
+7600117,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Alimentos (integral),0,1
+7600117,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Ambiental (integral),0,1
+7500004,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Ambiental (integral),0,1
+7600117,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Gestão de Qualidade (integral),0,1
+7500004,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Gestão de Qualidade (integral),0,1
+7500004,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Materiais (integral),0,1
+7600117,7500053,requisito,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Materiais (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Alimentos (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Alimentos (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Ambiental (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Ambiental (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Gestão de Qualidade (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Gestão de Qualidade (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Materiais (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Materiais (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Alimentos (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Alimentos (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Ambiental (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Ambiental (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Gestão de Qualidade (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Gestão de Qualidade (integral),0,1
+7600117,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Materiais (integral),0,1
+7500004,7500053,requisito,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Materiais (integral),0,1
+7600005,7600006,requisito fraco,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+7600005,7600006,requisito fraco,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+7600005,7600006,requisito fraco,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SEL0460,7600074,requisito,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0461,7600074,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0460,7600074,requisito,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0461,7600074,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+7600022,7600074,requisito,76014,,Física - Habilitação: Habilitação: Teórico-Experimental (integral),0,1
+7600022,7600074,requisito,76014,,Física - Habilitação: Habilitação: Óptica e Fotônica (integral),0,1
+7600022,7600074,requisito,76041,,Bacharelado em Física Computacional (integral),0,1
+SEL0460,7600074,requisito,97001,0,Engenharia de Computação (integral),0,1
+7600005,7600107,requisito,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),0,1
+IAU0314,IAU0315,requisito fraco,18030,,Engenharia Ambiental (integral),0,1
+IAU0314,IAU0315,requisito,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),0,1
+SME0306,SAA0356,requisito fraco,18023,,Engenharia Civil (integral),0,1
+SME0300,SAA0356,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SME0300,SAA0356,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SAA0180,SAA0356,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SME0300,SAA0356,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SME0306,SAA0356,indicação de conjunto,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SME0602,SAA0356,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0417,SEL0326,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0417,SEL0326,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0611,SEL0326,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0415,SEL0338,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SSC0902,SEL0338,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0327,SEL0328,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0327,SEL0328,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0611,SEL0328,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0449,SEL0339,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0449,SEL0339,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEL0449,SEL0339,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SCC0651,SEL0339,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0310,SEL0344,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0612,SEL0344,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0346,SEL0347,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0619,SEL0347,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0343,SEL0356,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0343,SEL0356,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0403,SEL0356,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEL0615,SEL0356,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0360,SEL0361,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0616,SEL0361,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0310,SEL0366,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0310,SEL0366,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0612,SEL0366,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0326,SEL0367,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SME0320,SEL0367,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0326,SEL0367,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0620,SEL0367,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0346,SEL0370,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0619,SEL0370,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0310,SEL0369,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0310,SEL0369,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0612,SEL0369,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0310,SEL0371,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0360,SEL0371,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0616,SEL0371,requisito,97001,0,Engenharia de Computação (integral),0,1
+SEL0612,SEL0371,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0337,SEL0373,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0630,SEL0373,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0386,SEL0387,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0386,SEL0387,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SEL0360,SEL0386,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0397,SEL0398,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0397,SEL0398,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEL0397,SEL0398,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0414,SEL0406,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0414,SEL0406,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0628,SEL0406,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0388,SEL0429,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0388,SEL0429,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEL0388,SEL0429,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0406,SEL0431,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0406,SEL0431,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0397,SEL0434,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0397,SEL0434,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEL0397,SEL0434,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0452,SEL0441,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0452,SEL0441,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0310,SEL0459,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0459,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0459,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0310,SEL0459,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0604,SEL0459,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0612,SEL0459,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0383,SEL0460,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0304,SEL0460,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0310,SEL0460,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0450,SEL0460,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0304,SEL0460,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0310,SEL0460,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0450,SEL0460,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0383,SEL0460,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0604,SEL0460,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0612,SEL0460,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0356,SEL0460,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0607,SEL0460,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0602,SEL0460,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0355,SEL0460,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0460,SEL0461,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0460,SEL0461,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0460,SEL0461,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0310,SEL0462,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0310,SEL0462,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0612,SEL0462,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0310,SEL0463,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0310,SEL0463,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0612,SEL0463,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0310,SEL0464,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0464,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0464,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0310,SEL0464,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0604,SEL0464,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0612,SEL0464,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0461,SEL0467,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0460,SEL0467,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0461,SEL0467,indicação de conjunto,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0460,SEL0467,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0460,SEL0467,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SEL0461,SEL0467,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SEL0460,SEL0468,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0460,SEL0468,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0460,SEL0468,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0314,SEL0470,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0314,SEL0470,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0613,SEL0470,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0383,SEL0471,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0471,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0604,SEL0471,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0637,SEL0602,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0628,SEL0606,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0602,SEL0604,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0355,SEL0608,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0602,SEL0609,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0604,SEL0611,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SME0340,SEL0611,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0609,SEL0610,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0608,SEL0612,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0609,SEL0613,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0902,SEL0614,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0604,SEL0615,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0604,SEL0616,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0602,SEL0616,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0450,SEL0617,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0607,SEL0617,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0314,SEL0618,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0613,SEL0618,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0616,SEL0619,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0611,SEL0620,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0618,SEL0621,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0618,SEL0621,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0621,SEL0622,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0621,SEL0622,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+SEL0616,SEL0623,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0614,SEL0629,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0343,SEL0631,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SSC0600,SEL0631,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0356,SEL0631,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0615,SEL0631,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0600,SEL0631,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0614,SEL0630,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0414,SEL0632,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0628,SEL0632,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+7600005,SEL0633,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0304,SEL0633,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+7600005,SEL0633,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0304,SEL0633,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SME0341,SEL0633,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+7600005,SEL0633,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SMA0304,SEL0633,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+7600005,SEL0633,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEL0633,SEL0634,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0633,SEL0634,indicação de conjunto,97001,0,Engenharia de Computação (integral),0,1
+7600006,SEM0403,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+7600006,SEM0403,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+7600006,SEM0403,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+7600005,SEM0403,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SEM0233,SEM0550,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SEM0403,SEM0550,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SEM0233,SEM0550,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEM0403,SEM0550,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEM0403,SEM0550,requisito,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),0,1
+SMA0353,SEM0575,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0353,SEM0575,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0353,SEM0575,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMA0353,SEM0575,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SMA0354,SEM0575,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0353,SEM0575,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0353,SEM0576,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0353,SEM0576,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0353,SEM0576,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMA0353,SEM0576,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SMA0353,SEM0576,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMA0353,SEM0576,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SEM0388,SEM0587,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SEM0343,SEM0587,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SEM0565,SEM0587,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SEM0565,SEM0587,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEP0284,SEM0587,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEM0566,SEM0587,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEM0567,SEM0587,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEM0388,SEM0587,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEM0565,SEM0587,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEM0565,SEM0587,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+IAU0678,SEM0587,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SSC0534,SEP0172,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+SSC0534,SEP0301,requisito fraco,55051,4,Bacharelado em Sistemas de Informação (noturno),0,1
+7600006,SHS0619,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+SMA0386,SLC0532,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0609,SLC0532,requisito,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),0,1
+SLC0531,SLC0534,requisito,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),0,1
+SLC0630,SLC0610,requisito,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0630,SLC0614,indicação de conjunto,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),0,1
+SLC0630,SLC0614,requisito,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),0,1
+SLC0606,SLC0615,requisito,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),0,1
+SLC0620,SLC0621,requisito,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),0,1
+SLC0609,SLC0687,requisito,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),0,1
+7500012,SMM0193,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+7500017,SMM0193,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+7500012,SMM0193,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+7500017,SMM0193,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+7500012,SMM0193,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+7500012,SMM0193,requisito fraco,97001,0,Engenharia de Computação (integral),0,1
+7600019,7600022,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,2
+SMA0304,7600022,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,2
+7600020,7600022,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),1,2
+7600019,7600022,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),1,2
+7600020,7600022,requisito,76041,,Bacharelado em Física Computacional (integral),0,2
+7600019,7600022,requisito,76041,,Bacharelado em Física Computacional (integral),0,2
+SMA0304,7600022,requisito,76041,,Bacharelado em Física Computacional (integral),1,2
+7600019,7600022,requisito,76041,,Bacharelado em Física Computacional (integral),1,2
+7600019,7600022,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,2
+SMA0304,7600022,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,2
+7600019,7600022,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),1,2
+7600020,7600022,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),1,2
+SMA0304,7600022,requisito,76062,,Bacharelado em Física Biomolecular (integral),0,2
+7600019,7600022,requisito,76062,,Bacharelado em Física Biomolecular (integral),0,2
+7600020,7600022,requisito,76062,,Bacharelado em Física Biomolecular (integral),1,2
+7600019,7600022,requisito,76062,,Bacharelado em Física Biomolecular (integral),1,2
+7600116,7600117,requisito,75014,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+7600116,7600117,requisito,75015,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+SMA0354,7500004,requisito fraco,75014,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+SMA0354,7500004,requisito fraco,75015,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+SME0340,SAA0180,requisito fraco,18070,,Engenharia Aeronáutica (integral),0,1
+SEL0309,SEL0310,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0309,SEL0310,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0433,SEL0337,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0433,SEL0337,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0313,SEL0314,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0313,SEL0314,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0417,SEL0327,indicação de conjunto,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0417,SEL0327,indicação de conjunto,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0383,SEL0343,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0343,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0360,SEL0346,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0360,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0301,SEL0360,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0360,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0301,SEL0360,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0301,SEL0383,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0301,SEL0383,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+7600006,SEL0403,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEL0414,SEL0415,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0414,SEL0415,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0454,SEL0415,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEL0455,SEL0415,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SME0340,SEL0417,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0417,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0383,SEL0417,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SME0340,SEL0417,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+7600005,SEL0450,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0354,SEL0450,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+7600005,SEL0450,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SMA0354,SEL0450,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEP0272,SEM0343,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+7600006,SEM0233,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+7600006,SEM0233,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+7600006,SEM0233,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SEM0564,SEM0565,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SEM0564,SEM0565,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SEM0564,SEM0565,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEM0564,SEM0565,requisito fraco,18350,,Engenharia de Materiais e Manufatura (integral),0,1
+SEM0388,SEM0567,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SMM0194,SEM0567,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEP0285,SEP0284,indicação de conjunto,18084,,Engenharia de Produção (integral),0,1
+SLC0607,SLC0609,requisito fraco,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),0,1
+7600016,7600020,requisito,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,1
+7600016,7600020,requisito,76041,,Bacharelado em Física Computacional (integral),0,1
+7600016,7600020,requisito,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,1
+7600016,7600020,requisito,76062,,Bacharelado em Física Biomolecular (integral),0,1
+7600005,7600116,requisito,75014,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+7600005,7600116,requisito,75015,,Química - Habilitação: Química - Núcleo Geral (integral),0,1
+7600008,7600019,requisito fraco,76014,,Física - Habilitação: Física - Núcleo Geral (integral),0,1
+7600008,7600019,requisito fraco,76041,,Bacharelado em Física Computacional (integral),0,1
+7600008,7600019,requisito fraco,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),0,1
+7600008,7600019,requisito fraco,76062,,Bacharelado em Física Biomolecular (integral),0,1
+SMA0355,SEL0309,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SMA0355,SEL0309,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0301,SEL0313,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0301,SEL0313,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+SEL0415,SEL0433,requisito fraco,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),0,1
+SEL0415,SEL0433,requisito fraco,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),0,1
+7600006,SEL0454,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEL0454,SEL0455,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1
+SEP0284,SEP0285,indicação de conjunto,18084,,Engenharia de Produção (integral),0,1
+SLC0601,SLC0607,requisito,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),0,1
+SMM0193,SMM0194,requisito fraco,18063,,Engenharia Mecânica (integral),0,1
+SMM0193,SMM0194,requisito fraco,18084,,Engenharia de Produção (integral),0,1
+SMM0193,SMM0194,requisito fraco,18250,,Engenharia Mecatrônica (integral),0,1

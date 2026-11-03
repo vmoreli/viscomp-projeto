@@ -1,0 +1,588 @@
+sigla,turma,dia_semana,hora_inicio,hora_fim,professor
+SCC0122,2026201,ter,14:20,16:00,João do Espírito Santo Batista Neto
+SCC0122,2026201,qui,14:20,16:00,João do Espírito Santo Batista Neto
+SCC0202,2026201,seg,16:20,18:00,Ricardo Marcondes Marcacini
+SCC0202,2026201,qui,16:20,18:00,Ricardo Marcondes Marcacini
+SCC0202,2026202,seg,14:20,16:00,Ricardo Marcondes Marcacini
+SCC0202,2026202,seg,14:20,16:00,Rudinei Goularte
+SCC0202,2026202,qui,14:20,16:00,Ricardo Marcondes Marcacini
+SCC0202,2026202,qui,14:20,16:00,Rudinei Goularte
+SCC0201,2026201,seg,14:20,16:00,Diego Raphael Amancio
+SCC0201,2026201,qui,10:10,11:50,Diego Raphael Amancio
+SCC0201,2026202,seg,16:20,18:00,Marcelo Garcia Manzato
+SCC0201,2026202,qui,08:10,09:50,Marcelo Garcia Manzato
+SCC0207,2026201,qua,08:10,09:50,Mirela Teixeira Cazzolato
+SCC0207,2026202,qua,10:10,11:50,Mirela Teixeira Cazzolato
+SCC0205,2026201,ter,10:10,11:50,Renato Moraes Silva
+SCC0205,2026201,sex,08:10,09:50,Renato Moraes Silva
+SCC0205,2026202,ter,08:10,09:50,Renato Moraes Silva
+SCC0205,2026202,sex,10:10,11:50,Renato Moraes Silva
+SCC0213,2026201,qui,14:20,16:00,Mirela Teixeira Cazzolato
+SCC0213,2026202,qui,16:20,18:00,Mirela Teixeira Cazzolato
+SCC0211,2026201,sex,14:20,16:50,Leo Sampaio Ferraz Ribeiro
+SCC0218,2026201,sex,10:10,11:50,Leo Sampaio Ferraz Ribeiro
+SCC0218,2026202,sex,08:10,09:50,Leo Sampaio Ferraz Ribeiro
+SCC0219,2026201,seg,08:10,09:50,Dilvan de Abreu Moreira
+SCC0219,2026201,ter,16:20,18:00,Dilvan de Abreu Moreira
+SCC0220,2026201,sex,14:20,16:00,Lucas Pascotti Valem
+SCC0220,2026201,sex,16:20,18:00,Lucas Pascotti Valem
+SCC0223,2026201,ter,08:10,09:50,Elaine Parros Machado de Sousa
+SCC0223,2026201,qui,08:10,09:50,Elaine Parros Machado de Sousa
+SCC0227,2026201,qua,14:20,16:00,Fábio Manoel França Lobato
+SCC0229,2026201,qua,14:20,16:00,Diego Furtado Silva
+SCC0230,2026201,ter,08:10,09:50,Alneu de Andrade Lopes
+SCC0230,2026201,sex,10:10,11:50,Alneu de Andrade Lopes
+SCC0230,2026202,ter,10:10,11:50,Alneu de Andrade Lopes
+SCC0230,2026202,sex,08:10,09:50,Alneu de Andrade Lopes
+SCC0233,2026201,qua,19:00,20:40,Fábio Manoel França Lobato
+SCC0244,2026201,ter,16:20,19:00,Caetano Traina Junior
+SCC0245,2026201,qui,16:20,19:00,Cristina Dutra de Aguiar
+SCC0250,2026201,seg,08:10,09:50,Jean Roberto Ponciano
+SCC0250,2026201,qua,08:10,09:50,Jean Roberto Ponciano
+SCC0252,2026201,ter,13:30,16:00,Jean Roberto Ponciano
+SCC0260,2026201,seg,16:20,18:00,Bruna Carolina Rodrigues da Cunha
+SCC0260,2026201,qui,14:20,16:00,Bruna Carolina Rodrigues da Cunha
+SCC0271,2026201,sex,14:20,16:00,Ricardo Cerri
+SCC0273,2026201,qui,08:10,09:50,Roseli Aparecida Francelin Romero
+SCC0275,2026201,seg,14:20,16:00,Ricardo Cerri
+SCC0275,2026201,seg,16:20,18:00,Ricardo Cerri
+SCC0282,2026201,qui,10:10,11:50,Marcelo Garcia Manzato
+SCC0283,2026201,seg,10:10,11:50,Dilvan de Abreu Moreira
+SCC0283,2026201,qua,10:10,11:50,Dilvan de Abreu Moreira
+SCC0287,2026201,ter,16:20,18:00,Fábio Manoel França Lobato
+SCC0287,2026201,qui,14:20,16:00,Fábio Manoel França Lobato
+SCC0295,2026201,qui,13:00,13:50,Marcelo Garcia Manzato
+SCC0296,2026201,qui,13:00,13:50,Lucas Pascotti Valem
+SCC0502,2026201,seg,21:00,22:40,Lucas Pascotti Valem
+SCC0502,2026201,qui,19:00,20:40,Lucas Pascotti Valem
+SCC0505,2026201,qui,19:00,20:40,Thiago Alexandre Salgueiro Pardo
+SCC0540,2026201,ter,19:00,20:40,José Fernando Rodrigues Junior
+SCC0540,2026201,qui,21:00,22:40,José Fernando Rodrigues Junior
+SCC0560,2026201,qua,19:00,20:40,Bruna Carolina Rodrigues da Cunha
+SCC0560,2026201,sex,21:00,22:40,Bruna Carolina Rodrigues da Cunha
+SCC0580,2026201,ter,19:00,20:40,Kamila Rios da Hora Rodrigues
+SCC0604,2026201,sex,08:10,09:50,João do Espírito Santo Batista Neto
+SCC0607,2026201,ter,16:20,18:00,Cristina Dutra de Aguiar
+SCC0607,2026201,qui,10:10,11:50,Cristina Dutra de Aguiar
+SCC0640,2026201,seg,14:20,16:00,José Fernando Rodrigues Junior
+SCC0640,2026201,qua,10:10,11:50,José Fernando Rodrigues Junior
+SCC0911,2026201,qua,16:20,18:50,Diego Raphael Amancio
+SMA0180,2026201,qua,10:10,11:50,Guilherme Lima Ferreira da Silva
+SMA0180,2026201,sex,10:10,11:50,Guilherme Lima Ferreira da Silva
+SMA0180,2026202,qua,16:20,18:00,Guilherme Lima Ferreira da Silva
+SMA0180,2026202,sex,08:10,09:50,Guilherme Lima Ferreira da Silva
+SMA0192,2026201,ter,08:10,09:50,Carlos Alberto Maquera Apaza
+SMA0192,2026201,qui,08:10,09:50,Carlos Alberto Maquera Apaza
+SMA0304,2026201,ter,16:20,18:00,Marcia Cristina Anderson Braz Federson
+SMA0304,2026201,qui,08:10,09:50,Marcia Cristina Anderson Braz Federson
+SMA0304,2026202,ter,10:10,12:00,Marcia Cristina Anderson Braz Federson
+SMA0304,2026202,sex,10:10,12:00,Marcia Cristina Anderson Braz Federson
+SMA0304,2026203,seg,14:20,16:00,Pedro Tavares Paes Lopes
+SMA0304,2026203,qui,16:20,18:00,Pedro Tavares Paes Lopes
+SMA0304,2026204,ter,10:10,12:00,Pedro Tavares Paes Lopes
+SMA0304,2026204,sex,10:10,12:00,Pedro Tavares Paes Lopes
+SMA0304,2026205,seg,14:20,16:00,Alex Freitas de Campos
+SMA0304,2026205,qua,14:20,16:00,Alex Freitas de Campos
+SMA0304,2026206,seg,16:20,18:00,Alex Freitas de Campos
+SMA0304,2026206,qua,16:20,18:00,Alex Freitas de Campos
+SMA0304,2026207,ter,10:10,11:50,Victor Hugo Jorge Pérez
+SMA0304,2026207,sex,10:10,11:50,Victor Hugo Jorge Pérez
+SMA0306,2026201,seg,14:20,16:00,Josnei Antonio Novacoski
+SMA0306,2026201,qua,14:20,16:00,Josnei Antonio Novacoski
+SMA0332,2026201,seg,08:10,09:50,Sergio Luis Zani
+SMA0332,2026201,qua,08:10,09:50,Sergio Luis Zani
+SMA0332,2026201,sex,08:10,09:50,Sergio Luis Zani
+SMA0343,2026201,ter,08:10,09:50,Daniel Smania Brandão
+SMA0343,2026201,qui,08:10,09:50,Daniel Smania Brandão
+SMA0354,2026201,seg,08:10,09:50,Nivaldo de Góes Grulha Junior
+SMA0354,2026201,qua,08:10,09:50,Nivaldo de Góes Grulha Junior
+SMA0354,2026202,seg,10:10,11:50,Vinícius Colferai Corrêa Miranda
+SMA0354,2026202,qua,10:10,11:50,Vinícius Colferai Corrêa Miranda
+SMA0354,2026203,seg,08:10,09:50,Vinícius Colferai Corrêa Miranda
+SMA0354,2026203,qua,08:10,09:50,Vinícius Colferai Corrêa Miranda
+SMA0354,2026204,seg,08:10,09:50,Fernando Manfio
+SMA0354,2026204,qua,08:10,09:50,Fernando Manfio
+SMA0354,2026205,seg,10:10,11:50,Walter Alberto de Siqueira Pedra
+SMA0354,2026205,qua,10:10,11:50,Walter Alberto de Siqueira Pedra
+SMA0354,2026206,seg,10:10,11:50,Nivaldo de Góes Grulha Junior
+SMA0354,2026206,qua,10:10,11:50,Nivaldo de Góes Grulha Junior
+SMA0354,2026207,seg,10:10,11:50,Fernando Manfio
+SMA0354,2026207,qua,10:10,11:50,Fernando Manfio
+SMA0354,2026208,seg,08:10,09:50,Lucas Roberto de Lima
+SMA0354,2026208,qua,08:10,09:50,Lucas Roberto de Lima
+SMA0354,2026209,seg,10:10,11:50,Lucas Roberto de Lima
+SMA0354,2026209,qua,10:10,11:50,Lucas Roberto de Lima
+SMA0354,2026210,ter,08:10,09:50,Ederson Moreira dos Santos
+SMA0354,2026210,sex,08:10,09:50,Ederson Moreira dos Santos
+SMA0356,2026201,ter,08:10,09:50,Ana Claudia Nabarro
+SMA0356,2026201,qui,08:10,09:50,Ana Claudia Nabarro
+SMA0356,2026202,ter,14:20,16:00,Gabriel Cueva Candido Soares de Araujo
+SMA0356,2026202,qui,14:20,16:00,Gabriel Cueva Candido Soares de Araujo
+SMA0356,2026203,ter,08:10,10:00,Andre Luis dos Santos Duarte da Silva
+SMA0356,2026203,qui,08:10,10:00,Andre Luis dos Santos Duarte da Silva
+SMA0356,2026204,seg,14:20,16:00,Gabriel Cueva Candido Soares de Araujo
+SMA0356,2026204,qui,10:10,11:50,Gabriel Cueva Candido Soares de Araujo
+SMA0356,2026205,ter,10:10,11:50,Gabriel Ponce
+SMA0356,2026205,sex,10:10,11:50,Gabriel Ponce
+SMA0356,2026206,qua,14:20,16:00,Roberta Godoi Wik Atique
+SMA0356,2026206,qui,16:20,18:00,Roberta Godoi Wik Atique
+SMA0356,2026207,ter,08:10,10:00,Willian Hans Goes Corrêa
+SMA0356,2026207,sex,10:10,12:00,Willian Hans Goes Corrêa
+SMA0356,2026208,seg,14:20,16:00,Andre Luis dos Santos Duarte da Silva
+SMA0356,2026208,qui,14:20,16:00,Andre Luis dos Santos Duarte da Silva
+SMA0356,2026209,ter,10:10,12:00,Willian Hans Goes Corrêa
+SMA0356,2026209,sex,14:20,16:00,Willian Hans Goes Corrêa
+SMA0361,2026201,seg,16:20,18:00,Igor Mencattini
+SMA0361,2026201,qua,16:20,18:00,Igor Mencattini
+SMA0363,2026201,seg,16:20,18:00,Gabriel Zanetti Nunes Fernandes
+SMA0363,2026201,ter,10:10,11:50,Gabriel Zanetti Nunes Fernandes
+SMA0364,2026201,qui,10:10,11:50,Oziride Manzoli Neto
+SMA0364,2026201,qui,10:10,11:50,Wagner Vieira Leite Nunes
+SMA0364,2026201,qui,16:20,18:00,Oziride Manzoli Neto
+SMA0364,2026201,qui,16:20,18:00,Wagner Vieira Leite Nunes
+SMA0367,2026201,sex,10:10,11:50,Denner Dias Barros
+SMA0366,2026201,qui,08:10,09:50,Renata Cristina Geromel Meneghetti
+SMA0366,2026201,qui,10:10,11:50,Renata Cristina Geromel Meneghetti
+SMA0368,2026201,qua,14:20,16:00,Ana Carolina Faustino
+SMA0368,2026201,qua,16:20,18:00,Ana Carolina Faustino
+SMA0371,2026201,sab,08:10,09:50,Renata Cristina Geromel Meneghetti
+SMA0371,2026201,sab,10:10,11:50,Renata Cristina Geromel Meneghetti
+SMA0375,2026201,seg,10:10,11:50,Leandro Fiorini Aurichi
+SMA0375,2026201,qua,10:10,11:50,Leandro Fiorini Aurichi
+SMA0375,2026201,sex,10:10,11:50,Leandro Fiorini Aurichi
+SMA0378,2026201,seg,08:10,09:50,Igor Mencattini
+SMA0378,2026201,qua,08:10,09:50,Igor Mencattini
+SMA0379,2026201,ter,14:20,16:00,Walter Alberto de Siqueira Pedra
+SMA0379,2026201,qui,14:20,16:00,Walter Alberto de Siqueira Pedra
+SMA0389,2026201,qua,14:20,16:00,Paulo Leandro Dattori da Silva
+SMA0389,2026201,sex,14:20,16:00,Paulo Leandro Dattori da Silva
+SMA0405,2026201,qua,16:20,18:00,Michela Tuchapesk da Silva
+SMA0404,2026201,sex,08:10,09:50,Denner Dias Barros
+SMA0501,2026201,seg,19:00,20:40,Sérgio Henrique Monari Soares
+SMA0501,2026201,ter,19:00,20:40,Sérgio Henrique Monari Soares
+SMA0501,2026201,qui,21:00,22:40,Sérgio Henrique Monari Soares
+SMA0802,2026201,seg,18:00,20:40,Pedro Paulo de Magalhães Rios
+SMA0802,2026201,qua,18:00,20:40,Pedro Paulo de Magalhães Rios
+SMA0804,2026201,ter,21:00,22:40,Éder Rítis Aragão Costa
+SMA0804,2026201,sex,19:00,20:40,Éder Rítis Aragão Costa
+SME0110,2026201,seg,08:10,09:50,Marcos Mansano Furlan
+SME0110,2026201,qua,10:10,11:50,Marcos Mansano Furlan
+SME0110,2026202,seg,10:10,11:50,Marcos Mansano Furlan
+SME0110,2026202,qua,08:10,09:50,Marcos Mansano Furlan
+SME0123,2026201,ter,14:20,16:00,Cibele Maria Russo
+SME0123,2026201,sex,08:10,09:50,Cibele Maria Russo
+SME0123,2026202,ter,16:20,18:00,Thomas Kauê Dal'Maso Peron
+SME0123,2026202,sex,10:10,11:50,Thomas Kauê Dal'Maso Peron
+SME0142,2026201,ter,10:10,11:50,Luis Gustavo Nonato
+SME0142,2026201,qui,10:10,11:50,Luis Gustavo Nonato
+SME0142,2026202,ter,08:10,09:50,Paulo Afonso Faria da Veiga
+SME0142,2026202,ter,08:10,09:50,Tiago Pereira da Silva
+SME0142,2026202,qui,08:10,09:50,Paulo Afonso Faria da Veiga
+SME0142,2026202,qui,08:10,09:50,Tiago Pereira da Silva
+SME0211,2026201,seg,16:20,18:00,Marina Andretta
+SME0211,2026201,qua,16:20,18:00,Marina Andretta
+SME0206,2026201,seg,14:20,16:00,Maria Luísa Bambozzi de Oliveira
+SME0206,2026201,qua,14:20,16:00,Maria Luísa Bambozzi de Oliveira
+SME0213,2026201,seg,14:20,16:00,Franklina Maria Bragion de Toledo
+SME0213,2026201,seg,16:20,18:00,Franklina Maria Bragion de Toledo
+SME0212,2026201,qui,10:10,11:50,Marina Andretta
+SME0212,2026201,qui,14:10,15:50,Marina Andretta
+SME0220,2026201,ter,16:20,18:00,Daiane de Souza Santos
+SME0220,2026201,qui,16:20,18:00,Daiane de Souza Santos
+SME0231,2026201,ter,14:00,17:00,Cynthia de Oliveira Lage Ferreira
+SME0240,2026201,ter,14:20,16:00,Eeltje Cornelis Nijholt
+SME0240,2026201,qui,14:20,16:00,Eeltje Cornelis Nijholt
+SME0241,2026201,ter,14:20,16:00,Elias Salomão Helou Neto
+SME0245,2026201,qua,16:20,18:00,Everaldo de Mello Bonotto
+SME0245,2026201,sex,16:20,18:00,Everaldo de Mello Bonotto
+SME0251,2026201,seg,14:20,16:00,Fabrício Simeoni de Sousa
+SME0251,2026201,seg,16:20,18:00,Fabrício Simeoni de Sousa
+SME0254,2026201,sex,08:10,09:50,Roberto Federico Ausas
+SME0254,2026201,sex,10:10,11:50,Roberto Federico Ausas
+SME0274,2026201,seg,14:20,16:00,Eduardo Fontoura Costa
+SME0274,2026201,seg,16:20,18:00,Eduardo Fontoura Costa
+SME0284,2026201,qua,14:20,16:00,José Alberto Cuminato
+SME0284,2026201,qua,16:20,18:00,José Alberto Cuminato
+SME0285,2026201,ter,14:20,16:00,José Alberto Cuminato
+SME0285,2026201,ter,16:20,18:00,José Alberto Cuminato
+SME0300,2026201,qua,10:10,11:50,Geovane Augusto Haveroth
+SME0300,2026201,qui,10:10,11:50,Geovane Augusto Haveroth
+SME0300,2026202,ter,10:10,11:50,Geovane Augusto Haveroth
+SME0300,2026202,sex,08:10,09:50,Geovane Augusto Haveroth
+SME0306,2026201,qui,16:20,18:00,Leandro Franco de Souza
+SME0306,2026201,sex,10:10,11:50,Leandro Franco de Souza
+SME0306,2026202,seg,08:10,09:50,Leandro Franco de Souza
+SME0306,2026202,qua,10:10,11:50,Leandro Franco de Souza
+SME0320,2026201,qua,08:10,09:50,Reiko Aoki
+SME0320,2026201,sex,10:10,11:50,Reiko Aoki
+SME0320,2026202,ter,16:20,18:00,Miguel Vinicius Santini Frasson
+SME0320,2026202,qua,16:20,18:00,Miguel Vinicius Santini Frasson
+SME0320,2026203,seg,16:20,18:00,Adriano Kamimura Suzuki
+SME0320,2026203,ter,14:20,16:00,Adriano Kamimura Suzuki
+SME0320,2026204,seg,16:20,18:00,Jorge Luis Bazán Guzmán
+SME0320,2026204,qua,08:10,09:50,Jorge Luis Bazán Guzmán
+SME0332,2026201,ter,14:20,16:00,Afonso Paiva Neto
+SME0332,2026201,qui,14:20,16:00,Afonso Paiva Neto
+SME0332,2026202,ter,16:20,18:00,Afonso Paiva Neto
+SME0332,2026202,qui,16:20,18:00,Afonso Paiva Neto
+SME0334,2026201,qui,14:20,16:00,Livia Souza Freire Grion
+SME0334,2026201,sex,14:20,16:00,Livia Souza Freire Grion
+SME0341,2026201,ter,16:20,18:00,Paulo Afonso Faria da Veiga
+SME0341,2026201,qui,14:20,16:00,Paulo Afonso Faria da Veiga
+SME0341,2026202,ter,10:10,11:50,Eeltje Cornelis Nijholt
+SME0341,2026202,sex,10:10,11:50,Eeltje Cornelis Nijholt
+SME0510,2026201,seg,19:00,20:40,Maristela Oliveira dos Santos
+SME0510,2026201,qua,21:00,22:40,Maristela Oliveira dos Santos
+SME0800,2026201,ter,19:00,20:40,Katiane Silva Conceição
+SME0800,2026201,qui,21:00,22:40,Katiane Silva Conceição
+SME0805,2026201,ter,19:00,20:40,Oilson Alberto Gonzatto Junior
+SME0805,2026201,qui,21:00,22:40,Oilson Alberto Gonzatto Junior
+SME0809,2026201,seg,19:00,20:40,Adriano Kamimura Suzuki
+SME0809,2026201,qua,21:00,22:40,Adriano Kamimura Suzuki
+SME0808,2026201,ter,21:00,22:40,Oilson Alberto Gonzatto Junior
+SME0808,2026201,qui,19:00,20:40,Oilson Alberto Gonzatto Junior
+SME0810,2026201,seg,21:00,22:40,Jorge Luis Bazán Guzmán
+SME0810,2026201,qua,19:00,20:40,Jorge Luis Bazán Guzmán
+SME0814,2026201,sab,08:10,09:50,Mariana Cúri
+SME0814,2026201,sab,10:10,11:50,Mariana Cúri
+SME0815,2026201,sab,08:10,09:50,
+SME0815,2026201,sab,10:10,11:50,
+SME0818,2026201,seg,18:00,20:40,Katiane Silva Conceição
+SME0818,2026201,seg,18:00,20:40,Mariana Cúri
+SME0818,2026201,qui,18:00,20:40,Katiane Silva Conceição
+SME0818,2026201,qui,18:00,20:40,Mariana Cúri
+SME0820,2026201,ter,21:00,22:40,Reiko Aoki
+SME0820,2026201,sex,19:00,20:40,Reiko Aoki
+SME0822,2026201,ter,19:00,20:40,Mário de Castro Andrade Filho
+SME0822,2026201,qui,21:00,22:40,Mário de Castro Andrade Filho
+SME0823,2026201,seg,19:00,20:40,Vicente Garibay Cancho
+SME0823,2026201,qua,21:00,22:40,Vicente Garibay Cancho
+SME0824,2026201,qui,19:00,20:40,Daiane de Souza Santos
+SME0824,2026201,sex,21:00,22:40,Daiane de Souza Santos
+SME0828,2026201,seg,21:00,22:40,Francisco Aparecido Rodrigues
+SME0828,2026201,qua,19:00,20:40,Francisco Aparecido Rodrigues
+SME0873,2026201,ter,17:00,18:40,Ricardo Sandes Ehlers
+SME0873,2026201,qui,17:00,18:40,Ricardo Sandes Ehlers
+SME0879,2026201,seg,17:00,18:40,Francisco Aparecido Rodrigues
+SME0879,2026201,qua,17:00,18:40,Francisco Aparecido Rodrigues
+SME0881,2026201,sab,08:10,09:50,
+SME0881,2026201,sab,10:10,11:50,
+SME0880,2026201,sab,08:10,09:50,
+SME0880,2026201,sab,10:10,11:50,
+SSC0108,2026201,ter,14:20,16:00,Denis Fernando Wolf
+SSC0108,2026202,ter,16:20,18:00,Denis Fernando Wolf
+SSC0108,2026203,qui,14:20,16:00,Denis Fernando Wolf
+SSC0108,2026204,qui,16:20,18:00,Denis Fernando Wolf
+SSC0118,2026201,ter,08:10,09:50,Danilo Hernane Spatti
+SSC0118,2026202,ter,10:10,11:50,Vanderlei Bonato
+SSC0124,2026201,seg,10:10,11:50,Lina Maria Garces Rodriguez
+SSC0124,2026202,seg,08:10,09:50,Lina Maria Garces Rodriguez
+SSC0140,2026201,seg,08:10,09:50,Kalinka Regina Lucas Jaquie Castelo Branco
+SSC0140,2026201,qua,10:10,11:50,Kalinka Regina Lucas Jaquie Castelo Branco
+SSC0140,2026202,seg,10:10,11:50,Kalinka Regina Lucas Jaquie Castelo Branco
+SSC0140,2026202,qua,08:10,09:50,Kalinka Regina Lucas Jaquie Castelo Branco
+SSC0152,2026201,qua,16:00,19:00,Jo Ueyama
+SSC0301,2026201,qui,16:20,18:00,Márcio Eduardo Delamaro
+SSC0301,2026202,ter,08:10,09:50,Márcio Eduardo Delamaro
+SSC0301,2026203,ter,10:10,11:50,Márcio Eduardo Delamaro
+SSC0304,2026202,qua,16:00,18:00,Matheus Machado dos Santos
+SSC0304,2026202,qui,14:00,16:00,Matheus Machado dos Santos
+SSC0503,2026201,qua,19:00,20:40,Cláudio Fabiano Motta Toledo
+SSC0503,2026201,sex,21:00,22:40,Cláudio Fabiano Motta Toledo
+SSC0513,2026201,ter,21:00,22:40,Eduardo do Valle Simões
+SSC0513,2026201,sex,19:00,20:40,Eduardo do Valle Simões
+SSC0524,2026201,seg,21:00,22:40,Márcio Eduardo Delamaro
+SSC0531,2026201,qua,19:00,20:40,Simone do Rocio Senger de Souza
+SSC0532,2026201,qua,21:00,22:40,Ellen Francine Barbosa
+SSC0534,2026201,ter,21:00,22:40,Elisa Yumi Nakagawa
+SSC0536,2026201,seg,21:00,22:40,Simone do Rocio Senger de Souza
+SSC0570,2026201,ter,21:00,22:40,Ellen Francine Barbosa
+SSC0570,2026201,qui,19:00,20:40,Ellen Francine Barbosa
+SSC0547,2026201,seg,19:00,20:40,Rodolfo Ipolito Meneguette
+SSC0577,2026201,qua,18:00,18:50,Hermes Senger
+SSC0594,2026201,sab,08:00,12:00,
+SSC0597,2026201,sab,08:00,12:00,
+SSC0602,2026201,seg,16:20,18:00,Adenilso da Silva Simão
+SSC0602,2026201,sex,14:20,16:00,Adenilso da Silva Simão
+SSC0603,2026201,ter,14:20,16:00,Fernando Santos Osório
+SSC0603,2026201,qui,14:20,16:00,Fernando Santos Osório
+SSC0621,2026201,sex,10:10,11:50,Elisa Yumi Nakagawa
+SSC0622,2026201,seg,18:00,21:00,Simone do Rocio Senger de Souza
+SSC0641,2026201,seg,08:10,09:50,Rodolfo Ipolito Meneguette
+SSC0641,2026201,ter,08:10,09:50,Rodolfo Ipolito Meneguette
+SSC0713,2026201,sex,14:20,16:00,Eduardo do Valle Simões
+SSC0715,2026201,qui,10:10,11:50,Fernando Santos Osório
+SSC0741,2026201,sex,13:20,16:00,Vanderlei Bonato
+SSC0726,2026201,ter,19:00,20:40,Elisa Yumi Nakagawa
+SSC0745,2026201,seg,15:10,18:00,Francisco José Monaco
+SSC0744,2026201,ter,13:20,16:00,Hermes Senger
+SSC0800,2026201,seg,21:00,22:40,Matheus Machado dos Santos
+SSC0800,2026201,qui,19:00,20:40,Matheus Machado dos Santos
+SSC0801,2026201,qua,21:00,22:40,Danilo Hernane Spatti
+SSC0902,2026201,seg,10:10,11:50,Sarita Mazzini Bruschi
+SSC0902,2026201,ter,10:10,11:50,Sarita Mazzini Bruschi
+SSC0901,2026201,qui,14:00,16:00,Rodolfo Ipolito Meneguette
+SSC0903,2026201,seg,10:10,11:50,Paulo Sergio Lopes de Souza
+SSC0903,2026201,qui,10:10,11:50,Paulo Sergio Lopes de Souza
+SSC0903,2026202,seg,08:10,09:50,Paulo Sergio Lopes de Souza
+SSC0903,2026202,qui,08:10,09:50,Paulo Sergio Lopes de Souza
+SSC0904,2026201,seg,10:10,11:50,Francisco José Monaco
+SSC0952,2026201,seg,19:00,20:40,Júlio Cezar Estrella
+SSC0952,2026201,seg,21:00,22:40,Júlio Cezar Estrella
+SSC0951,2026201,qua,10:10,11:50,Hermes Senger
+SSC0953,2026201,ter,19:00,20:40,Francisco José Monaco
+SSC0954,2026201,ter,19:00,20:40,Júlio Cezar Estrella
+SSC0957,2026201,qui,14:10,16:00,Alexandre Cláudio Botazzo Delbem
+SSC0957,2026201,qui,16:10,18:00,
+SSC0967,2026201,sex,10:10,11:50,Vanderlei Bonato
+1800119,2026201,seg,08:10,10:00,Cristina Kurachi
+1800119,2026201,seg,08:10,10:00,Kate Cristina Blanco
+1800040,2026201,sex,13:20,17:00,Carlos Goldenberg
+1800043,2026201,qui,13:20,17:00,Carlos Goldenberg
+1800121,2026201,qui,11:10,12:00,Jefferson Lins da Silva
+1800121,2026201,qui,11:10,12:00,Marcell Gustavo Chagas Santos
+1800121,2026202,qua,13:00,13:50,Davi Gasparini Fernandes Cunha
+1800121,2026203,qui,11:10,12:00,Vilma Alves de Oliveira
+1800121,2026204,qui,11:10,12:00,Luciana Montanari
+1800121,2026205,qua,14:20,15:10,Rodrigo Nicoletti
+1800121,2026206,qua,13:00,13:50,Ricardo Afonso Angélico
+1800121,2026207,qui,11:10,12:00,Sânia da Costa Fernandes
+1800121,2026208,qua,13:00,14:00,Simone do Rocio Senger de Souza
+7500012,2026201,qui,16:20,18:00,Antonio Gustavo Sampaio de Oliveira Filho
+7500012,2026202,ter,14:20,16:00,Sergio Antonio Spinola Machado
+7500012,2026203,qui,14:20,16:00,Frank Nelson Crespilho
+7500012,2026204,ter,14:20,16:00,Frank Nelson Crespilho
+7500012,2026205,qua,14:00,15:40,Frank Nelson Crespilho
+7500012,2026206,qua,16:00,17:40,Luiz Henrique Vieira
+7500017,2026201,seg,14:20,17:40,Agnieszka Joanna Pawlicka Maule
+7500017,2026201,seg,14:20,17:40,Andrei Leitão
+7500017,2026202,seg,14:20,17:40,Agnieszka Joanna Pawlicka Maule
+7500017,2026202,seg,14:20,17:40,Andrei Leitão
+7500017,2026203,qua,14:20,17:40,Guilherme Reis de Oliveira
+7500017,2026204,qua,14:20,17:40,Guilherme Reis de Oliveira
+7500017,2026205,qua,14:20,17:40,Agnieszka Joanna Pawlicka Maule
+7500017,2026205,qua,14:20,17:40,Andrei Leitão
+7500017,2026206,qua,14:20,17:40,Agnieszka Joanna Pawlicka Maule
+7500017,2026206,qua,14:20,17:40,Andrei Leitão
+7500017,2026207,qui,13:20,16:40,Marcia Nitschke
+7500017,2026208,qui,13:20,16:40,Eny Maria Vieira
+7500017,2026209,sex,14:00,17:20,Carlos Alberto Montanari
+7500017,2026209,sex,14:00,17:20,Germano Tremiliosi Filho
+7500017,2026210,sex,14:00,17:20,Carlos Alberto Montanari
+7500017,2026210,sex,14:00,17:20,Germano Tremiliosi Filho
+7500017,2026211,sex,14:00,17:20,Marcos Roberto de Vasconcelos Lanza
+7500017,2026212,sex,14:00,17:20,Carla Cristina Schmitt Cavalheiro
+7600005,2026201,seg,08:00,09:40,Antonio Ricardo Zanatta
+7600005,2026201,qua,16:00,16:50,Antonio Ricardo Zanatta
+7600005,2026201,qui,08:00,09:40,Antonio Ricardo Zanatta
+7600005,2026202,seg,08:00,09:40,Antonio Carlos Hernandes
+7600005,2026202,qua,16:00,16:50,Antonio Carlos Hernandes
+7600005,2026202,qui,08:00,09:40,Antonio Carlos Hernandes
+7600005,2026203,seg,08:10,09:50,Gregorio Couto Faria
+7600005,2026203,qua,08:10,09:50,Gregorio Couto Faria
+7600005,2026203,qui,09:00,09:50,Gregorio Couto Faria
+7500053,2026201,ter,19:00,20:40,Albérico Borges Ferreira da Silva
+7500053,2026201,qui,19:00,20:40,Albérico Borges Ferreira da Silva
+7600006,2026201,seg,10:10,11:50,Pedro Henrique Suman
+7600006,2026201,qua,10:10,11:50,Pedro Henrique Suman
+7600006,2026201,qui,10:10,11:00,Pedro Henrique Suman
+7600006,2026202,seg,08:10,09:50,Renato Vitalino Gonçalves
+7600006,2026202,qua,08:10,09:50,Renato Vitalino Gonçalves
+7600006,2026202,qui,10:10,11:00,Renato Vitalino Gonçalves
+7600006,2026203,seg,08:10,09:50,Paula Maria Pincela Lins
+7600006,2026203,qua,08:10,09:50,Paula Maria Pincela Lins
+7600006,2026203,qui,10:10,11:00,Paula Maria Pincela Lins
+7600006,2026204,seg,08:10,09:50,Luís Felipe Barbosa Faria Gonçalves
+7600006,2026204,qua,08:10,09:50,Luís Felipe Barbosa Faria Gonçalves
+7600006,2026204,qui,10:10,11:00,Luís Felipe Barbosa Faria Gonçalves
+7600006,2026205,seg,08:10,09:50,Patricia Christina Marques Castilho
+7600006,2026205,qua,08:10,09:50,Patricia Christina Marques Castilho
+7600006,2026205,qui,10:10,11:00,Patricia Christina Marques Castilho
+7600006,2026206,seg,10:10,11:50,Krissia de Zawadzki
+7600006,2026206,qua,10:10,11:50,Krissia de Zawadzki
+7600006,2026206,qui,10:10,11:00,Krissia de Zawadzki
+7600006,2026207,seg,08:10,09:50,Emanuel Alves de Lima Henn
+7600006,2026207,qua,08:10,09:50,Emanuel Alves de Lima Henn
+7600006,2026207,qui,10:10,11:00,Emanuel Alves de Lima Henn
+7600006,2026208,seg,10:10,11:50,Sérgio Ricardo Muniz
+7600006,2026208,qua,10:10,11:50,Sérgio Ricardo Muniz
+7600006,2026208,qui,10:10,11:00,Sérgio Ricardo Muniz
+7600045,2026201,seg,10:10,11:50,Cleber Renato Mendonça
+7600045,2026201,qui,14:20,16:00,Cleber Renato Mendonça
+7600074,2026201,ter,10:10,11:50,Diogo de Oliveira Soares Pinto
+7600074,2026201,qui,14:20,16:00,Diogo de Oliveira Soares Pinto
+7600107,2026201,ter,10:10,11:50,Valmor Roberto Mastelaro
+7600107,2026201,sex,10:10,11:50,Valmor Roberto Mastelaro
+7600107,2026202,seg,19:00,20:40,Sebastião Pratavieira
+7600107,2026202,ter,19:00,20:40,Sebastião Pratavieira
+7600110,2026201,seg,13:30,17:10,Javier Alcides Ellena
+7600110,2026202,seg,13:30,17:10,Henrik Bradtmüller
+7600110,2026203,qua,14:30,18:10,Jean Claude MPeko
+7600110,2026204,qua,14:30,18:10,Jean Claude MPeko
+7600110,2026205,qua,14:30,18:10,Valtencir Zucolotto
+7600110,2026206,qua,14:30,18:10,Valtencir Zucolotto
+7600110,2026207,qui,13:30,17:10,Hai Guoqiang
+7600110,2026208,qui,13:30,17:10,Hai Guoqiang
+7600110,2026209,seg,13:30,17:10,Tito Jose Bonagamba
+7600110,2026210,seg,13:30,17:10,Tito Jose Bonagamba
+7600110,2026211,ter,13:30,17:10,Cibelle Celestino Silva
+7600110,2026212,ter,13:30,17:10,Richard Charles Garratt
+7600110,2026213,ter,08:10,11:50,Cristina Kurachi
+7600110,2026214,ter,08:10,11:50,Cristina Kurachi
+7600110,2026215,ter,13:30,17:10,Philippe Wilhelm Courteille
+7600110,2026216,ter,13:30,17:10,Alessandro Silva Nascimento
+7600110,2026217,ter,08:10,11:50,Alberto Tannus
+7600110,2026218,ter,08:10,11:50,Alberto Tannus
+IAU0126,2026201,qui,14:20,16:00,Leonardo Faggion Novo
+IAU0315,2026201,qua,10:10,11:50,Marcel Fantin
+RAD2401,2026202,seg,19:00,20:40,Ildeberto Aparecido Rodello
+RAD2401,2026204,qua,10:00,11:40,Ildeberto Aparecido Rodello
+RAD2810,2026202,qui,20:50,22:30,Evandro Marcos Saidel Ribeiro
+RAD2810,2026202,sex,19:00,20:40,Evandro Marcos Saidel Ribeiro
+RAD2810,2026204,qui,10:00,11:40,Evandro Marcos Saidel Ribeiro
+RAD2810,2026204,sex,10:00,11:40,Evandro Marcos Saidel Ribeiro
+SAA0167,2026201,qua,08:10,10:00,Jorge Henrique Bidinotto
+SAA0167,2026201,qui,08:10,10:00,Jorge Henrique Bidinotto
+SAA0356,2026201,seg,08:10,10:00,Glauco Augusto de Paula Caurin
+SAA0356,2026202,sex,16:20,18:00,Glauco Augusto de Paula Caurin
+SEL0326,2026201,qui,08:10,10:00,Rodrigo Andrade Ramos
+SEL0328,2026201,qua,10:10,12:00,Vilma Alves de Oliveira
+SEL0328,2026202,qua,16:20,18:00,Vilma Alves de Oliveira
+SEL0339,2026201,qui,08:10,10:00,Marcelo Andrade da Costa Vieira
+SEL0344,2026201,qua,16:20,18:00,Leonardo André Ambrosio
+SEL0344,2026201,sex,08:10,10:00,Leonardo André Ambrosio
+SEL0361,2026201,qui,13:20,16:00,Ben Hur Viana Borges
+SEL0367,2026201,seg,14:20,16:00,Marco Henrique Terra
+SEL0371,2026201,seg,10:10,12:00,Vinicius Marrara Pepino
+SEL0371,2026201,ter,08:10,10:00,Vinicius Marrara Pepino
+SEL0396,2026201,qui,14:20,16:00,Alberto Cliquet Junior
+SEL0397,2026201,qua,10:10,12:00,Homero Schiabel
+SEL0429,2026201,seg,14:20,18:00,Liliane Ventura Schiabel
+SEL0431,2026201,qui,16:20,18:00,Fabio Romano Lofrano Dotto
+SEL0431,2026202,sex,10:10,12:00,Fabio Romano Lofrano Dotto
+SEL0459,2026201,sex,14:20,16:00,Leonardo André Ambrosio
+SEL0460,2026201,ter,16:20,18:00,Vinicius Marrara Pepino
+SEL0463,2026201,ter,13:20,16:00,Ben Hur Viana Borges
+SEL0464,2026201,seg,16:20,18:00,Vinicius Marrara Pepino
+SEL0468,2026201,ter,16:20,18:00,Adélcio Marques de Souza
+SEL0606,2026201,qua,10:10,11:50,Maximiliam Luppe
+SEL0606,2026202,qua,14:20,16:00,Liliane Ventura Schiabel
+SEL0606,2026203,qua,16:20,18:00,Liliane Ventura Schiabel
+SEL0604,2026201,seg,08:10,09:50,André Oliveira Françani
+SEL0604,2026201,ter,08:10,09:50,André Oliveira Françani
+SEL0607,2026201,seg,14:20,16:00,Murilo Araujo Romero
+SEL0608,2026201,qua,08:10,09:50,Leonardo André Ambrosio
+SEL0608,2026201,sex,10:10,11:50,Leonardo André Ambrosio
+SEL0610,2026201,qui,10:10,11:50,Augusto Matheus dos Santos Alonso
+SEL0610,2026202,qui,14:20,16:00,Augusto Matheus dos Santos Alonso
+SEL0613,2026201,ter,10:10,11:50,Augusto Matheus dos Santos Alonso
+SEL0613,2026201,qui,08:10,09:50,Augusto Matheus dos Santos Alonso
+SEL0614,2026201,ter,14:20,16:00,Ricardo Augusto Souza Fernandes
+SEL0619,2026201,ter,10:10,11:50,Murilo Araujo Romero
+SEL0620,2026201,qua,08:10,09:50,Valdir Grassi Junior
+SEL0620,2026201,qua,10:10,11:50,Valdir Grassi Junior
+SEL0621,2026201,ter,08:10,09:50,João Paulo Pereira do Carmo
+SEL0621,2026201,sex,08:10,09:50,João Paulo Pereira do Carmo
+SEL0621,2026202,qua,16:20,18:00,Joao Navarro Soares Junior
+SEL0621,2026202,qui,16:20,18:00,Joao Navarro Soares Junior
+SEL0624,2026201,sab,08:10,09:50,
+SEL0631,2026201,ter,16:20,18:00,Maximiliam Luppe
+SEL0630,2026201,qua,14:20,16:00,Pedro de Oliveira Conceição Junior
+SEL0635,2026201,seg,10:10,11:50,Valdir Grassi Junior
+SEL0637,2026201,qua,16:20,18:00,Mario Oleskovicz
+SEM0403,2026201,ter,10:10,12:00,Oscar Mauricio Hernandez Rodriguez
+SEM0403,2026201,qui,10:10,12:00,Oscar Mauricio Hernandez Rodriguez
+SEM0550,2026201,ter,10:10,12:00,Gherhardt Ribatski
+SEM0550,2026201,qui,10:10,12:00,Gherhardt Ribatski
+SEM0587,2026201,ter,14:20,18:00,Zilda de Castro Silveira
+SEP0172,2026201,sex,19:00,21:50,Daniel Capaldo Amaral
+SEP0254,2026201,qui,07:20,10:00,Walther Azzolini Junior
+SEP0305,2026201,qua,10:10,12:00,Marcel Andreotti Musetti
+SEP0305,2026201,qua,14:20,16:00,Marcel Andreotti Musetti
+SEP0324,2026201,qui,21:00,22:40,Fabio Muller Guerrini
+SEP0325,2026201,qua,14:20,16:00,Walther Azzolini Junior
+SEP0529,2026201,seg,16:20,18:00,Maicon Gouvêa de Oliveira
+SEP0529,2026202,qua,08:10,10:00,Maicon Gouvêa de Oliveira
+SEP0566,2026201,qua,21:00,22:40,Aquiles Elie Guimarães Kalatzis
+SEP0584,2026201,sex,19:00,20:40,Humberto Filipe de Andrade Januário Bettini
+SEP0587,2026201,sex,14:20,16:00,Humberto Filipe de Andrade Januário Bettini
+SEP0587,2026202,seg,14:20,16:00,Maicon Gouvêa de Oliveira
+SEP0587,2026203,qua,10:10,12:00,Maicon Gouvêa de Oliveira
+SEP0587,2026204,qua,10:10,12:00,Aquiles Elie Guimarães Kalatzis
+SEP0587,2026205,seg,16:20,18:00,Aquiles Elie Guimarães Kalatzis
+SET0623,2026201,qua,14:20,16:00,Adair Roberto Aguiar
+SHS0623,2026201,ter,14:20,16:00,Daniel Rondinelli Roquetti
+SHS0623,2026202,qua,10:10,12:00,Marcelo Montaño
+SHS0623,2026203,seg,16:20,18:00,Daniel Rondinelli Roquetti
+SLC0532,2026201,ter,19:00,22:40,Thaís Jordão
+SLC0534,2026201,sex,19:00,22:40,Raimundo Nonato Araújo dos Santos
+SLC0606,2026201,seg,21:00,22:40,Ana Carolina Faustino
+SLC0610,2026201,seg,21:00,22:40,Sarita Mazzini Bruschi
+SLC0615,2026201,seg,19:00,20:40,Renata Cristina Geromel Meneghetti
+SLC0621,2026201,qui,19:00,22:40,Otavio Henrique Thiemann
+SLC0631,2026201,sex,19:00,20:40,Felipe Sanches Lopez
+SLC0680,2026201,qua,21:00,22:40,Denner Dias Barros
+7600022,2026201,ter,10:10,11:50,Valter Luiz Líbero
+7600022,2026201,qui,14:20,16:00,Valter Luiz Líbero
+7600117,2026201,seg,08:00,09:40,Marcos de Oliveira Junior
+7600117,2026201,qui,08:00,09:40,Marcos de Oliveira Junior
+7500004,2026201,seg,10:00,11:40,Roberto Luiz Andrade Haiduke
+7500004,2026201,qui,10:00,11:40,Roberto Luiz Andrade Haiduke
+SAA0180,2026201,ter,10:10,12:00,Carlos De Marqui Junior
+SAA0180,2026201,qui,10:10,12:00,Carlos De Marqui Junior
+SEL0337,2026201,seg,10:10,12:00,Pedro de Oliveira Conceição Junior
+SEL0337,2026202,seg,14:20,16:00,Pedro de Oliveira Conceição Junior
+SEL0337,2026203,seg,16:20,18:00,Pedro de Oliveira Conceição Junior
+SEL0314,2026201,qua,08:10,10:00,João Paulo Pereira do Carmo
+SEL0314,2026201,qui,10:10,12:00,João Paulo Pereira do Carmo
+SEL0314,2026202,seg,10:10,12:00,Joao Navarro Soares Junior
+SEL0314,2026202,ter,10:10,12:00,Joao Navarro Soares Junior
+SEL0346,2026201,qui,10:10,12:00,Murilo Araujo Romero
+SEL0383,2026201,seg,10:10,12:00,Brenner Santana Rego
+SEL0383,2026201,ter,16:20,18:00,Brenner Santana Rego
+SEL0383,2026202,seg,16:20,18:00,Brenner Santana Rego
+SEL0383,2026202,ter,08:10,10:00,Brenner Santana Rego
+SEL0415,2026201,qua,08:10,10:00,Ricardo Augusto Souza Fernandes
+SEL0415,2026202,qui,08:10,10:00,Ricardo Augusto Souza Fernandes
+SEL0415,2026203,qui,10:10,12:00,Marcelo Andrade da Costa Vieira
+SEL0450,2026201,sex,08:10,10:00,Adélcio Marques de Souza
+SEL0450,2026202,sex,10:10,12:00,Adélcio Marques de Souza
+SEL0452,2026201,ter,08:10,10:00,Rogério Andrade Flauzino
+SEL0452,2026202,ter,14:20,16:00,Benvindo Rodrigues Pereira Junior
+SEM0343,2026201,seg,07:20,10:00,Alessandro Roger Rodrigues
+SEM0388,2026201,seg,10:10,12:00,Roberto Hideaki Tsunaki
+SEM0388,2026202,seg,14:20,16:00,Roberto Hideaki Tsunaki
+SEM0388,2026203,seg,16:20,18:00,Roberto Hideaki Tsunaki
+SEM0388,2026204,ter,14:20,16:00,Roberto Hideaki Tsunaki
+SEM0388,2026205,sex,08:10,10:00,Roberto Hideaki Tsunaki
+SEM0388,2026206,sex,10:10,12:00,Roberto Hideaki Tsunaki
+SEM0565,2026201,qui,14:20,16:00,Mario Luiz Tronco
+SEM0565,2026202,seg,14:20,16:00,Carlos Alberto Fortulan
+SEM0565,2026203,seg,14:20,16:00,Luciana Montanari
+SEM0565,2026204,qua,14:20,16:00,Mateus Mota Morais
+SEM0565,2026205,seg,16:20,18:00,Luciana Montanari
+SEM0565,2026206,sex,14:20,16:00,Alessandro Roger Rodrigues
+SEM0565,2026207,seg,16:20,18:00,Carlos Alberto Fortulan
+SEM0566,2026201,ter,14:20,16:00,Mateus Mota Morais
+SEM0567,2026201,seg,14:20,16:00,Renato Goulart Jasinevicius
+SEM0567,2026201,seg,14:20,16:00,Brenda Juliet Martins Freitas
+SEM0567,2026201,qua,10:10,12:00,Renato Goulart Jasinevicius
+SEM0567,2026201,qua,10:10,12:00,Brenda Juliet Martins Freitas
+SEP0284,2026201,seg,10:10,12:00,Eraldo Jannone da Silva
+SEL0309,2026201,ter,08:10,10:00,Adélcio Marques de Souza
+SEL0309,2026201,qua,14:20,16:00,Adélcio Marques de Souza
+SEL0309,2026202,seg,10:10,12:00,Luís Fernando Costa Alberto
+SEL0309,2026202,qua,10:10,12:00,Luís Fernando Costa Alberto
+SEL0454,2026201,qua,14:20,16:00,Homero Schiabel
+SEP0285,2026201,seg,14:20,16:00,Eraldo Jannone da Silva
+SEP0285,2026202,seg,16:20,18:00,Eraldo Jannone da Silva
+SMM0194,2026201,ter,14:20,18:00,Marcia Cristina Branciforti
+SMM0194,2026201,ter,14:20,18:00,Murilo Henrique Moreira Facure
+SMM0194,2026202,qua,14:20,18:00,Marcelo Aparecido Chinelatto
+SMM0194,2026202,qua,14:20,18:00,Rafael Salomão
+SMM0194,2026203,sex,08:10,12:00,Marcia Cristina Branciforti
+SMM0194,2026203,sex,08:10,12:00,Murilo Henrique Moreira Facure
+SMM0194,2026204,ter,08:10,12:00,Marcelo Aparecido Chinelatto
+SMM0194,2026204,ter,08:10,12:00,Murilo Henrique Moreira Facure
+SMM0194,2026205,qua,08:10,12:00,Marcia Cristina Branciforti
+SMM0194,2026205,qua,08:10,12:00,Rafael Salomão

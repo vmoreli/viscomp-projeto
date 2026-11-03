@@ -1,0 +1,915 @@
+sigla,codcur,codhab,nome_curso,periodo_ideal
+5500003,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SCC0122,76041,,Bacharelado em Física Computacional (integral),4
+SCC0173,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),5
+SCC0173,76062,,Bacharelado em Física Biomolecular (integral),5
+SCC0202,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),2
+SCC0202,55041,0,Bacharelado em Ciências de Computação (integral),2
+SCC0201,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),2
+SCC0201,55041,0,Bacharelado em Ciências de Computação (integral),2
+SCC0203,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SCC0204,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SCC0204,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SCC0204,55090,0,Bacharelado em Ciência de Dados (integral),3
+SCC0205,55041,0,Bacharelado em Ciências de Computação (integral),6
+SCC0210,55041,0,Bacharelado em Ciências de Computação (integral),5
+SCC0210,97001,0,Engenharia de Computação (integral),5
+SCC0211,55041,0,Bacharelado em Ciências de Computação (integral),6
+SCC0211,97001,0,Engenharia de Computação (integral),6
+SCC0215,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SCC0215,55041,0,Bacharelado em Ciências de Computação (integral),3
+SCC0215,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),3
+SCC0215,55090,0,Bacharelado em Ciência de Dados (integral),3
+SCC0216,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SCC0216,55041,0,Bacharelado em Ciências de Computação (integral),3
+SCC0216,97001,0,Engenharia de Computação (integral),3
+SCC0218,55041,0,Bacharelado em Ciências de Computação (integral),4
+SCC0218,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),4
+SCC0218,55090,0,Bacharelado em Ciência de Dados (integral),4
+SCC0217,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0219,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SCC0219,55090,0,Bacharelado em Ciência de Dados (integral),5
+SCC0219,97001,0,Engenharia de Computação (integral),8
+SCC0220,55041,0,Bacharelado em Ciências de Computação (integral),2
+SCC0220,55090,0,Bacharelado em Ciência de Dados (integral),2
+SCC0223,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),2
+SCC0223,55090,0,Bacharelado em Ciência de Dados (integral),2
+SCC0224,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SCC0224,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),3
+SCC0224,55090,0,Bacharelado em Ciência de Dados (integral),3
+SCC0225,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0228,55041,0,Bacharelado em Ciências de Computação (integral),5
+SCC0228,55090,0,Bacharelado em Ciência de Dados (integral),5
+SCC0229,55041,0,Bacharelado em Ciências de Computação (integral),6
+SCC0229,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0230,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SCC0230,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SCC0230,55041,0,Bacharelado em Ciências de Computação (integral),6
+SCC0230,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SCC0230,55070,,Bacharelado em Estatística (noturno),6
+SCC0230,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SCC0230,55090,0,Bacharelado em Ciência de Dados (integral),4
+SCC0231,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0233,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0240,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SCC0240,55041,0,Bacharelado em Ciências de Computação (integral),5
+SCC0240,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SCC0240,55070,,Bacharelado em Estatística (noturno),5
+SCC0240,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),5
+SCC0240,55090,0,Bacharelado em Ciência de Dados (integral),5
+SCC0240,76041,,Bacharelado em Física Computacional (integral),5
+SCC0241,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0241,55090,0,Bacharelado em Ciência de Dados (integral),7
+SCC0243,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0243,55090,0,Bacharelado em Ciência de Dados (integral),7
+SCC0244,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),8
+SCC0244,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0244,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SCC0244,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),8
+SCC0244,55070,,Bacharelado em Estatística (noturno),8
+SCC0244,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SCC0244,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0244,97001,0,Engenharia de Computação (integral),8
+SCC0245,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0245,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0247,55041,0,Bacharelado em Ciências de Computação (integral),6
+SCC0247,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0250,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SCC0250,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0250,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SCC0251,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0251,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SCC0251,55090,0,Bacharelado em Ciência de Dados (integral),5
+SCC0252,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),8
+SCC0252,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0252,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SCC0252,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),8
+SCC0252,55070,,Bacharelado em Estatística (noturno),8
+SCC0252,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SCC0252,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0252,97001,0,Engenharia de Computação (integral),8
+SCC0260,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0261,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0261,55090,0,Bacharelado em Ciência de Dados (integral),5
+SCC0270,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SCC0270,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0270,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SCC0270,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SCC0270,55070,,Bacharelado em Estatística (noturno),7
+SCC0270,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SCC0270,55090,0,Bacharelado em Ciência de Dados (integral),5
+SCC0270,97001,0,Engenharia de Computação (integral),7
+SCC0271,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0271,55090,0,Bacharelado em Ciência de Dados (integral),4
+SCC0273,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0273,97001,0,Engenharia de Computação (integral),8
+SCC0275,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SCC0275,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SCC0275,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SCC0275,55070,,Bacharelado em Estatística (noturno),6
+SCC0275,97001,0,Engenharia de Computação (integral),8
+SCC0276,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SCC0276,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0276,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SCC0276,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SCC0276,55070,,Bacharelado em Estatística (noturno),7
+SCC0276,55090,0,Bacharelado em Ciência de Dados (integral),5
+SCC0276,97001,0,Engenharia de Computação (integral),7
+SCC0277,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0277,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SCC0280,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0282,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0282,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SCC0282,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0283,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0283,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SCC0283,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0284,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0284,55090,0,Bacharelado em Ciência de Dados (integral),7
+SCC0287,55041,0,Bacharelado em Ciências de Computação (integral),8
+SCC0287,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SCC0287,55090,0,Bacharelado em Ciência de Dados (integral),6
+SCC0290,55041,0,Bacharelado em Ciências de Computação (integral),10
+SCC0292,55041,0,Bacharelado em Ciências de Computação (integral),10
+SCC0294,55041,0,Bacharelado em Ciências de Computação (integral),10
+SCC0303,55041,0,Bacharelado em Ciências de Computação (integral),3
+SCC0370,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0502,55051,4,Bacharelado em Sistemas de Informação (noturno),2
+SCC0503,55051,4,Bacharelado em Sistemas de Informação (noturno),3
+SCC0504,55051,4,Bacharelado em Sistemas de Informação (noturno),3
+SCC0505,55051,4,Bacharelado em Sistemas de Informação (noturno),4
+SCC0530,55051,4,Bacharelado em Sistemas de Informação (noturno),5
+SCC0540,55051,4,Bacharelado em Sistemas de Informação (noturno),4
+SCC0541,55051,4,Bacharelado em Sistemas de Informação (noturno),5
+SCC0560,55051,4,Bacharelado em Sistemas de Informação (noturno),4
+SCC0561,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SCC0570,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SCC0580,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SCC0602,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),4
+SCC0602,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),4
+SCC0604,97001,0,Engenharia de Computação (integral),4
+SCC0605,97001,0,Engenharia de Computação (integral),7
+SCC0607,97001,0,Engenharia de Computação (integral),4
+SCC0630,97001,0,Engenharia de Computação (integral),7
+SCC0632,97001,0,Engenharia de Computação (integral),7
+SCC0633,55041,0,Bacharelado em Ciências de Computação (integral),7
+SCC0633,55090,0,Bacharelado em Ciência de Dados (integral),7
+SCC0633,97001,0,Engenharia de Computação (integral),7
+SCC0634,97001,0,Engenharia de Computação (integral),10
+SCC0640,97001,0,Engenharia de Computação (integral),6
+SCC0641,97001,0,Engenharia de Computação (integral),8
+SCC0650,97001,0,Engenharia de Computação (integral),6
+SCC0651,97001,0,Engenharia de Computação (integral),7
+SCC0652,97001,0,Engenharia de Computação (integral),8
+SCC0661,97001,0,Engenharia de Computação (integral),8
+SCC0802,55090,0,Bacharelado em Ciência de Dados (integral),7
+SMA0120,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SMA0120,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),8
+SMA0120,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),8
+SMA0120,55090,0,Bacharelado em Ciência de Dados (integral),7
+SMA0125,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),8
+SMA0136,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SMA0136,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SMA0169,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SMA0169,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0169,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SMA0143,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),8
+SMA0143,55070,,Bacharelado em Estatística (noturno),8
+SMA0143,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SMA0171,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SMA0171,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0173,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SMA0173,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0175,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SMA0175,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0175,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SMA0192,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),8
+SMA0193,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SMA0193,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0305,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SMA0305,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SMA0306,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),4
+SMA0307,55070,,Bacharelado em Estatística (noturno),7
+SMA0307,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SMA0307,55090,0,Bacharelado em Ciência de Dados (integral),5
+SMA0308,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),5
+SMA0308,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SMA0308,55070,,Bacharelado em Estatística (noturno),6
+SMA0308,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SMA0308,55090,0,Bacharelado em Ciência de Dados (integral),6
+SMA0326,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SMA0326,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SMA0327,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SMA0327,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0328,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),8
+SMA0328,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SMA0329,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SMA0329,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0332,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),2
+SMA0332,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),2
+SMA0332,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),2
+SMA0337,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SMA0337,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),2
+SMA0344,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),8
+SMA0344,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),8
+SMA0343,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),2
+SMA0343,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),2
+SMA0343,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SMA0343,55090,0,Bacharelado em Ciência de Dados (integral),6
+SMA0345,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0346,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0350,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SMA0350,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),5
+SMA0354,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),2
+SMA0354,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),2
+SMA0354,55041,0,Bacharelado em Ciências de Computação (integral),2
+SMA0354,55090,0,Bacharelado em Ciência de Dados (integral),2
+SMA0354,75014,,Química - Habilitação: Química - Núcleo Geral (integral),2
+SMA0354,75015,,Química - Habilitação: Química - Núcleo Geral (integral),2
+SMA0354,76014,,Física - Habilitação: Física - Núcleo Geral (integral),2
+SMA0354,76041,,Bacharelado em Física Computacional (integral),2
+SMA0354,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),2
+SMA0354,76062,,Bacharelado em Física Biomolecular (integral),2
+SMA0354,97001,0,Engenharia de Computação (integral),2
+SMA0355,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),3
+SMA0355,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),3
+SMA0355,55041,0,Bacharelado em Ciências de Computação (integral),3
+SMA0355,55090,0,Bacharelado em Ciência de Dados (integral),3
+SMA0355,75014,,Química - Habilitação: Química - Núcleo Geral (integral),3
+SMA0355,75015,,Química - Habilitação: Química - Núcleo Geral (integral),3
+SMA0355,76014,,Física - Habilitação: Física - Núcleo Geral (integral),3
+SMA0355,76041,,Bacharelado em Física Computacional (integral),3
+SMA0355,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),3
+SMA0355,76062,,Bacharelado em Física Biomolecular (integral),3
+SMA0355,97001,0,Engenharia de Computação (integral),3
+SMA0357,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),8
+SMA0357,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),8
+SMA0356,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),4
+SMA0356,55090,0,Bacharelado em Ciência de Dados (integral),4
+SMA0356,76014,,Física - Habilitação: Física - Núcleo Geral (integral),4
+SMA0356,76041,,Bacharelado em Física Computacional (integral),4
+SMA0356,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),4
+SMA0356,76062,,Bacharelado em Física Biomolecular (integral),4
+SMA0365,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0367,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SMA0366,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),8
+SMA0370,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0371,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),8
+SMA0375,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),2
+SMA0378,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),4
+SMA0379,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),8
+SMA0380,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SMA0380,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0380,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),3
+SMA0383,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SMA0384,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SMA0387,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SMA0388,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SMA0389,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SMA0390,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),4
+SMA0390,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),4
+SMA0390,55041,0,Bacharelado em Ciências de Computação (integral),3
+SMA0390,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),4
+SMA0390,55090,0,Bacharelado em Ciência de Dados (integral),4
+SMA0390,97001,0,Engenharia de Computação (integral),4
+SMA0391,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SMA0391,55090,0,Bacharelado em Ciência de Dados (integral),6
+SMA0391,97001,0,Engenharia de Computação (integral),6
+SMA0392,18023,,Engenharia Civil (integral),3
+SMA0392,18030,,Engenharia Ambiental (integral),3
+SMA0392,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),3
+SMA0392,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),3
+SMA0392,18063,,Engenharia Mecânica (integral),3
+SMA0392,18070,,Engenharia Aeronáutica (integral),3
+SMA0392,18084,,Engenharia de Produção (integral),3
+SMA0392,18250,,Engenharia Mecatrônica (integral),3
+SMA0392,18350,,Engenharia de Materiais e Manufatura (integral),3
+SMA0392,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SMA0392,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),3
+SMA0392,55041,0,Bacharelado em Ciências de Computação (integral),2
+SMA0392,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),3
+SMA0392,55090,0,Bacharelado em Ciência de Dados (integral),3
+SMA0392,97001,0,Engenharia de Computação (integral),3
+SMA0392,99001,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),3
+SMA0392,99002,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),3
+SMA0393,18023,,Engenharia Civil (integral),5
+SMA0393,18030,,Engenharia Ambiental (integral),5
+SMA0393,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SMA0393,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SMA0393,18063,,Engenharia Mecânica (integral),5
+SMA0393,18070,,Engenharia Aeronáutica (integral),5
+SMA0393,18084,,Engenharia de Produção (integral),5
+SMA0393,18250,,Engenharia Mecatrônica (integral),5
+SMA0393,18350,,Engenharia de Materiais e Manufatura (integral),5
+SMA0393,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SMA0393,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),5
+SMA0393,55041,0,Bacharelado em Ciências de Computação (integral),4
+SMA0393,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SMA0393,55090,0,Bacharelado em Ciência de Dados (integral),5
+SMA0393,97001,0,Engenharia de Computação (integral),5
+SMA0393,99001,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),3
+SMA0393,99002,,Arquitetura e Urbanismo - Habilitação: Dupla Formação IAU - EESC (integral),3
+SMA0394,18023,,Engenharia Civil (integral),3
+SMA0394,18030,,Engenharia Ambiental (integral),3
+SMA0394,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),3
+SMA0394,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),3
+SMA0394,18063,,Engenharia Mecânica (integral),3
+SMA0394,18070,,Engenharia Aeronáutica (integral),3
+SMA0394,18084,,Engenharia de Produção (integral),3
+SMA0394,18250,,Engenharia Mecatrônica (integral),3
+SMA0394,18350,,Engenharia de Materiais e Manufatura (integral),3
+SMA0394,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+SMA0394,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),3
+SMA0394,55041,0,Bacharelado em Ciências de Computação (integral),2
+SMA0394,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),3
+SMA0394,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SMA0394,97001,0,Engenharia de Computação (integral),3
+SMA0398,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),3
+SMA0404,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SMA0803,55070,,Bacharelado em Estatística (noturno),3
+SMA0803,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SMA0802,55070,,Bacharelado em Estatística (noturno),2
+SMA0802,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),2
+SME0110,55041,0,Bacharelado em Ciências de Computação (integral),6
+SME0104,55041,0,Bacharelado em Ciências de Computação (integral),5
+SME0121,55041,0,Bacharelado em Ciências de Computação (integral),5
+SME0121,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SME0121,55090,0,Bacharelado em Ciência de Dados (integral),3
+SME0121,97001,0,Engenharia de Computação (integral),7
+SME0123,55041,0,Bacharelado em Ciências de Computação (integral),4
+SME0130,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SME0130,55041,0,Bacharelado em Ciências de Computação (integral),7
+SME0130,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SME0130,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SME0130,55070,,Bacharelado em Estatística (noturno),7
+SME0130,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0130,97001,0,Engenharia de Computação (integral),7
+SME0202,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SME0202,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SME0205,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SME0205,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),3
+SME0205,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),3
+SME0205,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0211,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SME0211,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),4
+SME0211,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0206,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SME0206,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),5
+SME0206,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),4
+SME0206,55090,0,Bacharelado em Ciência de Dados (integral),5
+SME0213,18084,,Engenharia de Produção (integral),7
+SME0213,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SME0213,55090,0,Bacharelado em Ciência de Dados (integral),5
+SME0212,18084,,Engenharia de Produção (integral),6
+SME0212,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0212,55070,,Bacharelado em Estatística (noturno),6
+SME0212,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SME0212,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0214,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),8
+SME0216,18084,,Engenharia de Produção (integral),8
+SME0216,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),8
+SME0216,55090,0,Bacharelado em Ciência de Dados (integral),8
+SME0220,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SME0220,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),4
+SME0220,55090,0,Bacharelado em Ciência de Dados (integral),2
+SME0221,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SME0221,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SME0221,55090,0,Bacharelado em Ciência de Dados (integral),3
+SME0231,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SME0231,55041,0,Bacharelado em Ciências de Computação (integral),6
+SME0231,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SME0231,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0231,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SME0231,55090,0,Bacharelado em Ciência de Dados (integral),6
+SME0240,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),4
+SME0240,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SME0240,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),4
+SME0240,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SME0240,55090,0,Bacharelado em Ciência de Dados (integral),3
+SME0243,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0243,55090,0,Bacharelado em Ciência de Dados (integral),7
+SME0245,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SME0245,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),6
+SME0245,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0250,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SME0251,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0253,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),8
+SME0254,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SME0256,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0262,55070,,Bacharelado em Estatística (noturno),8
+SME0262,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SME0262,55090,0,Bacharelado em Ciência de Dados (integral),8
+SME0300,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),4
+SME0300,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),4
+SME0300,18063,,Engenharia Mecânica (integral),3
+SME0300,18070,,Engenharia Aeronáutica (integral),3
+SME0300,18084,,Engenharia de Produção (integral),5
+SME0300,18250,,Engenharia Mecatrônica (integral),3
+SME0305,18023,,Engenharia Civil (integral),3
+SME0305,18350,,Engenharia de Materiais e Manufatura (integral),3
+SME0306,18023,,Engenharia Civil (integral),4
+SME0306,18350,,Engenharia de Materiais e Manufatura (integral),6
+SME0320,18023,,Engenharia Civil (integral),4
+SME0320,18030,,Engenharia Ambiental (integral),4
+SME0320,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),3
+SME0320,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),3
+SME0320,18063,,Engenharia Mecânica (integral),3
+SME0320,18070,,Engenharia Aeronáutica (integral),4
+SME0320,18084,,Engenharia de Produção (integral),3
+SME0320,18250,,Engenharia Mecatrônica (integral),4
+SME0334,18030,,Engenharia Ambiental (integral),4
+SME0500,55051,4,Bacharelado em Sistemas de Informação (noturno),3
+SME0510,55051,4,Bacharelado em Sistemas de Informação (noturno),4
+SME0510,55070,,Bacharelado em Estatística (noturno),8
+SME0510,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SME0520,55051,4,Bacharelado em Sistemas de Informação (noturno),3
+SME0602,97001,0,Engenharia de Computação (integral),3
+SME0610,97001,0,Engenharia de Computação (integral),5
+SME0800,55070,,Bacharelado em Estatística (noturno),2
+SME0800,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),2
+SME0801,55070,,Bacharelado em Estatística (noturno),3
+SME0801,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SME0805,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0805,55070,,Bacharelado em Estatística (noturno),4
+SME0805,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),4
+SME0806,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SME0806,55041,0,Bacharelado em Ciências de Computação (integral),7
+SME0806,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SME0806,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0806,55070,,Bacharelado em Estatística (noturno),5
+SME0806,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),5
+SME0806,55090,0,Bacharelado em Ciência de Dados (integral),5
+SME0806,97001,0,Engenharia de Computação (integral),5
+SME0807,55070,,Bacharelado em Estatística (noturno),5
+SME0807,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),5
+SME0807,55090,0,Bacharelado em Ciência de Dados (integral),5
+SME0809,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0809,55070,,Bacharelado em Estatística (noturno),4
+SME0809,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),4
+SME0809,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0808,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SME0808,55041,0,Bacharelado em Ciências de Computação (integral),8
+SME0808,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SME0808,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0808,55070,,Bacharelado em Estatística (noturno),6
+SME0808,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SME0808,55090,0,Bacharelado em Ciência de Dados (integral),6
+SME0808,97001,0,Engenharia de Computação (integral),6
+SME0810,55070,,Bacharelado em Estatística (noturno),4
+SME0810,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SME0810,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0811,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0811,55070,,Bacharelado em Estatística (noturno),5
+SME0811,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),5
+SME0812,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),8
+SME0812,55070,,Bacharelado em Estatística (noturno),8
+SME0812,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SME0814,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SME0815,55070,,Bacharelado em Estatística (noturno),9
+SME0816,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0816,55070,,Bacharelado em Estatística (noturno),5
+SME0816,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),5
+SME0816,55090,0,Bacharelado em Ciência de Dados (integral),5
+SME0818,55070,,Bacharelado em Estatística (noturno),3
+SME0818,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SME0819,55070,,Bacharelado em Estatística (noturno),3
+SME0820,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+SME0820,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0820,55070,,Bacharelado em Estatística (noturno),4
+SME0820,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),4
+SME0820,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0820,97001,0,Engenharia de Computação (integral),5
+SME0821,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0821,55070,,Bacharelado em Estatística (noturno),7
+SME0821,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),5
+SME0822,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SME0822,55041,0,Bacharelado em Ciências de Computação (integral),8
+SME0822,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SME0822,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0822,55070,,Bacharelado em Estatística (noturno),6
+SME0822,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SME0822,55090,0,Bacharelado em Ciência de Dados (integral),6
+SME0822,97001,0,Engenharia de Computação (integral),6
+SME0823,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),6
+SME0823,55041,0,Bacharelado em Ciências de Computação (integral),8
+SME0823,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SME0823,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SME0823,55070,,Bacharelado em Estatística (noturno),6
+SME0823,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SME0823,55090,0,Bacharelado em Ciência de Dados (integral),6
+SME0823,97001,0,Engenharia de Computação (integral),6
+SME0824,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0824,55070,,Bacharelado em Estatística (noturno),5
+SME0824,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),4
+SME0826,55070,,Bacharelado em Estatística (noturno),6
+SME0826,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0827,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SME0828,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),4
+SME0829,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),5
+SME0830,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SME0852,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0852,55090,0,Bacharelado em Ciência de Dados (integral),5
+SME0854,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0853,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0860,55090,0,Bacharelado em Ciência de Dados (integral),5
+SME0861,55090,0,Bacharelado em Ciência de Dados (integral),6
+SME0862,55090,0,Bacharelado em Ciência de Dados (integral),4
+SME0870,55070,,Bacharelado em Estatística (noturno),8
+SME0870,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SME0870,55090,0,Bacharelado em Ciência de Dados (integral),6
+SME0871,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0871,55070,,Bacharelado em Estatística (noturno),7
+SME0871,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0871,55090,0,Bacharelado em Ciência de Dados (integral),7
+SME0873,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0875,55070,,Bacharelado em Estatística (noturno),9
+SME0875,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0875,55090,0,Bacharelado em Ciência de Dados (integral),7
+SME0876,55070,,Bacharelado em Estatística (noturno),9
+SME0876,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0878,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),7
+SME0878,55041,0,Bacharelado em Ciências de Computação (integral),9
+SME0878,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SME0878,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),7
+SME0878,55070,,Bacharelado em Estatística (noturno),9
+SME0878,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0878,55090,0,Bacharelado em Ciência de Dados (integral),7
+SME0878,97001,0,Engenharia de Computação (integral),7
+SME0879,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SME0881,55070,,Bacharelado em Estatística (noturno),9
+SME0880,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),8
+SME0882,55070,,Bacharelado em Estatística (noturno),7
+SME0882,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),7
+SME0892,55070,,Bacharelado em Estatística (noturno),4
+SME0892,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),3
+SSC0103,55041,0,Bacharelado em Ciências de Computação (integral),3
+SSC0108,55041,0,Bacharelado em Ciências de Computação (integral),2
+SSC0119,55041,0,Bacharelado em Ciências de Computação (integral),3
+SSC0118,55041,0,Bacharelado em Ciências de Computação (integral),2
+SSC0120,55090,0,Bacharelado em Ciência de Dados (integral),7
+SSC0123,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0124,55041,0,Bacharelado em Ciências de Computação (integral),4
+SSC0124,55090,0,Bacharelado em Ciência de Dados (integral),4
+SSC0140,55041,0,Bacharelado em Ciências de Computação (integral),4
+SSC0140,55090,0,Bacharelado em Ciência de Dados (integral),4
+SSC0130,55041,0,Bacharelado em Ciências de Computação (integral),5
+SSC0130,55090,0,Bacharelado em Ciência de Dados (integral),5
+SSC0142,55041,0,Bacharelado em Ciências de Computação (integral),5
+SSC0142,55090,0,Bacharelado em Ciência de Dados (integral),5
+SSC0141,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0152,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0152,97001,0,Engenharia de Computação (integral),8
+SSC0154,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0158,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0158,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SSC0158,55090,0,Bacharelado em Ciência de Dados (integral),7
+SSC0159,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0160,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0503,55051,4,Bacharelado em Sistemas de Informação (noturno),2
+SSC0513,55051,4,Bacharelado em Sistemas de Informação (noturno),2
+SSC0524,55051,4,Bacharelado em Sistemas de Informação (noturno),4
+SSC0528,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SSC0531,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SSC0533,55051,4,Bacharelado em Sistemas de Informação (noturno),3
+SSC0534,55051,4,Bacharelado em Sistemas de Informação (noturno),4
+SSC0536,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SSC0535,55051,4,Bacharelado em Sistemas de Informação (noturno),5
+SSC0540,55051,4,Bacharelado em Sistemas de Informação (noturno),5
+SSC0541,55051,4,Bacharelado em Sistemas de Informação (noturno),3
+SSC0570,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SSC0547,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SSC0592,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SSC0594,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SSC0596,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SSC0598,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SSC0602,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),2
+SSC0602,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),2
+SSC0603,97001,0,Engenharia de Computação (integral),2
+SSC0620,97001,0,Engenharia de Computação (integral),7
+SSC0621,97001,0,Engenharia de Computação (integral),6
+SSC0622,97001,0,Engenharia de Computação (integral),8
+SSC0640,97001,0,Engenharia de Computação (integral),5
+SSC0641,97001,0,Engenharia de Computação (integral),6
+SSC0643,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0643,97001,0,Engenharia de Computação (integral),8
+SSC0675,97001,0,Engenharia de Computação (integral),10
+SSC0720,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0720,97001,0,Engenharia de Computação (integral),8
+SSC0724,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0723,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0725,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0725,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SSC0725,97001,0,Engenharia de Computação (integral),7
+SSC0741,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0741,97001,0,Engenharia de Computação (integral),10
+SSC0740,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0740,97001,0,Engenharia de Computação (integral),7
+SSC0726,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0726,55051,4,Bacharelado em Sistemas de Informação (noturno),8
+SSC0726,97001,0,Engenharia de Computação (integral),8
+SSC0743,97001,0,Engenharia de Computação (integral),7
+SSC0745,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0745,97001,0,Engenharia de Computação (integral),8
+SSC0744,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0744,97001,0,Engenharia de Computação (integral),8
+SSC0746,97001,0,Engenharia de Computação (integral),10
+SSC0748,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0748,97001,0,Engenharia de Computação (integral),8
+SSC0770,55041,0,Bacharelado em Ciências de Computação (integral),6
+SSC0770,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SSC0770,97001,0,Engenharia de Computação (integral),6
+SSC0900,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0900,55090,0,Bacharelado em Ciência de Dados (integral),7
+SSC0900,97001,0,Engenharia de Computação (integral),7
+SSC0902,55041,0,Bacharelado em Ciências de Computação (integral),3
+SSC0902,97001,0,Engenharia de Computação (integral),4
+SSC0901,55041,0,Bacharelado em Ciências de Computação (integral),8
+SSC0901,55090,0,Bacharelado em Ciência de Dados (integral),8
+SSC0901,97001,0,Engenharia de Computação (integral),8
+SSC0903,55041,0,Bacharelado em Ciências de Computação (integral),6
+SSC0903,55090,0,Bacharelado em Ciência de Dados (integral),6
+SSC0903,97001,0,Engenharia de Computação (integral),7
+SSC0904,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0904,55090,0,Bacharelado em Ciência de Dados (integral),7
+SSC0904,97001,0,Engenharia de Computação (integral),6
+SSC0950,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0950,55051,4,Bacharelado em Sistemas de Informação (noturno),7
+SSC0952,55090,0,Bacharelado em Ciência de Dados (integral),8
+SSC0952,97001,0,Engenharia de Computação (integral),7
+SSC0951,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0954,55041,0,Bacharelado em Ciências de Computação (integral),6
+SSC0956,55090,0,Bacharelado em Ciência de Dados (integral),8
+SSC0957,55090,0,Bacharelado em Ciência de Dados (integral),6
+SSC0959,55041,0,Bacharelado em Ciências de Computação (integral),7
+SSC0959,55090,0,Bacharelado em Ciência de Dados (integral),7
+SSC0959,97001,0,Engenharia de Computação (integral),9
+SSC0960,55041,0,Bacharelado em Ciências de Computação (integral),3
+SSC0960,55051,4,Bacharelado em Sistemas de Informação (noturno),3
+SSC0961,55051,4,Bacharelado em Sistemas de Informação (noturno),5
+SSC0961,97001,0,Engenharia de Computação (integral),5
+1800043,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),4
+1800043,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),4
+1800043,18063,,Engenharia Mecânica (integral),3
+1800043,18084,,Engenharia de Produção (integral),4
+1800043,97001,0,Engenharia de Computação (integral),8
+7600005,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),3
+7600005,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),3
+7500053,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental (integral),7
+7500053,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Alimentos (integral),7
+7500053,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Ambiental (integral),7
+7500053,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Gestão de Qualidade (integral),7
+7500053,75014,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Materiais (integral),5
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Alimentos (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Ambiental (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Gestão de Qualidade (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Fundamental - Ênfase: Materiais (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Alimentos (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Ambiental (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Gestão de Qualidade (integral),7
+7500053,75015,,Química - Habilitação: Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Materiais (integral),5
+7600006,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),4
+7600006,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),4
+7600006,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),4
+7600074,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+7600074,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),8
+7600074,76014,,Física - Habilitação: Habilitação: Teórico-Experimental (integral),8
+7600074,76014,,Física - Habilitação: Habilitação: Óptica e Fotônica (integral),8
+7600074,76041,,Bacharelado em Física Computacional (integral),8
+7600074,97001,0,Engenharia de Computação (integral),8
+7600107,55030,200,Matemática - Habilitação: Bacharelado em Matemática (integral),5
+IAU0315,18030,,Engenharia Ambiental (integral),2
+IAU0315,55071,4,Bacharelado em Estatística e Ciência de Dados (noturno),6
+SAA0356,18023,,Engenharia Civil (integral),6
+SAA0356,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SAA0356,18063,,Engenharia Mecânica (integral),6
+SAA0356,18070,,Engenharia Aeronáutica (integral),6
+SAA0356,18250,,Engenharia Mecatrônica (integral),6
+SAA0356,18350,,Engenharia de Materiais e Manufatura (integral),6
+SAA0356,97001,0,Engenharia de Computação (integral),8
+SEL0326,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0326,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0326,97001,0,Engenharia de Computação (integral),8
+SEL0338,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0338,97001,0,Engenharia de Computação (integral),7
+SEL0328,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0328,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0328,97001,0,Engenharia de Computação (integral),8
+SEL0339,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0339,18084,,Engenharia de Produção (integral),8
+SEL0339,18250,,Engenharia Mecatrônica (integral),10
+SEL0339,97001,0,Engenharia de Computação (integral),8
+SEL0344,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0344,97001,0,Engenharia de Computação (integral),6
+SEL0347,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),9
+SEL0347,97001,0,Engenharia de Computação (integral),9
+SEL0356,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0356,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),8
+SEL0356,18084,,Engenharia de Produção (integral),8
+SEL0356,97001,0,Engenharia de Computação (integral),8
+SEL0361,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0361,97001,0,Engenharia de Computação (integral),8
+SEL0366,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),9
+SEL0366,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),9
+SEL0366,97001,0,Engenharia de Computação (integral),7
+SEL0367,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),10
+SEL0367,97001,0,Engenharia de Computação (integral),10
+SEL0370,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),9
+SEL0370,97001,0,Engenharia de Computação (integral),9
+SEL0369,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),9
+SEL0369,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),9
+SEL0369,97001,0,Engenharia de Computação (integral),9
+SEL0371,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0371,97001,0,Engenharia de Computação (integral),8
+SEL0373,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0373,97001,0,Engenharia de Computação (integral),9
+SEL0387,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),10
+SEL0387,97001,0,Engenharia de Computação (integral),10
+SEL0386,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),10
+SEL0398,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),9
+SEL0398,18084,,Engenharia de Produção (integral),9
+SEL0398,97001,0,Engenharia de Computação (integral),9
+SEL0406,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0406,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SEL0406,97001,0,Engenharia de Computação (integral),5
+SEL0429,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0429,18084,,Engenharia de Produção (integral),8
+SEL0429,97001,0,Engenharia de Computação (integral),8
+SEL0431,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0431,97001,0,Engenharia de Computação (integral),6
+SEL0434,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0434,18084,,Engenharia de Produção (integral),7
+SEL0434,97001,0,Engenharia de Computação (integral),7
+SEL0441,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),3
+SEL0441,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),3
+SEL0459,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0459,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0459,97001,0,Engenharia de Computação (integral),6
+SEL0460,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0460,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0460,97001,0,Engenharia de Computação (integral),6
+SEL0461,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0461,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEL0461,97001,0,Engenharia de Computação (integral),7
+SEL0462,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0462,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEL0462,97001,0,Engenharia de Computação (integral),7
+SEL0463,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0463,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),8
+SEL0463,97001,0,Engenharia de Computação (integral),8
+SEL0464,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0464,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),8
+SEL0464,97001,0,Engenharia de Computação (integral),8
+SEL0467,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0467,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEL0467,97001,0,Engenharia de Computação (integral),7
+SEL0468,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0468,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),8
+SEL0468,97001,0,Engenharia de Computação (integral),8
+SEL0470,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0470,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEL0470,97001,0,Engenharia de Computação (integral),7
+SEL0471,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0471,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0471,97001,0,Engenharia de Computação (integral),6
+SEL0602,97001,0,Engenharia de Computação (integral),3
+SEL0606,97001,0,Engenharia de Computação (integral),4
+SEL0604,97001,0,Engenharia de Computação (integral),4
+SEL0608,97001,0,Engenharia de Computação (integral),4
+SEL0609,97001,0,Engenharia de Computação (integral),5
+SEL0611,97001,0,Engenharia de Computação (integral),5
+SEL0610,97001,0,Engenharia de Computação (integral),6
+SEL0612,97001,0,Engenharia de Computação (integral),5
+SEL0613,97001,0,Engenharia de Computação (integral),6
+SEL0614,97001,0,Engenharia de Computação (integral),6
+SEL0615,97001,0,Engenharia de Computação (integral),5
+SEL0616,97001,0,Engenharia de Computação (integral),7
+SEL0617,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEL0617,97001,0,Engenharia de Computação (integral),7
+SEL0618,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0618,97001,0,Engenharia de Computação (integral),7
+SEL0619,97001,0,Engenharia de Computação (integral),8
+SEL0620,97001,0,Engenharia de Computação (integral),8
+SEL0621,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0621,97001,0,Engenharia de Computação (integral),8
+SEL0622,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0622,97001,0,Engenharia de Computação (integral),8
+SEL0623,97001,0,Engenharia de Computação (integral),9
+SEL0629,97001,0,Engenharia de Computação (integral),7
+SEL0631,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0631,97001,0,Engenharia de Computação (integral),8
+SEL0630,97001,0,Engenharia de Computação (integral),8
+SEL0632,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SEL0632,97001,0,Engenharia de Computação (integral),5
+SEL0633,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),9
+SEL0633,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),9
+SEL0633,18084,,Engenharia de Produção (integral),9
+SEL0633,97001,0,Engenharia de Computação (integral),9
+SEL0634,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),9
+SEL0634,97001,0,Engenharia de Computação (integral),9
+SEM0403,18063,,Engenharia Mecânica (integral),5
+SEM0403,18250,,Engenharia Mecatrônica (integral),6
+SEM0403,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),5
+SEM0550,18063,,Engenharia Mecânica (integral),6
+SEM0550,18250,,Engenharia Mecatrônica (integral),7
+SEM0550,55060,0,Bacharelado em Matemática Aplicada e Computação Científica (integral),6
+SEM0575,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEM0575,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEM0575,18063,,Engenharia Mecânica (integral),7
+SEM0575,18084,,Engenharia de Produção (integral),7
+SEM0575,18250,,Engenharia Mecatrônica (integral),7
+SEM0575,97001,0,Engenharia de Computação (integral),7
+SEM0576,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEM0576,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEM0576,18063,,Engenharia Mecânica (integral),7
+SEM0576,18070,,Engenharia Aeronáutica (integral),7
+SEM0576,18250,,Engenharia Mecatrônica (integral),7
+SEM0576,97001,0,Engenharia de Computação (integral),7
+SEM0587,18063,,Engenharia Mecânica (integral),8
+SEM0587,18084,,Engenharia de Produção (integral),8
+SEM0587,18250,,Engenharia Mecatrônica (integral),8
+SEM0587,18350,,Engenharia de Materiais e Manufatura (integral),8
+SEM0587,97001,0,Engenharia de Computação (integral),8
+SEP0172,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SEP0301,55051,4,Bacharelado em Sistemas de Informação (noturno),6
+SHS0619,97001,0,Engenharia de Computação (integral),3
+SLC0532,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),4
+SLC0532,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),8
+SLC0534,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),8
+SLC0610,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),7
+SLC0614,55030,300,Matemática - Habilitação: Licenciatura em Matemática (integral),5
+SLC0614,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),5
+SLC0615,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),3
+SLC0621,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),2
+SLC0687,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),7
+SMM0193,18063,,Engenharia Mecânica (integral),3
+SMM0193,18084,,Engenharia de Produção (integral),3
+SMM0193,18250,,Engenharia Mecatrônica (integral),3
+SMM0193,97001,0,Engenharia de Computação (integral),5
+7600022,76014,,Física - Habilitação: Física - Núcleo Geral (integral),6
+7600022,76041,,Bacharelado em Física Computacional (integral),6
+7600022,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),6
+7600022,76062,,Bacharelado em Física Biomolecular (integral),6
+7600117,75014,,Química - Habilitação: Química - Núcleo Geral (integral),4
+7600117,75015,,Química - Habilitação: Química - Núcleo Geral (integral),4
+7500004,75014,,Química - Habilitação: Química - Núcleo Geral (integral),4
+7500004,75015,,Química - Habilitação: Química - Núcleo Geral (integral),4
+SAA0180,18070,,Engenharia Aeronáutica (integral),4
+SEL0310,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SEL0310,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SEL0337,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0337,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0314,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),6
+SEL0314,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),6
+SEL0327,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SEL0327,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SEL0343,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SEL0343,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SEL0346,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),8
+SEL0360,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),7
+SEL0360,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),7
+SEL0383,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),4
+SEL0383,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),4
+SEL0403,18084,,Engenharia de Produção (integral),3
+SEL0415,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),4
+SEL0415,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),4
+SEL0415,18250,,Engenharia Mecatrônica (integral),6
+SEL0417,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SEL0417,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SEL0450,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),4
+SEL0450,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),4
+SEM0343,18063,,Engenharia Mecânica (integral),4
+SEM0233,18063,,Engenharia Mecânica (integral),5
+SEM0233,18250,,Engenharia Mecatrônica (integral),5
+SEM0233,18350,,Engenharia de Materiais e Manufatura (integral),3
+SEM0565,18063,,Engenharia Mecânica (integral),2
+SEM0565,18084,,Engenharia de Produção (integral),2
+SEM0565,18250,,Engenharia Mecatrônica (integral),2
+SEM0565,18350,,Engenharia de Materiais e Manufatura (integral),2
+SEM0567,18250,,Engenharia Mecatrônica (integral),6
+SEP0284,18084,,Engenharia de Produção (integral),4
+SLC0609,90011,,Licenciatura em Ciências Exatas - Habilitação: Habilitação em Matemática (noturno),6
+7600020,76014,,Física - Habilitação: Física - Núcleo Geral (integral),5
+7600020,76041,,Bacharelado em Física Computacional (integral),5
+7600020,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),5
+7600020,76062,,Bacharelado em Física Biomolecular (integral),5
+7600116,75014,,Química - Habilitação: Química - Núcleo Geral (integral),3
+7600116,75015,,Química - Habilitação: Química - Núcleo Geral (integral),3
+7600019,76014,,Física - Habilitação: Física - Núcleo Geral (integral),5
+7600019,76041,,Bacharelado em Física Computacional (integral),5
+7600019,76061,,Bacharelado em Ciências Físicas e Biomoleculares (integral),5
+7600019,76062,,Bacharelado em Física Biomolecular (integral),5
+SEL0309,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),4
+SEL0309,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),4
+SEL0313,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SEL0313,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SEL0433,18045,,Engenharia Elétrica - Habilitação: Ênfase em Eletrônica (integral),5
+SEL0433,18050,,Engenharia Elétrica - Habilitação: Ênfase em Sistemas de Energia e Automação (integral),5
+SEL0454,18250,,Engenharia Mecatrônica (integral),4
+SEL0455,18250,,Engenharia Mecatrônica (integral),5
+SEP0285,18084,,Engenharia de Produção (integral),4
+SLC0607,90011,,Licenciatura em Ciências Exatas - Habilitação: Licenciatura em Ciências Exatas - Núcleo Geral (noturno),2
+SMM0194,18063,,Engenharia Mecânica (integral),4
+SMM0194,18084,,Engenharia de Produção (integral),4
+SMM0194,18250,,Engenharia Mecatrônica (integral),4

@@ -1,0 +1,878 @@
+codcur,codhab,sigla,nome_na_grade,tipo_vinculo,semestre_ideal,creditos_aula,creditos_trabalho
+55090,0,5500004,Fundamentos em Ciências de Dados,obrigatoria,1,4,1
+55090,0,5500005,Informação Profissional em Ciência de Dados,obrigatoria,1,1,1
+55090,0,SCC0221,Introdução à Ciência de Computação I,obrigatoria,1,4,1
+55090,0,SCC0222,Laboratório de Introdução à Ciência de Computação I,obrigatoria,1,2,2
+55090,0,SMA0353,Cálculo I,obrigatoria,1,4,0
+55090,0,SSC0955,Introdução a Sistemas Computacionais,obrigatoria,1,4,1
+55090,0,SCC0223,Estruturas de dados I,obrigatoria,2,4,2
+55090,0,SMA0354,Cálculo II,obrigatoria,2,4,0
+55090,0,SME0142,Álgebra Linear e Aplicações,obrigatoria,2,4,1
+55090,0,SME0220,Introdução à Teoria das Probabilidades,obrigatoria,2,4,0
+55090,0,SCC0204,Programação Orientada a Objetos,obrigatoria,3,4,2
+55090,0,SCC0224,Estruturas de dados II,obrigatoria,3,4,2
+55090,0,SMA0355,Cálculo III,obrigatoria,3,4,0
+55090,0,SME0221,Introdução à Inferência Estatística,obrigatoria,3,4,2
+55090,0,SCC0230,Inteligência Artificial,obrigatoria,4,4,1
+55090,0,SMA0180,Matemática Discreta I,obrigatoria,4,4,0
+55090,0,SME0212,Otimização Não Linear,obrigatoria,4,4,2
+55090,0,SME0820,Modelos de Regressão e Aprendizado Supervisionado I,obrigatoria,4,4,1
+55090,0,SCC0240,Bases de Dados,obrigatoria,5,4,2
+55090,0,SCC0270,Redes Neurais e Aprendizado Profundo,obrigatoria,5,4,1
+55090,0,SCC0276,Aprendizado de Máquina,obrigatoria,5,4,1
+55090,0,SME0852,Prática em Ciência de Dados I,obrigatoria,5,4,4
+55090,0,SCC0252,Visualização Computacional,obrigatoria,6,3,1
+55090,0,SME0808,Séries Temporais e Aprendizado Dinâmico,obrigatoria,6,4,0
+55090,0,SME0822,Análise Multivariada e Aprendizado Não Supervisionado,obrigatoria,6,4,0
+55090,0,SSC0957,Prática em Ciência de Dados II,obrigatoria,6,4,4
+55090,0,SCC0633,Processamento de Linguagem Natural,obrigatoria,7,4,1
+55090,0,SCC0802,Prática em Ciência de Dados III,obrigatoria,7,4,4
+55090,0,SME0878,Mineração Estatística de Dados,obrigatoria,7,4,2
+55090,0,SCC0291,Estágio Supervisionado I,obrigatoria,8,4,10
+55090,0,SCC0220,Laboratório de Introdução à Ciência da Computação II,optativa_eletiva,2,4,0
+55090,0,SCC0209,Empreendedores em Informática,optativa_eletiva,3,4,1
+55090,0,SCC0215,Organização de Arquivos,optativa_eletiva,3,3,2
+55090,0,SME0121,Processos Estocásticos,optativa_eletiva,3,4,0
+55090,0,SME0240,Equações Diferenciais Ordinárias,optativa_eletiva,3,4,0
+55090,0,SME0803,Visualização e Exploração de Dados,optativa_eletiva,3,4,2
+55090,0,SME0825,Metodologia Científica I,optativa_eletiva,3,2,2
+55090,0,SSC0128,Gerência de Projetos,optativa_eletiva,3,3,1
+55090,0,SCC0207,Computadores e Sociedade I,optativa_eletiva,4,2,0
+55090,0,SCC0218,Algoritmos Avançados e Aplicações,optativa_eletiva,4,2,2
+55090,0,SCC0227,Seminários em Computação I,optativa_eletiva,4,1,0
+55090,0,SCC0271,Introdução à Bioinformática,optativa_eletiva,4,2,1
+55090,0,SMA0356,Cálculo IV,optativa_eletiva,4,4,0
+55090,0,SME0205,Métodos do Cálculo Numérico I,optativa_eletiva,4,4,0
+55090,0,SME0211,Otimização Linear,optativa_eletiva,4,4,2
+55090,0,SME0809,Inferência Bayesiana,optativa_eletiva,4,4,0
+55090,0,SME0810,Métodos Não Paramétricos,optativa_eletiva,4,4,0
+55090,0,SME0826,Metodologia Científica II,optativa_eletiva,4,2,2
+55090,0,SME0862,Empreendedorismo Social Voluntário,optativa_eletiva,4,1,2
+55090,0,SSC0124,Análise e Projeto Orientados a Objetos,optativa_eletiva,4,2,1
+55090,0,SSC0140,Sistemas Operacionais I,optativa_eletiva,4,4,2
+55090,0,SCC0219,Introdução ao Desenvolvimento Web,optativa_eletiva,5,4,1
+55090,0,SCC0228,Seminários em Computação II,optativa_eletiva,5,1,0
+55090,0,SCC0251,Processamento de Imagens,optativa_eletiva,5,4,1
+55090,0,SCC0261,Multimídia,optativa_eletiva,5,2,0
+55090,0,SMA0307,Análise I,optativa_eletiva,5,4,0
+55090,0,SME0104,Cálculo Numérico,optativa_eletiva,5,4,0
+55090,0,SME0130,Redes Complexas,optativa_eletiva,5,4,2
+55090,0,SME0206,Fundamentos de Análise Numérica,optativa_eletiva,5,4,2
+55090,0,SME0213,Otimização Inteira,optativa_eletiva,5,4,2
+55090,0,SME0273,Prática em Matemática Aplicada e Computação Científica,optativa_eletiva,5,2,2
+55090,0,SME0806,Estatística Computacional,optativa_eletiva,5,4,2
+55090,0,SME0807,Técnicas de Amostragem,optativa_eletiva,5,4,0
+55090,0,SME0816,Planejamento de Experimentos I,optativa_eletiva,5,4,2
+55090,0,SME0860,Aprendizado de Máquina Aplicado a Problemas,optativa_eletiva,5,2,2
+55090,0,SSC0130,Engenharia de Software,optativa_eletiva,5,4,1
+55090,0,SSC0142,Redes de Computadores,optativa_eletiva,5,4,2
+55090,0,SCC0229,Seminários em Computação III,optativa_eletiva,6,1,0
+55090,0,SCC0244,Mineração a partir de Grandes Bases de Dados,optativa_eletiva,6,3,0
+55090,0,SCC0245,Processamento Analítico de Dados,optativa_eletiva,6,3,2
+55090,0,SCC0247,Banco de dados NoSQL e arcabouços distribuídos de processamento,optativa_eletiva,6,4,2
+55090,0,SCC0282,Recuperação da Informação,optativa_eletiva,6,2,1
+55090,0,SCC0283,Introdução à Web Semântica,optativa_eletiva,6,4,2
+55090,0,SCC0287,Mineração de Dados Não Estruturados,optativa_eletiva,6,4,1
+55090,0,SMA0308,Análise II,optativa_eletiva,6,4,0
+55090,0,SMA0343,Espaços Métricos,optativa_eletiva,6,4,0
+55090,0,SME0231,Análise Topológica de Dados,optativa_eletiva,6,4,2
+55090,0,SME0274,Tópicos em Matemática Aplicada II,optativa_eletiva,6,4,0
+55090,0,SME0823,Modelos de Regressão e Aprendizado Supervisionado II,optativa_eletiva,6,4,1
+55090,0,SME0861,Participação colaborativa em Competições em Ciência de Dados,optativa_eletiva,6,1,2
+55090,0,SME0870,Tópicos Especiais em Estatística Aplicada I,optativa_eletiva,6,4,2
+55090,0,SSC0903,Computação de Alto Desempenho,optativa_eletiva,6,4,1
+55090,0,SCC0241,Laboratório de Bases de Dados,optativa_eletiva,7,4,2
+55090,0,SCC0243,Arquitetura de Sistemas Gerenciadores de Bases de Dados,optativa_eletiva,7,4,2
+55090,0,SCC0284,Sistemas de Recomendação,optativa_eletiva,7,4,1
+55090,0,SCC0910,Tópicos Avançados em Ciências de Computação I,optativa_eletiva,7,3,2
+55090,0,SMA0120,Introdução à Análise Funcional,optativa_eletiva,7,4,1
+55090,0,SME0243,Teoria Espectral de Matrizes,optativa_eletiva,7,4,0
+55090,0,SME0871,Bioestatística,optativa_eletiva,7,4,2
+55090,0,SME0875,Tópicos Especiais em Estatística Aplicada II,optativa_eletiva,7,4,2
+55090,0,SSC0120,Sistemas de Informação,optativa_eletiva,7,2,1
+55090,0,SSC0158,Computação em Nuvem e Arquitetura Orientadas a Serviços,optativa_eletiva,7,2,1
+55090,0,SSC0900,Engenharia de Segurança,optativa_eletiva,7,2,1
+55090,0,SSC0904,Sistemas Computacionais Distribuídos,optativa_eletiva,7,2,1
+55090,0,SSC0959,Teste e Inspeção de Software,optativa_eletiva,7,2,1
+55090,0,SCC0289,Projeto em Intercâmbio I,optativa_eletiva,8,4,10
+55090,0,SCC0293,Projeto de Graduação I,optativa_eletiva,8,4,10
+55090,0,SCC0911,Tópicos Avançados em Ciências de Computação II,optativa_eletiva,8,3,2
+55090,0,SME0216,Tópicos de Otimização Combinatória,optativa_eletiva,8,4,0
+55090,0,SME0262,Análise de Séries Temporais em Finanças,optativa_eletiva,8,4,2
+55090,0,SSC0901,Laboratório de Engenharia de Segurança,optativa_eletiva,8,2,1
+55090,0,SSC0952,Internet das Coisas,optativa_eletiva,8,4,2
+55090,0,SSC0956,Soluções Otimizadas por Mineração de Dados Complexos,optativa_eletiva,8,3,1
+55090,0,SSC0958,Criptomoedas e Blockchain,optativa_eletiva,8,4,2
+55090,0,SMA0392,Cálculo I (semipresencial),optativa_livre,3,4,0
+55090,0,SMA0390,Cálculo II (semipresencial),optativa_livre,4,4,0
+55090,0,SMA0393,Cálculo III (semipresencial),optativa_livre,5,4,0
+55090,0,SMA0391,Cálculo IV (semipresencial),optativa_livre,6,4,0
+55041,0,SCC0200,Informação Profissional e Tutoria Acadêmica em Ciências da Computação,obrigatoria,1,2,0
+55041,0,SCC0221,Introdução à Ciência de Computação I,obrigatoria,1,4,1
+55041,0,SCC0222,Laboratório de Introdução à Ciência de Computação I,obrigatoria,1,2,2
+55041,0,SMA0300,Geometria Analítica,obrigatoria,1,4,0
+55041,0,SMA0353,Cálculo I,obrigatoria,1,4,0
+55041,0,SSC0104,Evolução Histórica da Computação e Aplicações,obrigatoria,1,2,1
+55041,0,SSC0109,Prática em Lógica Digital,obrigatoria,1,2,1
+55041,0,SSC0117,Introdução à Lógica Digital,obrigatoria,1,2,1
+55041,0,SSC0180,Eletrônica para Computação,obrigatoria,1,2,2
+55041,0,SCC0201,Introdução à Ciência de Computação II,obrigatoria,2,4,2
+55041,0,SCC0202,Algoritmos e Estruturas de Dados I,obrigatoria,2,4,2
+55041,0,SMA0180,Matemática Discreta I,obrigatoria,2,4,0
+55041,0,SMA0354,Cálculo II,obrigatoria,2,4,0
+55041,0,SSC0108,Prática em Sistemas Digitais,obrigatoria,2,2,1
+55041,0,SSC0118,Sistemas Digitais,obrigatoria,2,2,1
+55041,0,SCC0215,Organização de Arquivos,obrigatoria,3,3,2
+55041,0,SCC0216,Modelagem Computacional em Grafos,obrigatoria,3,2,1
+55041,0,SMA0355,Cálculo III,obrigatoria,3,4,0
+55041,0,SSC0103,Programação Orientada a Objetos,obrigatoria,3,2,1
+55041,0,SSC0902,Organização e Arquitetura de Computadores,obrigatoria,3,4,1
+55041,0,SSC0960,Programação Funcional,obrigatoria,3,2,1
+55041,0,SCC0213,Metodologia de Pesquisa em Computação,obrigatoria,4,2,2
+55041,0,SCC0218,Algoritmos Avançados e Aplicações,obrigatoria,4,2,2
+55041,0,SME0123,Estatística,obrigatoria,4,4,0
+55041,0,SME0142,Álgebra Linear e Aplicações,obrigatoria,4,4,1
+55041,0,SSC0124,Análise e Projeto Orientados a Objetos,obrigatoria,4,2,1
+55041,0,SSC0140,Sistemas Operacionais I,obrigatoria,4,4,2
+55041,0,SCC0219,Introdução ao Desenvolvimento Web,obrigatoria,5,4,1
+55041,0,SCC0240,Bases de Dados,obrigatoria,5,4,2
+55041,0,SME0104,Cálculo Numérico,obrigatoria,5,4,0
+55041,0,SME0121,Processos Estocásticos,obrigatoria,5,4,0
+55041,0,SSC0130,Engenharia de Software,obrigatoria,5,4,1
+55041,0,SSC0142,Redes de Computadores,obrigatoria,5,4,2
+55041,0,SCC0205,Teoria da Computação e Linguagens Formais,obrigatoria,6,4,2
+55041,0,SCC0207,Computadores e Sociedade I,obrigatoria,6,2,0
+55041,0,SCC0230,Inteligência Artificial,obrigatoria,6,4,1
+55041,0,SME0110,Programação Matemática,obrigatoria,6,4,2
+55041,0,SSC0903,Computação de Alto Desempenho,obrigatoria,6,4,1
+55041,0,SCC0217,Linguagens de Programação e Compiladores,obrigatoria,7,4,2
+55041,0,SCC0250,Computação Gráfica,obrigatoria,7,4,1
+55041,0,SSC0120,Sistemas de Informação,obrigatoria,7,2,1
+55041,0,SSC0900,Engenharia de Segurança,obrigatoria,7,2,1
+55041,0,SSC0904,Sistemas Computacionais Distribuídos,obrigatoria,7,2,1
+55041,0,SCC0291,Estágio Supervisionado I,obrigatoria,9,4,10
+55041,0,SCC0292,Estágio Supervisionado II,obrigatoria,10,4,10
+55041,0,SCC0220,Laboratório de Introdução à Ciência da Computação II,optativa_eletiva,2,4,0
+55041,0,7600005,Física I,optativa_eletiva,3,5,0
+55041,0,7600109,Laboratório de Física Geral I,optativa_eletiva,3,2,0
+55041,0,SCC0303,Introdução a Compressão de Dados,optativa_eletiva,3,2,1
+55041,0,SSC0119,Prática em Organização de Computadores,optativa_eletiva,3,2,1
+55041,0,SCC0227,Seminários em Computação I,optativa_eletiva,4,1,0
+55041,0,SCC0295,Atividades Acadêmicas de Extensão I,optativa_eletiva,4,1,2
+55041,0,SCC0210,Laboratório de Algoritmos Avançados I,optativa_eletiva,5,3,2
+55041,0,SCC0228,Seminários em Computação II,optativa_eletiva,5,1,0
+55041,0,SCC0296,Atividades Acadêmicas de Extensão II,optativa_eletiva,5,1,2
+55041,0,SSC0953,Sistemas Open Source,optativa_eletiva,5,2,2
+55041,0,SCC0211,Laboratório de Algoritmos Avançados II,optativa_eletiva,6,3,2
+55041,0,SCC0229,Seminários em Computação III,optativa_eletiva,6,1,0
+55041,0,SCC0247,Banco de dados NoSQL e arcabouços distribuídos de processamento,optativa_eletiva,6,4,2
+55041,0,SME0231,Análise Topológica de Dados,optativa_eletiva,6,4,2
+55041,0,SSC0770,Introdução ao Desenvolvimento de Jogos Eletrônicos,optativa_eletiva,6,4,2
+55041,0,SSC0954,Infraestrutura para Computação de Alto Desempenho e Sistemas Distribuídos,optativa_eletiva,6,2,2
+55041,0,SCC0209,Empreendedores em Informática,optativa_eletiva,7,4,1
+55041,0,SCC0241,Laboratório de Bases de Dados,optativa_eletiva,7,4,2
+55041,0,SCC0243,Arquitetura de Sistemas Gerenciadores de Bases de Dados,optativa_eletiva,7,4,2
+55041,0,SCC0245,Processamento Analítico de Dados,optativa_eletiva,7,3,2
+55041,0,SCC0251,Processamento de Imagens,optativa_eletiva,7,4,1
+55041,0,SCC0260,Interação Humano-Computador e Experiência do Usuário,optativa_eletiva,7,4,1
+55041,0,SCC0261,Multimídia,optativa_eletiva,7,2,0
+55041,0,SCC0270,Redes Neurais e Aprendizado Profundo,optativa_eletiva,7,4,1
+55041,0,SCC0276,Aprendizado de Máquina,optativa_eletiva,7,4,1
+55041,0,SCC0282,Recuperação da Informação,optativa_eletiva,7,2,1
+55041,0,SCC0284,Sistemas de Recomendação,optativa_eletiva,7,4,1
+55041,0,SCC0370,Introdução à Computação Bioinspirada,optativa_eletiva,7,2,1
+55041,0,SCC0633,Processamento de Linguagem Natural,optativa_eletiva,7,4,1
+55041,0,SCC0910,Tópicos Avançados em Ciências de Computação I,optativa_eletiva,7,3,2
+55041,0,SME0130,Redes Complexas,optativa_eletiva,7,4,2
+55041,0,SME0806,Estatística Computacional,optativa_eletiva,7,4,2
+55041,0,SSC0141,Prática em Sistemas Operacionais,optativa_eletiva,7,4,2
+55041,0,SSC0147,Tópicos Especiais em Sistemas de Computação I,optativa_eletiva,7,3,0
+55041,0,SSC0154,Seminários Avançados em Sistemas Distribuídos e Programação Concorrente I,optativa_eletiva,7,3,0
+55041,0,SSC0158,Computação em Nuvem e Arquitetura Orientadas a Serviços,optativa_eletiva,7,2,1
+55041,0,SSC0160,Modelagem e Simulação de Sistemas Computacionais,optativa_eletiva,7,3,2
+55041,0,SSC0712,Programação de Robôs Móveis,optativa_eletiva,7,2,3
+55041,0,SSC0714,Robôs Móveis Autônomos,optativa_eletiva,7,2,2
+55041,0,SSC0723,Sistemas Colaborativos: Fundamentos e Aplicações,optativa_eletiva,7,2,0
+55041,0,SSC0725,Arquitetura de Software,optativa_eletiva,7,2,2
+55041,0,SSC0740,Sistemas Embarcados,optativa_eletiva,7,3,2
+55041,0,SSC0950,Projeto e Desenvolvimento de Software de Sistema,optativa_eletiva,7,2,2
+55041,0,SSC0951,Desenvolvimento de Código Otimizado,optativa_eletiva,7,2,2
+55041,0,SSC0959,Teste e Inspeção de Software,optativa_eletiva,7,2,1
+55041,0,SCC0225,Laboratório de desenvolvimento de aplicações para dispositivos móveis,optativa_eletiva,8,4,1
+55041,0,SCC0231,Introdução a Sistemas Inteligentes,optativa_eletiva,8,3,1
+55041,0,SCC0233,Aplicações de Aprendizado de Máquina e Mineração de Dados,optativa_eletiva,8,2,2
+55041,0,SCC0244,Mineração a partir de Grandes Bases de Dados,optativa_eletiva,8,3,0
+55041,0,SCC0252,Visualização Computacional,optativa_eletiva,8,3,1
+55041,0,SCC0254,Introdução à Geometria Computacional: Algoritmos e Aplicações,optativa_eletiva,8,4,2
+55041,0,SCC0271,Introdução à Bioinformática,optativa_eletiva,8,2,1
+55041,0,SCC0273,Robôs Móveis Inteligentes,optativa_eletiva,8,2,1
+55041,0,SCC0275,Introdução à Ciência de Dados,optativa_eletiva,8,4,1
+55041,0,SCC0277,Competições de Ciências de Dados,optativa_eletiva,8,4,1
+55041,0,SCC0280,Acessibilidade em Sistemas Computacionais,optativa_eletiva,8,2,1
+55041,0,SCC0283,Introdução à Web Semântica,optativa_eletiva,8,4,2
+55041,0,SCC0287,Mineração de Dados Não Estruturados,optativa_eletiva,8,4,1
+55041,0,SCC0911,Tópicos Avançados em Ciências de Computação II,optativa_eletiva,8,3,2
+55041,0,SME0808,Séries Temporais e Aprendizado Dinâmico,optativa_eletiva,8,4,0
+55041,0,SME0822,Análise Multivariada e Aprendizado Não Supervisionado,optativa_eletiva,8,4,0
+55041,0,SME0823,Modelos de Regressão e Aprendizado Supervisionado II,optativa_eletiva,8,4,1
+55041,0,SSC0123,Tópicos Especiais em Engenharia de Software,optativa_eletiva,8,3,0
+55041,0,SSC0128,Gerência de Projetos,optativa_eletiva,8,3,1
+55041,0,SSC0152,Administração e Gerenciamento de Redes,optativa_eletiva,8,3,2
+55041,0,SSC0159,Tópicos Avançados em Computação de Alto Desempenho,optativa_eletiva,8,3,0
+55041,0,SSC0643,Avaliação de Desempenho de Sistemas Computacionais,optativa_eletiva,8,3,1
+55041,0,SSC0713,Sistemas Evolutivos e Aplicados à Robótica,optativa_eletiva,8,2,2
+55041,0,SSC0715,Sensores Inteligentes,optativa_eletiva,8,2,3
+55041,0,SSC0720,Engenharia de Software para Sistemas Embarcados,optativa_eletiva,8,3,1
+55041,0,SSC0724,Sistemas Educacionais Avançados,optativa_eletiva,8,3,0
+55041,0,SSC0726,Reuso de Software,optativa_eletiva,8,2,1
+55041,0,SSC0741,Projeto e Implementação de Sistemas Embarcados I,optativa_eletiva,8,3,3
+55041,0,SSC0744,Computação Distribuída,optativa_eletiva,8,3,3
+55041,0,SSC0745,Sistemas Computacionais de Tempo-Real,optativa_eletiva,8,3,0
+55041,0,SSC0748,Redes Móveis,optativa_eletiva,8,3,2
+55041,0,SSC0901,Laboratório de Engenharia de Segurança,optativa_eletiva,8,2,1
+55041,0,SSC0952,Internet das Coisas,optativa_eletiva,8,4,2
+55041,0,SSC0958,Criptomoedas e Blockchain,optativa_eletiva,8,4,2
+55041,0,SCC0289,Projeto em Intercâmbio I,optativa_eletiva,9,4,10
+55041,0,SCC0293,Projeto de Graduação I,optativa_eletiva,9,4,10
+55041,0,SCC0300,Projeto Empreendedor I,optativa_eletiva,9,4,10
+55041,0,SME0878,Mineração Estatística de Dados,optativa_eletiva,9,4,2
+55041,0,SCC0290,Projeto em Intercâmbio II,optativa_eletiva,10,4,10
+55041,0,SCC0294,Projeto de Graduação II,optativa_eletiva,10,4,10
+55041,0,SCC0302,Projeto Empreendedor II,optativa_eletiva,10,4,10
+55041,0,SSC0967,Inteligência Artificial Embarcada,optativa_eletiva,10,2,2
+55041,0,5500002,Seminários em Gestão Organizacional,optativa_livre,2,1,1
+55041,0,SMA0392,Cálculo I (semipresencial),optativa_livre,2,4,0
+55041,0,SMA0394,Geometria Analítica (semipresencial),optativa_livre,2,4,0
+55041,0,SMA0390,Cálculo II (semipresencial),optativa_livre,3,4,0
+55041,0,SMA0393,Cálculo III (semipresencial),optativa_livre,4,4,0
+55041,0,SMA0391,Cálculo IV (semipresencial),optativa_livre,5,4,0
+55041,0,IAU0126,Humanidades e Ciências Sociais,optativa_livre,8,2,0
+55071,4,SMA0800,Geometria Analítica,obrigatoria,1,4,0
+55071,4,SMA0801,Cálculo I,obrigatoria,1,6,0
+55071,4,SME0803,Visualização e Exploração de Dados,obrigatoria,1,4,2
+55071,4,SME0825,Metodologia Científica I,obrigatoria,1,2,2
+55071,4,SME0890,Direcionamento Acadêmico I,obrigatoria,1,1,0
+55071,4,SMA0802,Cálculo II,obrigatoria,2,6,0
+55071,4,SMA0804,Álgebra Linear para Estatística,obrigatoria,2,4,0
+55071,4,SME0800,Probabilidade I,obrigatoria,2,4,0
+55071,4,SSC0800,Introdução à Ciência de Computação I,obrigatoria,2,4,0
+55071,4,SSC0801,Laboratório de Introdução à Ciência de Computação I,obrigatoria,2,2,2
+55071,4,SMA0803,Cálculo III,obrigatoria,3,4,0
+55071,4,SME0801,Probabilidade II,obrigatoria,3,4,0
+55071,4,SME0818,Inferência Estatística,obrigatoria,3,6,0
+55071,4,SME0827,Estruturas de Dados,obrigatoria,3,3,2
+55071,4,SME0892,Cálculo Numérico para Estatística,obrigatoria,3,4,0
+55071,4,SME0805,Processos Estocásticos,obrigatoria,4,4,0
+55071,4,SME0809,Inferência Bayesiana,obrigatoria,4,4,0
+55071,4,SME0820,Modelos de Regressão e Aprendizado Supervisionado I,obrigatoria,4,4,1
+55071,4,SME0824,Gestão da Qualidade,obrigatoria,4,4,0
+55071,4,SME0828,Introdução à Ciência de Dados,obrigatoria,4,4,2
+55071,4,SME0806,Estatística Computacional,obrigatoria,5,4,2
+55071,4,SME0807,Técnicas de Amostragem,obrigatoria,5,4,0
+55071,4,SME0816,Planejamento de Experimentos I,obrigatoria,5,4,2
+55071,4,SME0821,Análise de Sobrevivência e Confiabilidade,obrigatoria,5,4,0
+55071,4,SME0829,Aprendizado de Máquina,obrigatoria,5,4,2
+55071,4,SME0808,Séries Temporais e Aprendizado Dinâmico,obrigatoria,6,4,0
+55071,4,SME0810,Métodos Não Paramétricos,obrigatoria,6,4,0
+55071,4,SME0822,Análise Multivariada e Aprendizado Não Supervisionado,obrigatoria,6,4,0
+55071,4,SME0823,Modelos de Regressão e Aprendizado Supervisionado II,obrigatoria,6,4,1
+55071,4,SME0878,Mineração Estatística de Dados,obrigatoria,7,4,2
+55071,4,SME0882,Consultoria Estatística,obrigatoria,7,4,0
+55071,4,SME0814,Estágio Supervisionado em Estatística I,obrigatoria,8,4,10
+55071,4,SMA0805,Tópicos de Matemática,optativa_eletiva,1,4,0
+55071,4,SME0520,Introdução à Estatística,optativa_eletiva,1,4,0
+55071,4,SME0240,Equações Diferenciais Ordinárias,optativa_eletiva,3,4,0
+55071,4,SME0850,Informação Profissional em Ciência de Dados,optativa_eletiva,4,1,1
+55071,4,SCC0240,Bases de Dados,optativa_eletiva,5,4,2
+55071,4,SME0811,Análise de Dados Categorizados,optativa_eletiva,5,4,0
+55071,4,SCC0230,Inteligência Artificial,optativa_eletiva,6,4,1
+55071,4,SMA0308,Análise II,optativa_eletiva,6,4,0
+55071,4,SME0212,Otimização Não Linear,optativa_eletiva,6,4,2
+55071,4,SME0231,Análise Topológica de Dados,optativa_eletiva,6,4,2
+55071,4,SME0826,Metodologia Científica II,optativa_eletiva,6,2,2
+55071,4,SME0879,Mineração de dados representados por grafos,optativa_eletiva,6,4,2
+55071,4,SCC0251,Processamento de Imagens,optativa_eletiva,7,4,1
+55071,4,SCC0270,Redes Neurais e Aprendizado Profundo,optativa_eletiva,7,4,1
+55071,4,SMA0307,Análise I,optativa_eletiva,7,4,0
+55071,4,SME0130,Redes Complexas,optativa_eletiva,7,4,2
+55071,4,SME0852,Prática em Ciência de Dados I,optativa_eletiva,7,4,4
+55071,4,SME0853,Prática em Ciência de Dados III,optativa_eletiva,7,4,4
+55071,4,SME0854,Visualização para Ciência de Dados,optativa_eletiva,7,3,1
+55071,4,SME0871,Bioestatística,optativa_eletiva,7,4,2
+55071,4,SME0873,Econometria,optativa_eletiva,7,4,0
+55071,4,SME0875,Tópicos Especiais em Estatística Aplicada II,optativa_eletiva,7,4,2
+55071,4,SME0876,Teoria de Resposta ao Item,optativa_eletiva,7,4,0
+55071,4,SCC0244,Mineração a partir de Grandes Bases de Dados,optativa_eletiva,8,3,0
+55071,4,SCC0252,Visualização Computacional,optativa_eletiva,8,3,1
+55071,4,SCC0277,Competições de Ciências de Dados,optativa_eletiva,8,4,1
+55071,4,SCC0287,Mineração de Dados Não Estruturados,optativa_eletiva,8,4,1
+55071,4,SMA0143,Introdução à Teoria da Medida,optativa_eletiva,8,4,0
+55071,4,SME0262,Análise de Séries Temporais em Finanças,optativa_eletiva,8,4,2
+55071,4,SME0510,Introdução à Pesquisa Operacional,optativa_eletiva,8,4,2
+55071,4,SME0812,Modelos Lineares,optativa_eletiva,8,4,0
+55071,4,SME0870,Tópicos Especiais em Estatística Aplicada I,optativa_eletiva,8,4,2
+55071,4,SME0880,Projeto de Graduação em Estatística I,optativa_eletiva,8,4,10
+55071,4,SSC0570,Empreendedorismo,optativa_eletiva,8,4,1
+55071,4,5500002,Seminários em Gestão Organizacional,optativa_livre,2,1,1
+55071,4,7600108,Psicologia da Educação,optativa_livre,3,4,2
+55071,4,IAU0314,"Cultura, Ambiente e Sustentabilidade I",optativa_livre,3,2,0
+55071,4,SLC0605,"Introdução aos Estudos da Educação: aspectos históricos, filosóficos e sociais",optativa_livre,3,2,2
+55071,4,SLC0620,Biologia 1,optativa_livre,3,4,1
+55071,4,SMA0394,Geometria Analítica (semipresencial),optativa_livre,3,4,0
+55071,4,SME0830,Probabilidade I (modalidade semipresencial),optativa_livre,3,4,0
+55071,4,IAU0315,"Cultura, Ambiente e Sustentabilidade II",optativa_livre,6,2,0
+55071,4,SLC0606,"Introdução aos Estudos da Educação: ciência, sociologia e imprensa",optativa_livre,6,2,2
+55071,4,SLC0621,Biologia 2,optativa_livre,6,4,1
+55071,4,SMA0326,Filosofia da Matemática,optativa_livre,6,4,0
+55030,200,SMA0300,Geometria Analítica,obrigatoria,1,4,0
+55030,200,SMA0301,Cálculo I,obrigatoria,1,6,0
+55030,200,SMA0385,Introdução à vida Acadêmica e a Metodologia de Escrita Científica,obrigatoria,1,2,2
+55030,200,SMA0386,Fundamentos de Matemática,obrigatoria,1,4,2
+55030,200,SME0230,Introdução à Programação de Computadores,obrigatoria,1,6,2
+55030,200,SMA0332,Cálculo II,obrigatoria,2,6,0
+55030,200,SMA0343,Espaços Métricos,obrigatoria,2,4,0
+55030,200,SMA0375,Álgebra Linear,obrigatoria,2,6,2
+55030,200,7600005,Física I,obrigatoria,3,5,0
+55030,200,SMA0171,Topologia,obrigatoria,3,4,1
+55030,200,SMA0305,Álgebra I,obrigatoria,3,4,0
+55030,200,SMA0380,Análise,obrigatoria,3,6,0
+55030,200,7600006,Física II,obrigatoria,4,5,0
+55030,200,SMA0306,Álgebra II,obrigatoria,4,4,0
+55030,200,SMA0378,Formas Diferenciais e Aplicações,obrigatoria,4,4,0
+55030,200,SME0240,Equações Diferenciais Ordinárias,obrigatoria,4,4,0
+55030,200,SMA0169,Equações Diferenciais Parciais,obrigatoria,5,4,0
+55030,200,SMA0173,Álgebra III,obrigatoria,5,4,0
+55030,200,SMA0175,Geometria Diferencial,obrigatoria,5,4,0
+55030,200,SMA0389,Introdução à Teoria da Medida e Probabilidades,obrigatoria,6,4,0
+55030,200,SME0245,Funções de Variável Complexa,obrigatoria,6,4,0
+55030,200,SMA0120,Introdução à Análise Funcional,obrigatoria,7,4,1
+55030,200,SMA0388,Topologia Algébrica,obrigatoria,7,4,0
+55030,200,SME0205,Métodos do Cálculo Numérico I,obrigatoria,7,4,0
+55030,200,SMA0192,Introdução à Topologia Diferencial,obrigatoria,8,4,1
+55030,200,SMA0379,Mecânica Quântica para Matemáticos,obrigatoria,8,4,2
+55030,200,SCC0201,Introdução à Ciência de Computação II,optativa_eletiva,2,4,2
+55030,200,SCC0202,Algoritmos e Estruturas de Dados I,optativa_eletiva,2,4,2
+55030,200,SCC0223,Estruturas de dados I,optativa_eletiva,2,4,2
+55030,200,SMA0340,Introdução aos Estudos da Educação,optativa_eletiva,2,4,2
+55030,200,SCC0204,Programação Orientada a Objetos,optativa_eletiva,3,4,2
+55030,200,SCC0215,Organização de Arquivos,optativa_eletiva,3,3,2
+55030,200,SCC0216,Modelagem Computacional em Grafos,optativa_eletiva,3,2,1
+55030,200,SMA0178,Tópicos de Matemática Elementar e Estatística,optativa_eletiva,3,4,0
+55030,200,SMA0180,Matemática Discreta I,optativa_eletiva,4,4,0
+55030,200,SME0220,Introdução à Teoria das Probabilidades,optativa_eletiva,4,4,0
+55030,200,7600107,Física III,optativa_eletiva,5,4,0
+55030,200,SCC0240,Bases de Dados,optativa_eletiva,5,4,2
+55030,200,SLC0630,Psicologia da Educação 1,optativa_eletiva,5,4,2
+55030,200,SMA0347,Análise para Licenciatura,optativa_eletiva,5,4,2
+55030,200,SME0206,Fundamentos de Análise Numérica,optativa_eletiva,5,4,2
+55030,200,SME0221,Introdução à Inferência Estatística,optativa_eletiva,5,4,2
+55030,200,SME0806,Estatística Computacional,optativa_eletiva,5,4,2
+55030,200,SME0820,Modelos de Regressão e Aprendizado Supervisionado I,optativa_eletiva,5,4,1
+55030,200,SCC0230,Inteligência Artificial,optativa_eletiva,6,4,1
+55030,200,SCC0250,Computação Gráfica,optativa_eletiva,6,4,1
+55030,200,SCC0275,Introdução à Ciência de Dados,optativa_eletiva,6,4,1
+55030,200,SMA0136,Teoria Qualitativa de Equações Diferenciais Ordinárias,optativa_eletiva,6,4,0
+55030,200,SMA0326,Filosofia da Matemática,optativa_eletiva,6,4,0
+55030,200,SMA0338,Estrutura e Funcionamento da Educação Básica,optativa_eletiva,6,2,2
+55030,200,SMA0351,Atividades Teórico-Práticas de Aprofundamento I,optativa_eletiva,6,0,0
+55030,200,SMA0361,Tópicos de Matemática I,optativa_eletiva,6,4,0
+55030,200,SMA0382,Atividades Acadêmicas Complementares II,optativa_eletiva,6,0,1
+55030,200,SMA0387,Mecânica Analítica,optativa_eletiva,6,4,0
+55030,200,SME0231,Análise Topológica de Dados,optativa_eletiva,6,4,2
+55030,200,SME0808,Séries Temporais e Aprendizado Dinâmico,optativa_eletiva,6,4,0
+55030,200,SME0822,Análise Multivariada e Aprendizado Não Supervisionado,optativa_eletiva,6,4,0
+55030,200,SME0823,Modelos de Regressão e Aprendizado Supervisionado II,optativa_eletiva,6,4,1
+55030,200,7600108,Psicologia da Educação,optativa_eletiva,7,4,2
+55030,200,SCC0203,Algoritmos e Estruturas de Dados II,optativa_eletiva,7,4,2
+55030,200,SCC0270,Redes Neurais e Aprendizado Profundo,optativa_eletiva,7,4,1
+55030,200,SCC0276,Aprendizado de Máquina,optativa_eletiva,7,4,1
+55030,200,SMA0193,Introdução aos Grupos de Lie,optativa_eletiva,7,4,0
+55030,200,SMA0327,Filosofia da Educação Matemática,optativa_eletiva,7,4,0
+55030,200,SMA0329,História da Matemática,optativa_eletiva,7,3,1
+55030,200,SMA0337,Análise Crítica de Materiais e Livros Didáticos,optativa_eletiva,7,2,2
+55030,200,SMA0350,Ensino no contexto da educação especial e inclusiva,optativa_eletiva,7,2,2
+55030,200,SMA0352,Atividades Teórico-Práticas de Aprofundamento II,optativa_eletiva,7,0,0
+55030,200,SMA0362,Tópicos de Matemática II,optativa_eletiva,7,4,0
+55030,200,SMA0508,Matemática Discreta,optativa_eletiva,7,2,0
+55030,200,SME0130,Redes Complexas,optativa_eletiva,7,4,2
+55030,200,SME0202,Métodos Numéricos em Equações Diferenciais,optativa_eletiva,7,4,2
+55030,200,SME0878,Mineração Estatística de Dados,optativa_eletiva,7,4,2
+55030,200,SCC0244,Mineração a partir de Grandes Bases de Dados,optativa_eletiva,8,3,0
+55030,200,SCC0252,Visualização Computacional,optativa_eletiva,8,3,1
+55030,200,SMA0125,Introdução ao Estudo das Singularidades de Aplicações Diferenciáveis,optativa_eletiva,8,4,0
+55030,200,SMA0142,Curvas Algébricas Planas,optativa_eletiva,8,4,0
+55030,200,SMA0328,Ensino de Matemática Por Múltiplas Mídias,optativa_eletiva,8,4,0
+55030,200,SMA0344,Introdução aos Sistemas Dinâmicos,optativa_eletiva,8,4,0
+55030,200,SMA0348,História da Matemática no Ensino,optativa_eletiva,8,2,2
+55030,200,SMA0357,Aplicações de Teoria dos Conjuntos,optativa_eletiva,8,4,0
+55030,200,SMA0363,Tópicos de Matemática III,optativa_eletiva,8,4,0
+55030,200,SMA0364,Tópicos de Matemática IV,optativa_eletiva,8,4,0
+55030,200,SMA0392,Cálculo I (semipresencial),optativa_livre,3,4,0
+55030,200,SMA0394,Geometria Analítica (semipresencial),optativa_livre,3,4,0
+55030,200,SMA0390,Cálculo II (semipresencial),optativa_livre,4,4,0
+55030,200,SMA0393,Cálculo III (semipresencial),optativa_livre,5,4,0
+55060,0,SMA0300,Geometria Analítica,obrigatoria,1,4,0
+55060,0,SMA0301,Cálculo I,obrigatoria,1,6,0
+55060,0,SMA0386,Fundamentos de Matemática,obrigatoria,1,4,2
+55060,0,SME0230,Introdução à Programação de Computadores,obrigatoria,1,6,2
+55060,0,SME0280,Acompanhamento Profissional,obrigatoria,1,2,0
+55060,0,SCC0223,Estruturas de dados I,obrigatoria,2,4,2
+55060,0,SMA0332,Cálculo II,obrigatoria,2,6,0
+55060,0,SMA0375,Álgebra Linear,obrigatoria,2,6,2
+55060,0,SME0241,Introdução à Modelagem Matemática,obrigatoria,2,2,0
+55060,0,7600005,Física I,obrigatoria,3,5,0
+55060,0,SCC0224,Estruturas de dados II,obrigatoria,3,4,2
+55060,0,SMA0380,Análise,obrigatoria,3,6,0
+55060,0,SME0205,Métodos do Cálculo Numérico I,obrigatoria,3,4,0
+55060,0,7600006,Física II,obrigatoria,4,5,0
+55060,0,SME0206,Fundamentos de Análise Numérica,obrigatoria,4,4,2
+55060,0,SME0211,Otimização Linear,obrigatoria,4,4,2
+55060,0,SME0220,Introdução à Teoria das Probabilidades,obrigatoria,4,4,0
+55060,0,SME0240,Equações Diferenciais Ordinárias,obrigatoria,4,4,0
+55060,0,SCC0204,Programação Orientada a Objetos,obrigatoria,5,4,2
+55060,0,SMA0169,Equações Diferenciais Parciais,obrigatoria,5,4,0
+55060,0,SMA0305,Álgebra I,obrigatoria,5,4,0
+55060,0,SME0202,Métodos Numéricos em Equações Diferenciais,obrigatoria,5,4,2
+55060,0,SME0221,Introdução à Inferência Estatística,obrigatoria,5,4,2
+55060,0,SCC0250,Computação Gráfica,obrigatoria,6,4,1
+55060,0,SMA0343,Espaços Métricos,obrigatoria,6,4,0
+55060,0,SME0212,Otimização Não Linear,obrigatoria,6,4,2
+55060,0,SME0245,Funções de Variável Complexa,obrigatoria,6,4,0
+55060,0,SME0243,Teoria Espectral de Matrizes,obrigatoria,7,4,0
+55060,0,SME0273,Prática em Matemática Aplicada e Computação Científica,obrigatoria,7,2,2
+55060,0,SME0284,Estágio Supervisionado,obrigatoria,8,4,10
+55060,0,5500002,Seminários em Gestão Organizacional,optativa_eletiva,2,1,1
+55060,0,SCC0215,Organização de Arquivos,optativa_eletiva,3,3,2
+55060,0,SCC0218,Algoritmos Avançados e Aplicações,optativa_eletiva,4,2,2
+55060,0,SCC0219,Introdução ao Desenvolvimento Web,optativa_eletiva,5,4,1
+55060,0,SCC0240,Bases de Dados,optativa_eletiva,5,4,2
+55060,0,SEM0403,Fundamentos da Mecânica dos Fluidos,optativa_eletiva,5,4,0
+55060,0,SMA0308,Análise II,optativa_eletiva,5,4,0
+55060,0,SME0121,Processos Estocásticos,optativa_eletiva,5,4,0
+55060,0,SME0130,Redes Complexas,optativa_eletiva,5,4,2
+55060,0,SME0213,Otimização Inteira,optativa_eletiva,5,4,2
+55060,0,SME0250,Métodos Numéricos para Geração de Malhas,optativa_eletiva,5,4,2
+55060,0,SME0254,Método dos Elementos Finitos Aplicados à Mecânica dos Fluídos,optativa_eletiva,5,4,0
+55060,0,SME0803,Visualização e Exploração de Dados,optativa_eletiva,5,4,2
+55060,0,SCC0230,Inteligência Artificial,optativa_eletiva,6,4,1
+55060,0,SCC0275,Introdução à Ciência de Dados,optativa_eletiva,6,4,1
+55060,0,SEM0550,Transferência de Calor e Massa,optativa_eletiva,6,4,1
+55060,0,SEP0254,Projeto e Operação de Sistemas de Produção,optativa_eletiva,6,2,1
+55060,0,SMA0180,Matemática Discreta I,optativa_eletiva,6,4,0
+55060,0,SME0231,Análise Topológica de Dados,optativa_eletiva,6,4,2
+55060,0,SME0251,Mecânica dos Fluidos Computacional I,optativa_eletiva,6,4,2
+55060,0,SME0256,Introdução a Modelagem Computacional na Indústria Petrolífera,optativa_eletiva,6,4,0
+55060,0,SME0274,Tópicos em Matemática Aplicada II,optativa_eletiva,6,4,0
+55060,0,SME0805,Processos Estocásticos,optativa_eletiva,6,4,0
+55060,0,SME0808,Séries Temporais e Aprendizado Dinâmico,optativa_eletiva,6,4,0
+55060,0,SME0809,Inferência Bayesiana,optativa_eletiva,6,4,0
+55060,0,SME0820,Modelos de Regressão e Aprendizado Supervisionado I,optativa_eletiva,6,4,1
+55060,0,SME0822,Análise Multivariada e Aprendizado Não Supervisionado,optativa_eletiva,6,4,0
+55060,0,SME0823,Modelos de Regressão e Aprendizado Supervisionado II,optativa_eletiva,6,4,1
+55060,0,7600107,Física III,optativa_eletiva,7,4,0
+55060,0,SCC0270,Redes Neurais e Aprendizado Profundo,optativa_eletiva,7,4,1
+55060,0,SCC0276,Aprendizado de Máquina,optativa_eletiva,7,4,1
+55060,0,SEP0325,Planejamento e Controle da Produção I,optativa_eletiva,7,2,1
+55060,0,SMA0175,Geometria Diferencial,optativa_eletiva,7,4,0
+55060,0,SME0252,Sistemas Esparsos e Computação Paralela,optativa_eletiva,7,4,0
+55060,0,SME0255,Simulação Computacional de Fluidos,optativa_eletiva,7,4,2
+55060,0,SME0806,Estatística Computacional,optativa_eletiva,7,4,2
+55060,0,SME0811,Análise de Dados Categorizados,optativa_eletiva,7,4,0
+55060,0,SME0816,Planejamento de Experimentos I,optativa_eletiva,7,4,2
+55060,0,SME0821,Análise de Sobrevivência e Confiabilidade,optativa_eletiva,7,4,0
+55060,0,SME0824,Gestão da Qualidade,optativa_eletiva,7,4,0
+55060,0,SME0871,Bioestatística,optativa_eletiva,7,4,2
+55060,0,SME0878,Mineração Estatística de Dados,optativa_eletiva,7,4,2
+55060,0,SCC0244,Mineração a partir de Grandes Bases de Dados,optativa_eletiva,8,3,0
+55060,0,SCC0252,Visualização Computacional,optativa_eletiva,8,3,1
+55060,0,SEP0305,Logística e Gestão da Cadeia de Suprimentos,optativa_eletiva,8,4,1
+55060,0,SMA0120,Introdução à Análise Funcional,optativa_eletiva,8,4,1
+55060,0,SME0214,Fluxos em Redes,optativa_eletiva,8,4,2
+55060,0,SME0216,Tópicos de Otimização Combinatória,optativa_eletiva,8,4,0
+55060,0,SME0253,Mecânica dos Fluidos Computacional II,optativa_eletiva,8,4,2
+55060,0,SME0271,Modelagem Geométrica,optativa_eletiva,8,4,0
+55060,0,SME0285,Trabalho de Conclusão de Curso,optativa_eletiva,8,4,10
+55060,0,SME0812,Modelos Lineares,optativa_eletiva,8,4,0
+55060,0,SMA0392,Cálculo I (semipresencial),optativa_livre,3,4,0
+55060,0,SMA0394,Geometria Analítica (semipresencial),optativa_livre,3,4,0
+55060,0,SMA0390,Cálculo II (semipresencial),optativa_livre,4,4,0
+55060,0,SMA0393,Cálculo III (semipresencial),optativa_livre,5,4,0
+55051,4,SMA0505,"Matrizes, Vetores e Geometria Analítica",obrigatoria,1,4,0
+55051,4,SMA0508,Matemática Discreta,obrigatoria,1,2,0
+55051,4,SSC0501,Introdução à Ciência de Computação I,obrigatoria,1,4,0
+55051,4,SSC0502,Laboratório de Introdução à Ciência de Computação I,obrigatoria,1,2,2
+55051,4,SSC0512,Elementos de Lógica Digital,obrigatoria,1,4,0
+55051,4,SSC0530,Introdução a Sistemas de Informação,obrigatoria,1,2,1
+55051,4,SSC0571,Computação e Sociedade: Evolução Histórica e Aplicações,obrigatoria,1,2,1
+55051,4,SSC0599,Informação Profissional em Sistemas de Informação,obrigatoria,1,1,0
+55051,4,SCC0502,Algoritmos e Estruturas de Dados I,obrigatoria,2,4,2
+55051,4,SMA0501,Cálculo I,obrigatoria,2,6,0
+55051,4,SSC0503,Introdução à Ciência de Computação II,obrigatoria,2,4,2
+55051,4,SSC0513,Organização e Arquitetura de Computadores,obrigatoria,2,4,1
+55051,4,SSC0532,Metodologias de Desenvolvimento de Software,obrigatoria,2,2,0
+55051,4,SCC0503,Algoritmos e Estruturas de Dados II,obrigatoria,3,4,1
+55051,4,SCC0504,Programação Orientada a Objetos,obrigatoria,3,2,1
+55051,4,SME0500,Cálculo Numérico,obrigatoria,3,2,0
+55051,4,SME0520,Introdução à Estatística,obrigatoria,3,4,0
+55051,4,SSC0533,Requisitos de Software,obrigatoria,3,2,0
+55051,4,SSC0541,Sistemas Operacionais I,obrigatoria,3,4,2
+55051,4,SSC0960,Programação Funcional,obrigatoria,3,2,1
+55051,4,SCC0505,Introdução à Teoria da Computação,obrigatoria,4,2,1
+55051,4,SCC0540,Bases de Dados,obrigatoria,4,4,1
+55051,4,SCC0560,Interação Humano-Computador e Experiência do Usuário,obrigatoria,4,4,1
+55051,4,SEP0584,Contabilidade para Computação,obrigatoria,4,2,0
+55051,4,SME0510,Introdução à Pesquisa Operacional,obrigatoria,4,4,2
+55051,4,SSC0524,"Verificação, Validação e Teste de Software",obrigatoria,4,2,1
+55051,4,SSC0534,Modelagem de Sistemas de Software,obrigatoria,4,2,1
+55051,4,SCC0530,Inteligência Artificial,obrigatoria,5,4,1
+55051,4,SCC0541,Laboratório de Bases de Dados,obrigatoria,5,4,2
+55051,4,SEP0324,Modelagem de Sistemas,obrigatoria,5,4,1
+55051,4,SSC0535,"Gerência de Configuração, Manutenção e Evolução de Software",obrigatoria,5,2,0
+55051,4,SSC0540,Redes de Computadores,obrigatoria,5,4,2
+55051,4,SSC0961,Desenvolvimento Web e Mobile,obrigatoria,5,2,1
+55051,4,SCC0580,Acessibilidade em Sistemas Computacionais,obrigatoria,6,2,1
+55051,4,SEP0172,Prática e Gerenciamento de Projetos,obrigatoria,6,3,1
+55051,4,SEP0301,Modelagem de sistemas de planejamento e controle da produção,obrigatoria,6,2,1
+55051,4,SEP0566,Fundamentos de Economia,obrigatoria,6,2,0
+55051,4,SSC0531,Gestão de Sistemas de Informação,obrigatoria,6,2,1
+55051,4,SSC0536,Projeto e Desenvolvimento de Sistemas de Informação,obrigatoria,6,2,2
+55051,4,SSC0547,Engenharia de Segurança,obrigatoria,6,2,1
+55051,4,SSC0570,Empreendedorismo,obrigatoria,6,4,1
+55051,4,SSC0591,Estágio Supervisionado I,obrigatoria,7,4,10
+55051,4,SSC0592,Estágio Supervisionado II,obrigatoria,8,4,10
+55051,4,SSC0576,Seminários em Computação I,optativa_eletiva,3,1,0
+55051,4,SSC0577,Seminários em Computação II,optativa_eletiva,4,1,0
+55051,4,SCC0275,Introdução à Ciência de Dados,optativa_eletiva,6,4,1
+55051,4,SME0231,Análise Topológica de Dados,optativa_eletiva,6,4,2
+55051,4,SME0822,Análise Multivariada e Aprendizado Não Supervisionado,optativa_eletiva,6,4,0
+55051,4,SSC0770,Introdução ao Desenvolvimento de Jogos Eletrônicos,optativa_eletiva,6,4,2
+55051,4,SSC0954,Infraestrutura para Computação de Alto Desempenho e Sistemas Distribuídos,optativa_eletiva,6,2,2
+55051,4,RAD2401,Comércio Eletrônico,optativa_eletiva,7,2,0
+55051,4,SCC0270,Redes Neurais e Aprendizado Profundo,optativa_eletiva,7,4,1
+55051,4,SCC0276,Aprendizado de Máquina,optativa_eletiva,7,4,1
+55051,4,SCC0282,Recuperação da Informação,optativa_eletiva,7,2,1
+55051,4,SCC0561,Multimídia,optativa_eletiva,7,2,1
+55051,4,SCC0570,Introdução a Redes Neurais,optativa_eletiva,7,2,1
+55051,4,SME0130,Redes Complexas,optativa_eletiva,7,4,2
+55051,4,SME0806,Estatística Computacional,optativa_eletiva,7,4,2
+55051,4,SME0878,Mineração Estatística de Dados,optativa_eletiva,7,4,2
+55051,4,SSC0158,Computação em Nuvem e Arquitetura Orientadas a Serviços,optativa_eletiva,7,2,1
+55051,4,SSC0528,Sistemas Colaborativos: Fundamentos e Aplicações,optativa_eletiva,7,2,1
+55051,4,SSC0593,Projeto de Graduação I,optativa_eletiva,7,4,10
+55051,4,SSC0595,Projeto Empreendedor I,optativa_eletiva,7,4,10
+55051,4,SSC0597,Projeto em Intercâmbio I,optativa_eletiva,7,4,10
+55051,4,SSC0725,Arquitetura de Software,optativa_eletiva,7,2,2
+55051,4,SSC0950,Projeto e Desenvolvimento de Software de Sistema,optativa_eletiva,7,2,2
+55051,4,SSC0962,Gestão da Qualidade no Desenvolvimento de Sistemas,optativa_eletiva,7,2,0
+55051,4,SSC0963,Indústria 4.0: Tecnologias e Aplicações,optativa_eletiva,7,2,0
+55051,4,SSC0964,Introdução à Computação no Mercado Financeiro,optativa_eletiva,7,2,1
+55051,4,SSC0965,"Streaming de Dados, Microsserviços e Containers",optativa_eletiva,7,2,2
+55051,4,RAD2810,Análise de Dados para Gestão de Negócios,optativa_eletiva,8,4,0
+55051,4,SCC0244,Mineração a partir de Grandes Bases de Dados,optativa_eletiva,8,3,0
+55051,4,SCC0252,Visualização Computacional,optativa_eletiva,8,3,1
+55051,4,SCC0283,Introdução à Web Semântica,optativa_eletiva,8,4,2
+55051,4,SME0808,Séries Temporais e Aprendizado Dinâmico,optativa_eletiva,8,4,0
+55051,4,SME0823,Modelos de Regressão e Aprendizado Supervisionado II,optativa_eletiva,8,4,1
+55051,4,SSC0594,Projeto de Graduação II,optativa_eletiva,8,4,10
+55051,4,SSC0596,Projeto Empreendedor II,optativa_eletiva,8,4,10
+55051,4,SSC0598,Projeto em Intercâmbio II,optativa_eletiva,8,4,10
+55051,4,SSC0726,Reuso de Software,optativa_eletiva,8,2,1
+55051,4,SSC0952,Internet das Coisas,optativa_eletiva,8,4,2
+55051,4,SSC0958,Criptomoedas e Blockchain,optativa_eletiva,8,4,2
+55051,4,5500002,Seminários em Gestão Organizacional,optativa_livre,2,1,1
+55030,300,SMA0300,Geometria Analítica,obrigatoria,1,4,0
+55030,300,SMA0301,Cálculo I,obrigatoria,1,6,0
+55030,300,SMA0385,Introdução à vida Acadêmica e a Metodologia de Escrita Científica,obrigatoria,1,2,2
+55030,300,SMA0386,Fundamentos de Matemática,obrigatoria,1,4,2
+55030,300,SME0230,Introdução à Programação de Computadores,obrigatoria,1,6,2
+55030,300,SLC0606,"Introdução aos Estudos da Educação: ciência, sociologia e imprensa",obrigatoria,2,2,2
+55030,300,SMA0332,Cálculo II,obrigatoria,2,6,0
+55030,300,SMA0337,Análise Crítica de Materiais e Livros Didáticos,obrigatoria,2,2,2
+55030,300,SMA0375,Álgebra Linear,obrigatoria,2,6,2
+55030,300,7600005,Física I,obrigatoria,3,5,0
+55030,300,SLC0605,"Introdução aos Estudos da Educação: aspectos históricos, filosóficos e sociais",obrigatoria,3,2,2
+55030,300,SLC0615,Estrutura e Funcionamento do Ensino Fundamental e Médio,obrigatoria,3,2,2
+55030,300,SME0205,Métodos do Cálculo Numérico I,obrigatoria,3,4,0
+55030,300,SLC0532,Estruturas Algébricas,obrigatoria,4,4,2
+55030,300,SLC0630,Psicologia da Educação 1,obrigatoria,4,4,2
+55030,300,SMA0356,Cálculo IV,obrigatoria,4,4,0
+55030,300,SMA0368,História da Educação e das Orientações Curriculares de Matemática Brasileiras,obrigatoria,4,4,2
+55030,300,SLC0531,Geometria,obrigatoria,5,4,2
+55030,300,SLC0614,Didática,obrigatoria,5,4,3
+55030,300,SLC0687,Análise para Licenciatura,obrigatoria,5,4,2
+55030,300,SMA0350,Ensino no contexto da educação especial e inclusiva,obrigatoria,5,2,2
+55030,300,SMA0367,Estágio Supervisionado em Ensino de Geometria e Desenho Geométrico,obrigatoria,6,2,4
+55030,300,SME0220,Introdução à Teoria das Probabilidades,obrigatoria,6,4,0
+55030,300,SME0240,Equações Diferenciais Ordinárias,obrigatoria,6,4,0
+55030,300,SME0245,Funções de Variável Complexa,obrigatoria,6,4,0
+55030,300,SLC0610,Computação e Tecnologias Aplicadas na Educação,obrigatoria,7,2,2
+55030,300,SLC0611,"Tópicos de Probabilidade, Estatística e Matemática Financeira",obrigatoria,7,4,2
+55030,300,SMA0365,Metodologia de Ensino de Matemática I,obrigatoria,7,4,0
+55030,300,SMA0370,Estágio Supervisionado em Ensino de Matemática I,obrigatoria,7,0,5
+55030,300,SLC0680,Língua Brasileira de Sinais para a Licenciatura,obrigatoria,8,2,1
+55030,300,SMA0366,Metodologia de Ensino de Matemática II,obrigatoria,8,4,0
+55030,300,SMA0371,Estágio Supervisionado em Ensino de Matemática II,obrigatoria,8,0,5
+55030,300,5500002,Seminários em Gestão Organizacional,optativa_eletiva,2,1,1
+55030,300,SCC0223,Estruturas de dados I,optativa_eletiva,2,4,2
+55030,300,SMA0343,Espaços Métricos,optativa_eletiva,2,4,0
+55030,300,SMA0406,"Educação para as Relações Étnico-Raciais: Produção Científica, Tecnológica e Docência",optativa_eletiva,2,2,2
+55030,300,SMA0398,Educação Matemática Crítica,optativa_eletiva,3,2,2
+55030,300,SMA0405,Ensino e aprendizagem na Educação Básica: Teoria e Prática em Laboratório,optativa_eletiva,3,2,2
+55030,300,7600006,Física II,optativa_eletiva,4,5,0
+55030,300,SMA0306,Álgebra II,optativa_eletiva,4,4,0
+55030,300,7600107,Física III,optativa_eletiva,5,4,0
+55030,300,SMA0308,Análise II,optativa_eletiva,5,4,0
+55030,300,SMA0508,Matemática Discreta,optativa_eletiva,5,2,0
+55030,300,SME0206,Fundamentos de Análise Numérica,optativa_eletiva,5,4,2
+55030,300,5500003,Robótica Educacional,optativa_eletiva,6,3,1
+55030,300,SCC0230,Inteligência Artificial,optativa_eletiva,6,4,1
+55030,300,SLC0534,Desenho Geométrico e Geometria Descritiva,optativa_eletiva,6,2,1
+55030,300,SLC0631,Psicologia da Educação 2,optativa_eletiva,6,2,1
+55030,300,SMA0136,Teoria Qualitativa de Equações Diferenciais Ordinárias,optativa_eletiva,6,4,0
+55030,300,SMA0180,Matemática Discreta I,optativa_eletiva,6,4,0
+55030,300,SMA0326,Filosofia da Matemática,optativa_eletiva,6,4,0
+55030,300,SMA0328,Ensino de Matemática Por Múltiplas Mídias,optativa_eletiva,6,4,0
+55030,300,SMA0383,Abordagens e Tendências Educacionais,optativa_eletiva,6,2,2
+55030,300,SMA0404,"Direitos Humanos, Diversidade e a Educação para as Diferenças",optativa_eletiva,6,2,2
+55030,300,SME0211,Otimização Linear,optativa_eletiva,6,4,2
+55030,300,SME0231,Análise Topológica de Dados,optativa_eletiva,6,4,2
+55030,300,SCC0224,Estruturas de dados II,optativa_eletiva,7,4,2
+55030,300,SLC0627,Metodologia da Pesquisa e Redação Científica para Licenciatura,optativa_eletiva,7,2,2
+55030,300,SLC0645,Panorama das Pesquisas na Área de Ensino de Ciências,optativa_eletiva,7,2,1
+55030,300,SMA0169,Equações Diferenciais Parciais,optativa_eletiva,7,4,0
+55030,300,SMA0171,Topologia,optativa_eletiva,7,4,1
+55030,300,SMA0173,Álgebra III,optativa_eletiva,7,4,0
+55030,300,SMA0175,Geometria Diferencial,optativa_eletiva,7,4,0
+55030,300,SMA0193,Introdução aos Grupos de Lie,optativa_eletiva,7,4,0
+55030,300,SMA0327,Filosofia da Educação Matemática,optativa_eletiva,7,4,0
+55030,300,SMA0329,História da Matemática,optativa_eletiva,7,3,1
+55030,300,SMA0345,Aprofundamentos da Didática da Matemática,optativa_eletiva,7,2,2
+55030,300,SMA0346,Metodologia de Pesquisa em Educação,optativa_eletiva,7,2,2
+55030,300,SMA0380,Análise,optativa_eletiva,7,6,0
+55030,300,SMA0384,Saberes Docentes e Formação do Professor,optativa_eletiva,7,2,2
+55030,300,SMA0120,Introdução à Análise Funcional,optativa_eletiva,8,4,1
+55030,300,SMA0125,Introdução ao Estudo das Singularidades de Aplicações Diferenciáveis,optativa_eletiva,8,4,0
+55030,300,SMA0142,Curvas Algébricas Planas,optativa_eletiva,8,4,0
+55030,300,SMA0143,Introdução à Teoria da Medida,optativa_eletiva,8,4,0
+55030,300,SMA0192,Introdução à Topologia Diferencial,optativa_eletiva,8,4,1
+55030,300,SMA0344,Introdução aos Sistemas Dinâmicos,optativa_eletiva,8,4,0
+55030,300,SMA0348,História da Matemática no Ensino,optativa_eletiva,8,2,2
+55030,300,SMA0357,Aplicações de Teoria dos Conjuntos,optativa_eletiva,8,4,0
+55030,300,SMA0392,Cálculo I (semipresencial),optativa_livre,3,4,0
+55030,300,SMA0394,Geometria Analítica (semipresencial),optativa_livre,3,4,0
+55030,300,SMA0390,Cálculo II (semipresencial),optativa_livre,4,4,0
+55030,300,SMA0393,Cálculo III (semipresencial),optativa_livre,5,4,0
+55030,300,SMA0391,Cálculo IV (semipresencial),optativa_livre,6,4,0
+55030,100,SMA0300,Geometria Analítica,obrigatoria,1,4,0
+55030,100,SMA0301,Cálculo I,obrigatoria,1,6,0
+55030,100,SMA0385,Introdução à vida Acadêmica e a Metodologia de Escrita Científica,obrigatoria,1,2,2
+55030,100,SMA0386,Fundamentos de Matemática,obrigatoria,1,4,2
+55030,100,SME0230,Introdução à Programação de Computadores,obrigatoria,1,6,2
+97001,0,7600005,Física I,obrigatoria,1,5,0
+97001,0,7600109,Laboratório de Física Geral I,obrigatoria,1,2,0
+97001,0,9700102,Introdução à Engenharia de Computação,obrigatoria,1,2,0
+97001,0,IAU0126,Humanidades e Ciências Sociais,obrigatoria,1,2,0
+97001,0,IAU0678,Desenho,obrigatoria,1,2,0
+97001,0,SMA0300,Geometria Analítica,obrigatoria,1,4,0
+97001,0,SMA0353,Cálculo I,obrigatoria,1,4,0
+97001,0,SSC0600,Introdução à Ciência de Computação I,obrigatoria,1,4,1
+97001,0,SSC0601,Laboratório de Introdução à Ciência de Computação I,obrigatoria,1,2,1
+97001,0,7500012,Química Geral,obrigatoria,2,2,0
+97001,0,7500017,Química Geral Experimental,obrigatoria,2,2,0
+97001,0,7600006,Física II,obrigatoria,2,5,0
+97001,0,7600110,Laboratório de Física Geral II,obrigatoria,2,2,0
+97001,0,SEL0637,Circuitos Elétricos Lineares em Corrente Contínua,obrigatoria,2,2,0
+97001,0,SET0623,Mecânica dos Sólidos,obrigatoria,2,2,0
+97001,0,SMA0304,Álgebra Linear,obrigatoria,2,4,0
+97001,0,SMA0354,Cálculo II,obrigatoria,2,4,0
+97001,0,SSC0603,Estrutura de Dados I,obrigatoria,2,4,2
+97001,0,SCC0606,Estrutura de Dados II,obrigatoria,3,4,2
+97001,0,SEL0441,Laboratório de Medidas e Circuitos Elétricos,obrigatoria,3,2,0
+97001,0,SEL0602,Circuitos Elétricos,obrigatoria,3,4,0
+97001,0,SEL0628,Sistemas Digitais,obrigatoria,3,4,0
+97001,0,SHS0619,Fenômenos de Transporte,obrigatoria,3,2,0
+97001,0,SMA0355,Cálculo III,obrigatoria,3,4,0
+97001,0,SME0340,Equações Diferenciais Ordinárias,obrigatoria,3,4,0
+97001,0,SME0602,Cálculo Numérico,obrigatoria,3,4,0
+97001,0,SCC0604,Programação Orientada a Objetos,obrigatoria,4,2,1
+97001,0,SCC0607,Estrutura de Dados III,obrigatoria,4,4,1
+97001,0,SEL0604,Sinais e Sistemas,obrigatoria,4,4,0
+97001,0,SEL0606,Laboratório de Sistemas Digitais,obrigatoria,4,2,0
+97001,0,SEL0607,Fundamentos de Semicondutores,obrigatoria,4,2,0
+97001,0,SEL0608,Eletromagnetismo,obrigatoria,4,4,0
+97001,0,SMA0356,Cálculo IV,obrigatoria,4,4,0
+97001,0,SSC0902,Organização e Arquitetura de Computadores,obrigatoria,4,4,1
+97001,0,SEL0609,Circuitos Eletrônicos I,obrigatoria,5,4,0
+97001,0,SEL0611,Fundamentos de Controle,obrigatoria,5,4,0
+97001,0,SEL0612,Ondas Eletromagnéticas,obrigatoria,5,4,0
+97001,0,SEL0615,Processamento Digital de Sinais,obrigatoria,5,2,0
+97001,0,SME0610,Programação Matemática,obrigatoria,5,4,0
+97001,0,SME0620,Estatística I,obrigatoria,5,4,0
+97001,0,SSC0640,Sistemas Operacionais I,obrigatoria,5,4,2
+97001,0,SCC0640,Bases de Dados,obrigatoria,6,4,2
+97001,0,SEL0610,Laboratório de Circuitos Eletrônicos,obrigatoria,6,2,0
+97001,0,SEL0613,Circuitos Eletrônicos II,obrigatoria,6,4,0
+97001,0,SEL0614,Aplicação de Microprocessadores,obrigatoria,6,2,1
+97001,0,SEP0529,Administração e Empreendedorismo,obrigatoria,6,2,0
+97001,0,SEP0587,Princípios de Economia,obrigatoria,6,2,0
+97001,0,SSC0621,Modelagem Orientada a Objetos,obrigatoria,6,2,1
+97001,0,SSC0641,Redes de Computadores,obrigatoria,6,4,2
+97001,0,SSC0904,Sistemas Computacionais Distribuídos,obrigatoria,6,2,1
+97001,0,SCC0605,Teoria da Computação e Compiladores,obrigatoria,7,4,2
+97001,0,SCC0630,Inteligência Artificial,obrigatoria,7,4,1
+97001,0,SEL0616,Princípios de Comunicação,obrigatoria,7,2,0
+97001,0,SEL0617,Fundamentos de Microeletrônica,obrigatoria,7,2,0
+97001,0,SEL0618,Projetos de Circuitos Integrados Analógicos,obrigatoria,7,2,0
+97001,0,SHS0623,Gestão Ambiental para Engenheiros,obrigatoria,7,2,0
+97001,0,SSC0620,Engenharia de Software,obrigatoria,7,4,1
+97001,0,SSC0903,Computação de Alto Desempenho,obrigatoria,7,4,1
+97001,0,SEL0619,Comunicação Digital,obrigatoria,8,2,0
+97001,0,SEL0620,Controle Digital,obrigatoria,8,4,0
+97001,0,SEL0621,Projetos de Circuitos Integrados Digitais I,obrigatoria,8,2,0
+97001,0,1800122,Estágio Supervisionado,obrigatoria,9,0,6
+97001,0,SSC0670,Projeto de Formatura I,obrigatoria,9,0,6
+97001,0,SCC0216,Modelagem Computacional em Grafos,optativa_eletiva,3,2,1
+97001,0,SSC0531,Gestão de Sistemas de Informação,optativa_eletiva,4,2,1
+97001,0,1800118,Introdução à Engenharia Biomédica,optativa_eletiva,5,2,0
+97001,0,SCC0210,Laboratório de Algoritmos Avançados I,optativa_eletiva,5,3,2
+97001,0,SEL0406,Automação,optativa_eletiva,5,4,0
+97001,0,SEL0632,Linguagens de Descrição de Hardware,optativa_eletiva,5,2,1
+97001,0,SME0806,Estatística Computacional,optativa_eletiva,5,4,2
+97001,0,SME0820,Modelos de Regressão e Aprendizado Supervisionado I,optativa_eletiva,5,4,1
+97001,0,SMM0166,Eletrônica Aplicada a Motores Ci,optativa_eletiva,5,4,0
+97001,0,SMM0193,Engenharia e Ciência dos Materiais I,optativa_eletiva,5,4,0
+97001,0,SSC0961,Desenvolvimento Web e Mobile,optativa_eletiva,5,2,1
+97001,0,1800119,Anatomia e Fisiologia para o Engenheiro Biomédico,optativa_eletiva,6,2,0
+97001,0,SCC0211,Laboratório de Algoritmos Avançados II,optativa_eletiva,6,3,2
+97001,0,SCC0650,Computação Gráfica,optativa_eletiva,6,3,1
+97001,0,SEL0344,Antenas,optativa_eletiva,6,4,0
+97001,0,SEL0397,Princípios Físicos de Formação de Imagens Médicas,optativa_eletiva,6,2,0
+97001,0,SEL0431,Laboratório de Controle de Processos Industriais,optativa_eletiva,6,2,0
+97001,0,SEL0459,Fundamentos de Fotônica,optativa_eletiva,6,2,0
+97001,0,SEL0460,Fundamentos de Mecânica Quântica para Engenharia 1,optativa_eletiva,6,2,0
+97001,0,SEL0471,Filtro de Kalman e suas Aplicações,optativa_eletiva,6,2,0
+97001,0,SME0808,Séries Temporais e Aprendizado Dinâmico,optativa_eletiva,6,4,0
+97001,0,SME0822,Análise Multivariada e Aprendizado Não Supervisionado,optativa_eletiva,6,4,0
+97001,0,SME0823,Modelos de Regressão e Aprendizado Supervisionado II,optativa_eletiva,6,4,1
+97001,0,SMM0307,Biomateriais,optativa_eletiva,6,2,0
+97001,0,SSC0570,Empreendedorismo,optativa_eletiva,6,4,1
+97001,0,7500053,Química Quântica,optativa_eletiva,7,4,0
+97001,0,7600067,Processamento e Análise de Imagens,optativa_eletiva,7,3,1
+97001,0,SCC0270,Redes Neurais e Aprendizado Profundo,optativa_eletiva,7,4,1
+97001,0,SCC0276,Aprendizado de Máquina,optativa_eletiva,7,4,1
+97001,0,SCC0632,Tópicos Avançados em Inteligência Artificial,optativa_eletiva,7,2,1
+97001,0,SCC0633,Processamento de Linguagem Natural,optativa_eletiva,7,4,1
+97001,0,SCC0651,Processamento de Imagens,optativa_eletiva,7,3,1
+97001,0,SEL0338,Tópicos Especiais em Sistemas Digitais,optativa_eletiva,7,2,0
+97001,0,SEL0366,Comunicações Ópticas,optativa_eletiva,7,3,0
+97001,0,SEL0388,Bioengenharia Ocular I,optativa_eletiva,7,2,0
+97001,0,SEL0434,Imagens Radiológicas Digitais,optativa_eletiva,7,2,0
+97001,0,SEL0461,Fundamentos de Mecânica Quântica para Engenharia 2,optativa_eletiva,7,2,2
+97001,0,SEL0462,Introdução à teoria de ondas localizadas,optativa_eletiva,7,2,2
+97001,0,SEL0467,Laboratório de Tecnologias Quânticas,optativa_eletiva,7,3,0
+97001,0,SEL0470,Princípios Físicos e Caracterização Elétrica de Transistores MOS,optativa_eletiva,7,2,0
+97001,0,SEL0629,Aplicações de Microprocessadores I,optativa_eletiva,7,2,1
+97001,0,SEM0575,Veículos Terrestres Autônomos,optativa_eletiva,7,2,1
+97001,0,SEM0576,Veículos Aéreos Autônomos,optativa_eletiva,7,2,1
+97001,0,SEM0589,Biomecânica e Controle Motor,optativa_eletiva,7,2,2
+97001,0,SME0121,Processos Estocásticos,optativa_eletiva,7,4,0
+97001,0,SME0130,Redes Complexas,optativa_eletiva,7,4,2
+97001,0,SME0878,Mineração Estatística de Dados,optativa_eletiva,7,4,2
+97001,0,SSC0712,Programação de Robôs Móveis,optativa_eletiva,7,2,3
+97001,0,SSC0714,Robôs Móveis Autônomos,optativa_eletiva,7,2,2
+97001,0,SSC0723,Sistemas Colaborativos: Fundamentos e Aplicações,optativa_eletiva,7,2,0
+97001,0,SSC0725,Arquitetura de Software,optativa_eletiva,7,2,2
+97001,0,SSC0740,Sistemas Embarcados,optativa_eletiva,7,3,2
+97001,0,SSC0743,Sistemas Operacionais II,optativa_eletiva,7,3,2
+97001,0,SSC0900,Engenharia de Segurança,optativa_eletiva,7,2,1
+97001,0,SSC0950,Projeto e Desenvolvimento de Software de Sistema,optativa_eletiva,7,2,2
+97001,0,SSC0952,Internet das Coisas,optativa_eletiva,7,4,2
+97001,0,SSC0965,"Streaming de Dados, Microsserviços e Containers",optativa_eletiva,7,2,2
+97001,0,SAA0167,Princípios de Aviônica e Navegação,optativa_eletiva,8,4,0
+97001,0,SAA0356,Sistemas Embarcados para Veículos Aéreos,optativa_eletiva,8,2,2
+97001,0,SCC0219,Introdução ao Desenvolvimento Web,optativa_eletiva,8,4,1
+97001,0,SCC0233,Aplicações de Aprendizado de Máquina e Mineração de Dados,optativa_eletiva,8,2,2
+97001,0,SCC0244,Mineração a partir de Grandes Bases de Dados,optativa_eletiva,8,3,0
+97001,0,SCC0252,Visualização Computacional,optativa_eletiva,8,3,1
+97001,0,SCC0273,Robôs Móveis Inteligentes,optativa_eletiva,8,2,1
+97001,0,SCC0275,Introdução à Ciência de Dados,optativa_eletiva,8,4,1
+97001,0,SCC0641,Laboratório de Bases de Dados,optativa_eletiva,8,4,2
+97001,0,SCC0652,Visualização Computacional,optativa_eletiva,8,3,1
+97001,0,SCC0661,Multimídia e Hipermídia,optativa_eletiva,8,3,2
+97001,0,SEL0326,Controle de Sistemas Lineares,optativa_eletiva,8,2,0
+97001,0,SEL0328,Laboratório de Controle de Sistemas,optativa_eletiva,8,2,0
+97001,0,SEL0339,Visão Computacional,optativa_eletiva,8,2,1
+97001,0,SEL0356,Aplicação de Processamento Digital de Sinais,optativa_eletiva,8,3,2
+97001,0,SEL0361,Laboratório de Telecomunicações,optativa_eletiva,8,3,0
+97001,0,SEL0371,Sistemas de Comunicação: Teoria e Laboratório,optativa_eletiva,8,4,0
+97001,0,SEL0396,Introdução à Instrumentação Eletrônica Biomédica,optativa_eletiva,8,2,0
+97001,0,SEL0429,Bioengenharia Ocular II,optativa_eletiva,8,2,0
+97001,0,SEL0463,Ondas Eletromagnéticas: Aplicações,optativa_eletiva,8,3,0
+97001,0,SEL0464,Óptica de Fourier,optativa_eletiva,8,2,1
+97001,0,SEL0468,Comunicações Quânticas,optativa_eletiva,8,2,0
+97001,0,SEL0622,Projetos de Circuitos Integrados Digitais II,optativa_eletiva,8,2,1
+97001,0,SEL0630,Projetos em Sistemas Embarcados,optativa_eletiva,8,2,1
+97001,0,SEL0631,Processadores Digitais de Sinais e Aplicações,optativa_eletiva,8,2,0
+97001,0,SEL0635,Visão Computacional em Robótica,optativa_eletiva,8,2,1
+97001,0,SEM0587,Fundamentos da Manufatura Aditiva,optativa_eletiva,8,4,2
+97001,0,SSC0128,Gerência de Projetos,optativa_eletiva,8,3,1
+97001,0,SSC0152,Administração e Gerenciamento de Redes,optativa_eletiva,8,3,2
+97001,0,SSC0622,Sistemas de Informação,optativa_eletiva,8,3,0
+97001,0,SSC0643,Avaliação de Desempenho de Sistemas Computacionais,optativa_eletiva,8,3,1
+97001,0,SSC0713,Sistemas Evolutivos e Aplicados à Robótica,optativa_eletiva,8,2,2
+97001,0,SSC0715,Sensores Inteligentes,optativa_eletiva,8,2,3
+97001,0,SSC0720,Engenharia de Software para Sistemas Embarcados,optativa_eletiva,8,3,1
+97001,0,SSC0724,Sistemas Educacionais Avançados,optativa_eletiva,8,3,0
+97001,0,SSC0726,Reuso de Software,optativa_eletiva,8,2,1
+97001,0,SSC0744,Computação Distribuída,optativa_eletiva,8,3,3
+97001,0,SSC0745,Sistemas Computacionais de Tempo-Real,optativa_eletiva,8,3,0
+97001,0,SSC0748,Redes Móveis,optativa_eletiva,8,3,2
+97001,0,SSC0901,Laboratório de Engenharia de Segurança,optativa_eletiva,8,2,1
+97001,0,SSC0958,Criptomoedas e Blockchain,optativa_eletiva,8,4,2
+97001,0,SEL0347,Comunicação Digital II,optativa_eletiva,9,2,0
+97001,0,SEL0369,Micro-ondas,optativa_eletiva,9,2,0
+97001,0,SEL0370,Redes Fixas de Comunicação,optativa_eletiva,9,2,0
+97001,0,SEL0373,Projeto em Internet das Coisas,optativa_eletiva,9,4,1
+97001,0,SEL0395,Introdução à Engenharia de Reabilitação,optativa_eletiva,9,2,0
+97001,0,SEL0398,Projetos em Avaliação de Imagens Médicas,optativa_eletiva,9,1,1
+97001,0,SEL0449,Introdução ao Processamento Digital de Imagens,optativa_eletiva,9,2,1
+97001,0,SEL0623,Serviços de Telecomunicações e Redes Faixa Larga,optativa_eletiva,9,3,0
+97001,0,SEL0624,Projeto de Formatura I,optativa_eletiva,9,0,6
+97001,0,SEL0633,Controle de Robôs Manipuladores,optativa_eletiva,9,2,1
+97001,0,SEL0634,Laboratório de Robôs Manipuladores,optativa_eletiva,9,2,0
+97001,0,SSC0158,Computação em Nuvem e Arquitetura Orientadas a Serviços,optativa_eletiva,9,2,1
+97001,0,SSC0672,Estágio Supervisionado I,optativa_eletiva,9,1,8
+97001,0,SSC0676,Estágio Empreendedor,optativa_eletiva,9,4,8
+97001,0,SSC0959,Teste e Inspeção de Software,optativa_eletiva,9,2,1
+97001,0,SCC0634,Aplicações de Inteligência Artificial,optativa_eletiva,10,2,1
+97001,0,SEL0367,Controle Adaptativo,optativa_eletiva,10,2,0
+97001,0,SEL0386,Redes Móveis de Comunicação,optativa_eletiva,10,2,0
+97001,0,SEL0387,Computação Móvel,optativa_eletiva,10,2,0
+97001,0,SSC0673,Estágio Supervisionado II,optativa_eletiva,10,1,8
+97001,0,SSC0674,Projeto de Formatura II,optativa_eletiva,10,0,6
+97001,0,SSC0675,Projeto Empreendedor,optativa_eletiva,10,4,8
+97001,0,SSC0741,Projeto e Implementação de Sistemas Embarcados I,optativa_eletiva,10,3,3
+97001,0,SSC0746,Sistemas Computacionais Tolerantes a Faltas,optativa_eletiva,10,3,1
+97001,0,SSC0967,Inteligência Artificial Embarcada,optativa_eletiva,10,2,2
+97001,0,1800120,Tutoria Acadêmica I,optativa_livre,1,1,1
+97001,0,1800121,Tutoria Acadêmica II,optativa_livre,2,1,1
+97001,0,SMA0392,Cálculo I (semipresencial),optativa_livre,3,4,0
+97001,0,SMA0394,Geometria Analítica (semipresencial),optativa_livre,3,4,0
+97001,0,1800128,Atividades de Extensão para Engenharia V,optativa_livre,4,0,0
+97001,0,1800129,Atividades de Extensão para Engenharia VI,optativa_livre,4,0,0
+97001,0,SMA0390,Cálculo II (semipresencial),optativa_livre,4,4,0
+97001,0,SMA0393,Cálculo III (semipresencial),optativa_livre,5,4,0
+97001,0,1800124,Atividades de Extensão para Engenharia I,optativa_livre,6,0,0
+97001,0,1800125,Atividades de Extensão para Engenharia II,optativa_livre,6,0,0
+97001,0,5500002,Seminários em Gestão Organizacional,optativa_livre,6,1,1
+97001,0,7600045,Introdução à Fotônica,optativa_livre,6,4,0
+97001,0,SMA0391,Cálculo IV (semipresencial),optativa_livre,6,4,0
+97001,0,SMM0564,Microscopia Eletrônica de Varredura,optativa_livre,6,2,0
+97001,0,SSC0770,Introdução ao Desenvolvimento de Jogos Eletrônicos,optativa_livre,6,4,2
+97001,0,1800040,A Ética e a Responsabilidade Social em Engenharia,optativa_livre,7,4,0
+97001,0,1800126,Atividades de Extensão para Engenharia III,optativa_livre,7,0,0
+97001,0,1800127,Atividades de Extensão para Engenharia IV,optativa_livre,7,0,0
+97001,0,1800043,O Engenheiro Como Agente Ético,optativa_livre,8,4,0
+97001,0,7600074,Informação Quântica,optativa_livre,8,4,0
+97001,0,1800322,Extensão Universitária e Impacto Social na Engenharia,optativa_livre,9,0,0
+97001,0,1800130,Engenharia em Ação: Extensão Acadêmica,optativa_livre,10,0,0

@@ -1,0 +1,1624 @@
+sigla,turma,tipo_vaga,curso,vagas,inscritos,pendentes,matriculados
+SCC0122,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0122,2026201,optativa eletiva,TOTAL,60,27,0,27
+SCC0122,2026201,optativa eletiva,IFSC -  para toda a Unidade,60,22,0,22
+SCC0122,2026201,optativa livre,TOTAL,8,7,0,7
+SCC0122,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0202,2026201,obrigatoria,TOTAL,61,60,0,60
+SCC0202,2026201,obrigatoria,ICMC - Ciências de Computação,60,56,0,56
+SCC0202,2026201,optativa eletiva,TOTAL,1,1,0,1
+SCC0202,2026201,optativa livre,TOTAL,1,0,0,0
+SCC0202,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0202,2026202,obrigatoria,TOTAL,60,35,0,35
+SCC0202,2026202,obrigatoria,ICMC - Ciências de Computação,60,35,0,35
+SCC0202,2026202,optativa eletiva,TOTAL,1,1,0,1
+SCC0202,2026202,optativa livre,TOTAL,8,4,0,4
+SCC0202,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0202,2026202,extracurricular,TOTAL,2,2,0,2
+SCC0201,2026201,obrigatoria,TOTAL,66,64,0,64
+SCC0201,2026201,obrigatoria,ICMC - Ciências de Computação,66,63,0,63
+SCC0201,2026201,optativa eletiva,TOTAL,1,1,0,1
+SCC0201,2026201,optativa livre,TOTAL,2,1,0,1
+SCC0201,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0201,2026202,obrigatoria,TOTAL,60,29,0,29
+SCC0201,2026202,obrigatoria,ICMC - Ciências de Computação,60,29,0,29
+SCC0201,2026202,optativa livre,TOTAL,6,6,0,6
+SCC0201,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0207,2026201,obrigatoria,TOTAL,66,65,0,65
+SCC0207,2026201,obrigatoria,ICMC - Ciências de Computação,66,64,0,64
+SCC0207,2026201,extracurricular,TOTAL,1,0,0,0
+SCC0207,2026202,obrigatoria,TOTAL,46,44,0,44
+SCC0207,2026202,obrigatoria,ICMC - Ciências de Computação,46,43,0,43
+SCC0207,2026202,optativa eletiva,TOTAL,19,6,0,6
+SCC0207,2026202,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,19,5,0,5
+SCC0205,2026201,obrigatoria,TOTAL,67,66,0,66
+SCC0205,2026201,obrigatoria,ICMC - Ciências de Computação,67,64,0,64
+SCC0205,2026202,obrigatoria,TOTAL,60,44,0,44
+SCC0205,2026202,obrigatoria,ICMC - Ciências de Computação,60,43,0,43
+SCC0205,2026202,optativa livre,TOTAL,3,2,0,2
+SCC0205,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0213,2026201,obrigatoria,TOTAL,66,50,0,50
+SCC0213,2026201,obrigatoria,ICMC - Ciências de Computação,66,45,0,45
+SCC0213,2026201,optativa livre,TOTAL,1,1,0,1
+SCC0213,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0213,2026202,obrigatoria,TOTAL,60,25,0,25
+SCC0213,2026202,obrigatoria,ICMC - Ciências de Computação,60,25,0,25
+SCC0213,2026202,optativa livre,TOTAL,3,3,0,3
+SCC0213,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0211,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0211,2026201,optativa eletiva,TOTAL,60,38,0,38
+SCC0211,2026201,optativa eletiva,ICMC - Ciências de Computação,35,22,0,22
+SCC0211,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,25,13,0,13
+SCC0211,2026201,extracurricular,TOTAL,1,1,0,1
+SCC0218,2026201,obrigatoria,TOTAL,56,56,0,56
+SCC0218,2026201,obrigatoria,ICMC - Ciências de Computação,56,56,0,56
+SCC0218,2026201,optativa eletiva,TOTAL,8,7,0,7
+SCC0218,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,8,6,0,6
+SCC0218,2026201,optativa livre,TOTAL,2,2,0,2
+SCC0218,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0218,2026202,obrigatoria,TOTAL,60,42,0,42
+SCC0218,2026202,obrigatoria,ICMC - Ciências de Computação,60,37,0,37
+SCC0218,2026202,optativa eletiva,TOTAL,6,6,0,6
+SCC0218,2026202,optativa livre,TOTAL,3,3,0,3
+SCC0218,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0218,2026202,alunos especiais,TOTAL,1,1,,1
+SCC0219,2026201,obrigatoria,TOTAL,30,2,0,2
+SCC0219,2026201,obrigatoria,ICMC - Ciências de Computação,30,1,0,1
+SCC0219,2026201,optativa eletiva,TOTAL,30,5,0,5
+SCC0219,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,20,4,0,4
+SCC0219,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,10,0,0,0
+SCC0220,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0220,2026201,optativa eletiva,TOTAL,60,60,0,60
+SCC0220,2026201,optativa eletiva,ICMC - Ciências de Computação,45,42,0,42
+SCC0220,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,15,12,0,12
+SCC0223,2026201,obrigatoria,TOTAL,60,46,0,46
+SCC0223,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,30,23,0,23
+SCC0223,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,30,22,0,22
+SCC0223,2026201,optativa eletiva,TOTAL,2,2,0,2
+SCC0223,2026201,optativa livre,TOTAL,3,0,0,0
+SCC0223,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0227,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0227,2026201,optativa eletiva,TOTAL,75,58,0,58
+SCC0227,2026201,optativa eletiva,ICMC - Ciências de Computação,51,38,0,38
+SCC0227,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,24,17,0,17
+SCC0229,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0229,2026201,optativa eletiva,TOTAL,60,10,0,10
+SCC0229,2026201,optativa eletiva,ICMC - Ciências de Computação,45,2,0,2
+SCC0229,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,15,7,0,7
+SCC0230,2026201,obrigatoria,TOTAL,60,59,0,59
+SCC0230,2026201,obrigatoria,ICMC - Ciências de Computação,60,53,0,53
+SCC0230,2026201,optativa eletiva,TOTAL,2,2,0,2
+SCC0230,2026202,obrigatoria,TOTAL,60,45,0,45
+SCC0230,2026202,obrigatoria,ICMC - Ciências de Computação,40,24,0,24
+SCC0230,2026202,obrigatoria,ICMC - Bacharelado em Ciência de Dados,20,18,0,18
+SCC0230,2026202,optativa eletiva,TOTAL,10,9,0,9
+SCC0230,2026202,optativa livre,TOTAL,1,1,0,1
+SCC0230,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0230,2026202,alunos especiais,TOTAL,1,1,,1
+SCC0233,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0233,2026201,optativa eletiva,TOTAL,60,14,0,14
+SCC0233,2026201,optativa eletiva,ICMC - Ciências de Computação,60,14,0,14
+SCC0233,2026201,optativa livre,TOTAL,6,3,0,3
+SCC0233,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0233,2026201,alunos especiais,TOTAL,5,5,,5
+SCC0244,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0244,2026201,optativa eletiva,TOTAL,60,39,0,39
+SCC0244,2026201,optativa eletiva,ICMC - Ciências de Computação,26,14,0,14
+SCC0244,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,13,7,0,7
+SCC0244,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,15,8,0,8
+SCC0244,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,6,6,0,6
+SCC0244,2026201,alunos especiais,TOTAL,4,4,,4
+SCC0245,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0245,2026201,optativa eletiva,TOTAL,49,27,0,27
+SCC0245,2026201,optativa eletiva,ICMC - Ciências de Computação,41,24,0,24
+SCC0245,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,8,2,0,2
+SCC0245,2026201,alunos especiais,TOTAL,1,1,,1
+SCC0250,2026201,obrigatoria,TOTAL,40,22,0,22
+SCC0250,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,40,17,0,17
+SCC0250,2026201,optativa livre,TOTAL,3,2,0,2
+SCC0250,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0252,2026201,obrigatoria,TOTAL,23,23,0,23
+SCC0252,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,21,20,0,20
+SCC0252,2026201,optativa eletiva,TOTAL,39,33,0,33
+SCC0252,2026201,optativa eletiva,ICMC - Ciências de Computação,30,22,0,22
+SCC0252,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,5,3,0,3
+SCC0252,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,4,2,0,2
+SCC0252,2026201,alunos especiais,TOTAL,1,1,,1
+SCC0252,2026201,extracurricular,TOTAL,1,1,0,1
+SCC0260,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0260,2026201,optativa eletiva,TOTAL,60,47,0,47
+SCC0260,2026201,optativa eletiva,ICMC - Ciências de Computação,60,45,0,45
+SCC0260,2026201,optativa livre,TOTAL,3,3,0,3
+SCC0260,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0260,2026201,alunos especiais,TOTAL,1,0,,0
+SCC0271,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0271,2026201,optativa eletiva,TOTAL,60,43,0,43
+SCC0271,2026201,optativa eletiva,ICMC - Ciências de Computação,22,9,0,9
+SCC0271,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,38,27,0,27
+SCC0273,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0273,2026201,optativa eletiva,TOTAL,60,14,0,14
+SCC0273,2026201,optativa eletiva,ICMC - Ciências de Computação,40,6,0,6
+SCC0273,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,20,6,0,6
+SCC0273,2026201,optativa livre,TOTAL,1,1,0,1
+SCC0273,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0273,2026201,alunos especiais,TOTAL,2,1,,1
+SCC0275,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0275,2026201,optativa eletiva,TOTAL,51,47,0,47
+SCC0275,2026201,optativa eletiva,ICMC - Ciências de Computação,35,22,0,22
+SCC0275,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,5,3,0,3
+SCC0275,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,10,8,0,8
+SCC0275,2026201,optativa livre,TOTAL,11,5,0,5
+SCC0275,2026201,optativa livre,IFSC - Física Computacional,10,4,0,4
+SCC0275,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0275,2026201,extracurricular,TOTAL,1,1,0,1
+SCC0282,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0282,2026201,optativa eletiva,TOTAL,60,48,0,48
+SCC0282,2026201,optativa eletiva,ICMC - Ciências de Computação,28,17,0,17
+SCC0282,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,14,8,0,8
+SCC0282,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,18,15,0,15
+SCC0283,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0283,2026201,optativa eletiva,TOTAL,45,5,0,5
+SCC0283,2026201,optativa eletiva,ICMC - Ciências de Computação,25,3,0,3
+SCC0283,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,12,1,0,1
+SCC0283,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,8,0,0,0
+SCC0283,2026201,alunos especiais,TOTAL,1,1,,1
+SCC0287,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0287,2026201,optativa eletiva,TOTAL,60,12,0,12
+SCC0287,2026201,optativa eletiva,ICMC - Ciências de Computação,60,11,0,11
+SCC0287,2026201,optativa livre,TOTAL,1,0,0,0
+SCC0287,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0289,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0289,2026201,optativa eletiva,TOTAL,30,0,0,0
+SCC0289,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,15,0,0,0
+SCC0289,2026201,optativa eletiva,ICMC - Ciências de Computação,15,0,0,0
+SCC0290,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0290,2026201,optativa eletiva,TOTAL,30,0,0,0
+SCC0290,2026201,optativa eletiva,ICMC - Ciências de Computação,30,0,0,0
+SCC0291,2026201,obrigatoria,TOTAL,38,38,0,38
+SCC0291,2026201,obrigatoria,ICMC - Ciências de Computação,15,0,0,0
+SCC0291,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,15,0,0,0
+SCC0292,2026201,obrigatoria,TOTAL,34,34,0,34
+SCC0292,2026201,obrigatoria,ICMC - Ciências de Computação,30,0,0,0
+SCC0293,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0293,2026201,optativa eletiva,TOTAL,30,7,0,7
+SCC0293,2026201,optativa eletiva,ICMC - Ciências de Computação,15,0,0,0
+SCC0293,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,15,0,0,0
+SCC0294,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0294,2026201,optativa eletiva,TOTAL,30,11,0,11
+SCC0294,2026201,optativa eletiva,ICMC - Ciências de Computação,30,0,0,0
+SCC0295,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0295,2026201,optativa eletiva,TOTAL,60,41,0,41
+SCC0295,2026201,optativa eletiva,ICMC - Ciências de Computação,60,31,0,31
+SCC0295,2026201,extracurricular,TOTAL,1,1,0,1
+SCC0296,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0296,2026201,optativa eletiva,TOTAL,45,27,0,27
+SCC0296,2026201,optativa eletiva,ICMC - Ciências de Computação,45,26,0,26
+SCC0296,2026201,optativa livre,TOTAL,1,1,0,1
+SCC0296,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0300,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0300,2026201,optativa eletiva,TOTAL,30,0,0,0
+SCC0300,2026201,optativa eletiva,ICMC - Ciências de Computação,30,0,0,0
+SCC0302,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0302,2026201,optativa eletiva,TOTAL,30,0,0,0
+SCC0302,2026201,optativa eletiva,ICMC - Ciências de Computação,30,0,0,0
+SCC0502,2026201,obrigatoria,TOTAL,65,61,0,61
+SCC0502,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,60,59,0,59
+SCC0502,2026201,optativa livre,TOTAL,13,13,0,13
+SCC0502,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0502,2026201,extracurricular,TOTAL,2,0,0,0
+SCC0505,2026201,obrigatoria,TOTAL,67,67,0,67
+SCC0505,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,67,66,0,66
+SCC0505,2026201,optativa livre,TOTAL,2,1,0,1
+SCC0505,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0540,2026201,obrigatoria,TOTAL,70,68,0,68
+SCC0540,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,68,66,0,66
+SCC0540,2026201,optativa livre,TOTAL,17,16,0,16
+SCC0540,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0560,2026201,obrigatoria,TOTAL,60,55,0,55
+SCC0560,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,60,48,0,48
+SCC0560,2026201,optativa livre,TOTAL,2,2,0,2
+SCC0560,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0560,2026201,alunos especiais,TOTAL,2,2,,2
+SCC0580,2026201,obrigatoria,TOTAL,60,40,0,40
+SCC0580,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,60,40,0,40
+SCC0580,2026201,optativa livre,TOTAL,1,1,0,1
+SCC0580,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0580,2026201,alunos especiais,TOTAL,1,1,,1
+SCC0604,2026201,obrigatoria,TOTAL,69,67,0,67
+SCC0604,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,65,58,0,58
+SCC0604,2026201,optativa livre,TOTAL,3,3,0,3
+SCC0604,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0604,2026201,extracurricular,TOTAL,1,1,0,1
+SCC0607,2026201,obrigatoria,TOTAL,60,48,0,48
+SCC0607,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,48,0,48
+SCC0607,2026201,optativa livre,TOTAL,1,1,0,1
+SCC0607,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0640,2026201,obrigatoria,TOTAL,60,53,0,53
+SCC0640,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,51,0,51
+SCC0640,2026201,optativa livre,TOTAL,12,11,0,11
+SCC0640,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SCC0640,2026201,extracurricular,TOTAL,1,1,0,1
+SCC0911,2026201,obrigatoria,TOTAL,0,0,0,0
+SCC0911,2026201,optativa eletiva,TOTAL,45,16,0,16
+SCC0911,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,10,1,0,1
+SCC0911,2026201,optativa eletiva,ICMC - Ciências de Computação,35,15,0,15
+SMA0180,2026201,obrigatoria,TOTAL,100,99,0,99
+SMA0180,2026201,obrigatoria,ICMC - Ciências de Computação,75,75,0,75
+SMA0180,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,25,24,0,24
+SMA0180,2026202,obrigatoria,TOTAL,75,48,0,48
+SMA0180,2026202,obrigatoria,ICMC - Ciências de Computação,75,29,0,29
+SMA0180,2026202,optativa eletiva,TOTAL,4,3,0,3
+SMA0180,2026202,optativa livre,TOTAL,4,4,0,4
+SMA0180,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0192,2026201,obrigatoria,TOTAL,65,19,0,19
+SMA0192,2026201,obrigatoria,ICMC - Matemática  Bacharelado,65,16,0,16
+SMA0304,2026201,obrigatoria,TOTAL,66,64,0,64
+SMA0304,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,61,59,0,59
+SMA0304,2026201,optativa livre,TOTAL,1,1,0,1
+SMA0304,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0304,2026201,extracurricular,TOTAL,1,1,0,1
+SMA0304,2026202,obrigatoria,TOTAL,60,58,0,58
+SMA0304,2026202,obrigatoria,EESC - Engenharia Aeronáutica,60,45,0,45
+SMA0304,2026202,optativa livre,TOTAL,1,1,0,1
+SMA0304,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0304,2026203,obrigatoria,TOTAL,136,133,0,133
+SMA0304,2026203,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,50,46,0,46
+SMA0304,2026203,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,50,50,0,50
+SMA0304,2026204,obrigatoria,TOTAL,103,102,0,102
+SMA0304,2026204,obrigatoria,EESC - Engenharia Mecânica,50,48,0,48
+SMA0304,2026204,obrigatoria,EESC - Engenharia Mecatrônica,50,49,0,49
+SMA0304,2026205,obrigatoria,TOTAL,86,81,0,81
+SMA0304,2026205,obrigatoria,IFSC -  para toda a Unidade,80,75,0,75
+SMA0304,2026205,optativa livre,TOTAL,1,1,0,1
+SMA0304,2026205,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0304,2026206,obrigatoria,TOTAL,80,75,0,75
+SMA0304,2026206,obrigatoria,IFSC -  para toda a Unidade,80,41,0,41
+SMA0304,2026206,optativa livre,TOTAL,3,2,0,2
+SMA0304,2026206,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0304,2026207,obrigatoria,TOTAL,60,23,0,23
+SMA0304,2026207,obrigatoria,EESC -  para toda a Unidade,60,0,0,0
+SMA0304,2026207,optativa livre,TOTAL,1,0,0,0
+SMA0304,2026207,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0304,2026207,extracurricular,TOTAL,1,0,0,0
+SMA0306,2026201,obrigatoria,TOTAL,65,25,0,25
+SMA0306,2026201,obrigatoria,ICMC - Matemática  Bacharelado,65,23,0,23
+SMA0306,2026201,optativa livre,TOTAL,3,2,0,2
+SMA0306,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0332,2026201,obrigatoria,TOTAL,76,55,0,55
+SMA0332,2026201,obrigatoria,ICMC - Matemática  Bacharelado,35,25,0,25
+SMA0332,2026201,obrigatoria,ICMC - Matemática  Licenciatura,5,4,0,4
+SMA0332,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,36,23,0,23
+SMA0332,2026201,optativa livre,TOTAL,15,14,0,14
+SMA0332,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0343,2026201,obrigatoria,TOTAL,65,55,0,55
+SMA0343,2026201,obrigatoria,ICMC - Matemática  Bacharelado,37,29,0,29
+SMA0343,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,28,19,0,19
+SMA0343,2026201,optativa livre,TOTAL,4,4,0,4
+SMA0343,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0354,2026201,obrigatoria,TOTAL,121,121,0,121
+SMA0354,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,25,25,0,25
+SMA0354,2026201,obrigatoria,ICMC - Ciências de Computação,93,89,0,89
+SMA0354,2026202,obrigatoria,TOTAL,100,94,0,94
+SMA0354,2026202,obrigatoria,EESC - Engenharia Aeronáutica,50,40,0,40
+SMA0354,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,50,49,0,49
+SMA0354,2026203,obrigatoria,TOTAL,101,98,0,98
+SMA0354,2026203,obrigatoria,EESC - Engenharia Ambiental,50,5,0,5
+SMA0354,2026203,obrigatoria,EESC - Engenharia de Materiais e Manufatura,50,49,0,49
+SMA0354,2026203,optativa livre,TOTAL,1,1,0,1
+SMA0354,2026203,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0354,2026204,obrigatoria,TOTAL,71,71,0,71
+SMA0354,2026204,obrigatoria,EESC - Engenharia Civil,70,64,0,64
+SMA0354,2026204,optativa livre,TOTAL,1,1,0,1
+SMA0354,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0354,2026205,obrigatoria,TOTAL,70,66,0,66
+SMA0354,2026205,obrigatoria,EESC - Engenharia de Produção,70,51,0,51
+SMA0354,2026205,optativa livre,TOTAL,3,3,0,3
+SMA0354,2026205,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0354,2026205,extracurricular,TOTAL,1,1,0,1
+SMA0354,2026206,obrigatoria,TOTAL,101,100,0,100
+SMA0354,2026206,obrigatoria,EESC - Engenharia Mecânica,50,48,0,48
+SMA0354,2026206,obrigatoria,EESC - Engenharia Mecatrônica,50,48,0,48
+SMA0354,2026207,obrigatoria,TOTAL,107,107,0,107
+SMA0354,2026207,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,50,46,0,46
+SMA0354,2026207,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,50,45,0,45
+SMA0354,2026207,optativa livre,TOTAL,1,1,0,1
+SMA0354,2026207,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0354,2026208,obrigatoria,TOTAL,80,27,0,27
+SMA0354,2026208,obrigatoria,IFSC -  para toda a Unidade,80,21,0,21
+SMA0354,2026208,optativa livre,TOTAL,1,1,0,1
+SMA0354,2026208,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0354,2026209,obrigatoria,TOTAL,70,64,0,64
+SMA0354,2026209,obrigatoria,IFSC -  para toda a Unidade,70,58,0,58
+SMA0354,2026209,optativa livre,TOTAL,1,1,0,1
+SMA0354,2026209,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0354,2026210,obrigatoria,TOTAL,80,68,1,67
+SMA0354,2026210,obrigatoria,IQSC -  para toda a Unidade,80,43,1,42
+SMA0354,2026210,optativa livre,TOTAL,7,7,0,7
+SMA0354,2026210,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0356,2026201,obrigatoria,TOTAL,40,8,0,8
+SMA0356,2026201,obrigatoria,ICMC - Matemática  Licenciatura,40,5,0,5
+SMA0356,2026201,optativa eletiva,TOTAL,20,5,0,5
+SMA0356,2026201,optativa eletiva,ICMC -  para toda a Unidade,20,0,0,0
+SMA0356,2026201,optativa livre,TOTAL,3,2,0,2
+SMA0356,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0356,2026202,obrigatoria,TOTAL,60,58,0,58
+SMA0356,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,60,45,0,45
+SMA0356,2026202,optativa eletiva,TOTAL,8,8,0,8
+SMA0356,2026202,optativa livre,TOTAL,2,2,0,2
+SMA0356,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0356,2026203,obrigatoria,TOTAL,60,42,0,42
+SMA0356,2026203,obrigatoria,EESC - Engenharia Aeronáutica,60,39,0,39
+SMA0356,2026204,obrigatoria,TOTAL,60,52,0,52
+SMA0356,2026204,obrigatoria,EESC - Engenharia Ambiental,60,34,0,34
+SMA0356,2026204,optativa livre,TOTAL,1,0,0,0
+SMA0356,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0356,2026205,obrigatoria,TOTAL,67,63,0,63
+SMA0356,2026205,obrigatoria,EESC - Engenharia Civil,60,41,0,41
+SMA0356,2026205,optativa eletiva,TOTAL,1,1,0,1
+SMA0356,2026205,optativa livre,TOTAL,1,1,0,1
+SMA0356,2026205,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0356,2026206,obrigatoria,TOTAL,78,76,0,76
+SMA0356,2026206,obrigatoria,EESC - Engenharia de Materiais e Manufatura,60,45,0,45
+SMA0356,2026206,optativa livre,TOTAL,1,1,0,1
+SMA0356,2026206,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0356,2026207,obrigatoria,TOTAL,60,30,0,30
+SMA0356,2026207,obrigatoria,EESC - Engenharia Mecânica,60,20,0,20
+SMA0356,2026207,alunos especiais,TOTAL,1,1,,1
+SMA0356,2026208,obrigatoria,TOTAL,60,59,0,59
+SMA0356,2026208,obrigatoria,EESC - Engenharia Mecatrônica,60,50,0,50
+SMA0356,2026208,optativa eletiva,TOTAL,1,1,0,1
+SMA0356,2026208,optativa livre,TOTAL,1,1,0,1
+SMA0356,2026208,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0356,2026209,obrigatoria,TOTAL,60,39,0,39
+SMA0356,2026209,obrigatoria,EESC - Engenharia de Produção,60,31,0,31
+SMA0356,2026209,optativa eletiva,TOTAL,1,1,0,1
+SMA0356,2026209,optativa livre,TOTAL,1,1,0,1
+SMA0356,2026209,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0361,2026201,obrigatoria,TOTAL,0,0,0,0
+SMA0361,2026201,optativa eletiva,TOTAL,40,21,0,21
+SMA0361,2026201,optativa eletiva,ICMC - Matemática  Bacharelado,40,21,0,21
+SMA0361,2026201,optativa livre,TOTAL,1,1,0,1
+SMA0361,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0363,2026201,obrigatoria,TOTAL,0,0,0,0
+SMA0363,2026201,optativa eletiva,TOTAL,40,7,0,7
+SMA0363,2026201,optativa eletiva,ICMC - Matemática  Bacharelado,40,5,0,5
+SMA0364,2026201,obrigatoria,TOTAL,0,0,0,0
+SMA0364,2026201,optativa eletiva,TOTAL,40,2,0,2
+SMA0364,2026201,optativa eletiva,ICMC - Matemática  Bacharelado,40,2,0,2
+SMA0367,2026201,obrigatoria,TOTAL,40,8,0,8
+SMA0367,2026201,obrigatoria,ICMC - Matemática  Licenciatura,40,0,0,0
+SMA0366,2026201,obrigatoria,TOTAL,40,3,0,3
+SMA0366,2026201,obrigatoria,ICMC - Matemática  Licenciatura,40,3,0,3
+SMA0366,2026201,optativa livre,TOTAL,1,1,0,1
+SMA0366,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0368,2026201,obrigatoria,TOTAL,65,8,0,8
+SMA0368,2026201,obrigatoria,ICMC - Matemática  Licenciatura,65,8,0,8
+SMA0371,2026201,obrigatoria,TOTAL,40,3,0,3
+SMA0371,2026201,obrigatoria,ICMC - Matemática  Licenciatura,40,0,0,0
+SMA0371,2026201,optativa livre,TOTAL,1,1,0,1
+SMA0371,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0375,2026201,obrigatoria,TOTAL,75,62,0,62
+SMA0375,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,35,29,0,29
+SMA0375,2026201,obrigatoria,ICMC - Matemática  Bacharelado,33,22,0,22
+SMA0375,2026201,obrigatoria,ICMC - Matemática  Licenciatura,7,4,0,4
+SMA0375,2026201,optativa livre,TOTAL,3,3,0,3
+SMA0375,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0375,2026201,alunos especiais,TOTAL,2,1,,1
+SMA0378,2026201,obrigatoria,TOTAL,65,28,0,28
+SMA0378,2026201,obrigatoria,ICMC - Matemática  Bacharelado,65,27,0,27
+SMA0378,2026201,optativa livre,TOTAL,2,2,0,2
+SMA0378,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0379,2026201,obrigatoria,TOTAL,65,14,0,14
+SMA0379,2026201,obrigatoria,ICMC - Matemática  Bacharelado,65,14,0,14
+SMA0379,2026201,optativa livre,TOTAL,1,0,0,0
+SMA0379,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0389,2026201,obrigatoria,TOTAL,50,27,0,27
+SMA0389,2026201,obrigatoria,ICMC - Matemática  Bacharelado,50,23,0,23
+SMA0389,2026201,optativa livre,TOTAL,10,4,0,4
+SMA0389,2026201,optativa livre,ICMC - Matemática  Bacharelado,10,0,0,0
+SMA0389,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0405,2026201,obrigatoria,TOTAL,0,0,0,0
+SMA0405,2026201,optativa eletiva,TOTAL,40,5,0,5
+SMA0405,2026201,optativa eletiva,ICMC - Matemática  Licenciatura,40,4,0,4
+SMA0404,2026201,obrigatoria,TOTAL,0,0,0,0
+SMA0404,2026201,optativa eletiva,TOTAL,40,8,0,8
+SMA0404,2026201,optativa eletiva,ICMC - Matemática  Licenciatura,40,8,0,8
+SMA0404,2026201,optativa livre,TOTAL,3,3,0,3
+SMA0404,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0501,2026201,obrigatoria,TOTAL,65,57,0,57
+SMA0501,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,65,57,0,57
+SMA0501,2026201,optativa livre,TOTAL,63,58,0,58
+SMA0501,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0501,2026201,extracurricular,TOTAL,2,2,0,2
+SMA0802,2026201,obrigatoria,TOTAL,65,25,0,25
+SMA0802,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,65,24,0,24
+SMA0802,2026201,optativa livre,TOTAL,14,10,0,10
+SMA0802,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0804,2026201,obrigatoria,TOTAL,66,64,0,64
+SMA0804,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,66,62,0,62
+SMA0804,2026201,optativa livre,TOTAL,12,11,0,11
+SMA0804,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMA0804,2026201,extracurricular,TOTAL,2,1,0,1
+SME0110,2026201,obrigatoria,TOTAL,70,62,0,62
+SME0110,2026201,obrigatoria,ICMC - Ciências de Computação,70,61,0,61
+SME0110,2026201,optativa livre,TOTAL,4,4,0,4
+SME0110,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0110,2026202,obrigatoria,TOTAL,70,28,0,28
+SME0110,2026202,obrigatoria,ICMC - Ciências de Computação,70,27,0,27
+SME0110,2026202,optativa livre,TOTAL,2,2,0,2
+SME0110,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0123,2026201,obrigatoria,TOTAL,70,59,0,59
+SME0123,2026201,obrigatoria,ICMC - Ciências de Computação,70,59,0,59
+SME0123,2026201,optativa livre,TOTAL,5,3,0,3
+SME0123,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0123,2026202,obrigatoria,TOTAL,70,31,0,31
+SME0123,2026202,obrigatoria,ICMC - Ciências de Computação,70,30,0,30
+SME0123,2026202,optativa livre,TOTAL,3,3,0,3
+SME0123,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0123,2026202,extracurricular,TOTAL,1,1,0,1
+SME0142,2026201,obrigatoria,TOTAL,72,72,0,72
+SME0142,2026201,obrigatoria,ICMC - Ciências de Computação,45,45,0,45
+SME0142,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,25,24,0,24
+SME0142,2026202,obrigatoria,TOTAL,70,63,0,63
+SME0142,2026202,obrigatoria,ICMC - Ciências de Computação,70,48,0,48
+SME0142,2026202,optativa livre,TOTAL,1,1,0,1
+SME0142,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0211,2026201,obrigatoria,TOTAL,70,17,0,17
+SME0211,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,70,15,0,15
+SME0211,2026201,optativa eletiva,TOTAL,2,2,0,2
+SME0211,2026201,optativa livre,TOTAL,4,4,0,4
+SME0211,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0206,2026201,obrigatoria,TOTAL,70,21,0,21
+SME0206,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,70,17,0,17
+SME0206,2026201,optativa livre,TOTAL,1,1,0,1
+SME0206,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0213,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0213,2026201,optativa eletiva,TOTAL,65,8,0,8
+SME0213,2026201,optativa eletiva,ICMC - Bach Mat Aplic Computação Cient,65,7,0,7
+SME0213,2026201,extracurricular,TOTAL,2,2,0,2
+SME0212,2026201,obrigatoria,TOTAL,70,34,0,34
+SME0212,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,40,23,0,23
+SME0212,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,30,11,0,11
+SME0212,2026201,optativa eletiva,TOTAL,3,3,0,3
+SME0212,2026201,alunos especiais,TOTAL,1,1,,1
+SME0212,2026201,extracurricular,TOTAL,2,2,0,2
+SME0220,2026201,obrigatoria,TOTAL,54,42,0,42
+SME0220,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,23,15,0,15
+SME0220,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,25,24,0,24
+SME0220,2026201,obrigatoria,ICMC - Matemática  Licenciatura,4,1,0,1
+SME0220,2026201,optativa eletiva,TOTAL,16,11,0,11
+SME0220,2026201,optativa eletiva,ICMC - Matemática  Bacharelado,16,11,0,11
+SME0220,2026201,optativa livre,TOTAL,3,2,0,2
+SME0220,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0220,2026201,extracurricular,TOTAL,2,2,0,2
+SME0231,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0231,2026201,optativa eletiva,TOTAL,60,9,0,9
+SME0231,2026201,optativa eletiva,ICMC - Bach Mat Aplic Computação Cient,60,1,0,1
+SME0240,2026201,obrigatoria,TOTAL,70,57,0,57
+SME0240,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,35,23,0,23
+SME0240,2026201,obrigatoria,ICMC - Matemática  Bacharelado,30,27,0,27
+SME0240,2026201,obrigatoria,ICMC - Matemática  Licenciatura,5,2,0,2
+SME0240,2026201,optativa livre,TOTAL,7,7,0,7
+SME0240,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0240,2026201,alunos especiais,TOTAL,3,3,,3
+SME0240,2026201,extracurricular,TOTAL,1,1,0,1
+SME0241,2026201,obrigatoria,TOTAL,70,28,0,28
+SME0241,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,70,28,0,28
+SME0241,2026201,optativa livre,TOTAL,8,6,0,6
+SME0241,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0241,2026201,alunos especiais,TOTAL,1,0,,0
+SME0241,2026201,extracurricular,TOTAL,1,0,0,0
+SME0245,2026201,obrigatoria,TOTAL,70,43,0,43
+SME0245,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,40,19,0,19
+SME0245,2026201,obrigatoria,ICMC - Matemática  Bacharelado,20,19,0,19
+SME0245,2026201,obrigatoria,ICMC - Matemática  Licenciatura,10,2,0,2
+SME0245,2026201,optativa livre,TOTAL,1,1,0,1
+SME0245,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0251,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0251,2026201,optativa eletiva,TOTAL,60,3,0,3
+SME0251,2026201,optativa eletiva,ICMC - Bach Mat Aplic Computação Cient,60,2,0,2
+SME0251,2026201,optativa livre,TOTAL,3,3,0,3
+SME0251,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0254,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0254,2026201,optativa eletiva,TOTAL,60,7,0,7
+SME0254,2026201,optativa eletiva,ICMC - Bach Mat Aplic Computação Cient,60,5,0,5
+SME0254,2026201,optativa livre,TOTAL,1,1,0,1
+SME0254,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0254,2026201,extracurricular,TOTAL,1,1,0,1
+SME0274,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0274,2026201,optativa eletiva,TOTAL,50,4,0,4
+SME0274,2026201,optativa eletiva,ICMC - Bach Mat Aplic Computação Cient,50,4,0,4
+SME0284,2026201,obrigatoria,TOTAL,40,8,0,8
+SME0284,2026201,obrigatoria,ICMC - Bach Mat Aplic Computação Cient,40,0,0,0
+SME0285,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0285,2026201,optativa eletiva,TOTAL,40,6,0,6
+SME0285,2026201,optativa eletiva,ICMC - Bach Mat Aplic Computação Cient,40,0,0,0
+SME0300,2026201,obrigatoria,TOTAL,60,38,0,36
+SME0300,2026201,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,60,25,0,25
+SME0300,2026201,optativa livre,TOTAL,20,19,0,19
+SME0300,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0300,2026201,alunos especiais,TOTAL,1,1,,1
+SME0300,2026202,obrigatoria,TOTAL,60,46,0,45
+SME0300,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,60,36,0,36
+SME0300,2026202,optativa livre,TOTAL,5,5,0,5
+SME0300,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0300,2026202,alunos especiais,TOTAL,1,1,,1
+SME0306,2026201,obrigatoria,TOTAL,60,22,0,21
+SME0306,2026201,obrigatoria,EESC - Engenharia de Materiais e Manufatura,60,15,0,15
+SME0306,2026201,optativa livre,TOTAL,3,3,0,3
+SME0306,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0306,2026201,extracurricular,TOTAL,1,1,0,1
+SME0306,2026202,obrigatoria,TOTAL,60,60,0,60
+SME0306,2026202,obrigatoria,EESC - Engenharia Civil,60,55,0,55
+SME0320,2026201,obrigatoria,TOTAL,60,38,0,38
+SME0320,2026201,obrigatoria,EESC - Engenharia Ambiental,60,35,0,35
+SME0320,2026201,optativa livre,TOTAL,1,1,0,1
+SME0320,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0320,2026202,obrigatoria,TOTAL,67,67,0,67
+SME0320,2026202,obrigatoria,EESC - Engenharia Aeronáutica,60,41,0,41
+SME0320,2026202,optativa livre,TOTAL,5,5,0,5
+SME0320,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0320,2026202,extracurricular,TOTAL,1,0,0,0
+SME0320,2026203,obrigatoria,TOTAL,60,59,0,59
+SME0320,2026203,obrigatoria,EESC - Engenharia Civil,60,50,0,50
+SME0320,2026203,optativa livre,TOTAL,6,6,0,6
+SME0320,2026203,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0320,2026204,obrigatoria,TOTAL,60,42,0,42
+SME0320,2026204,obrigatoria,EESC - Engenharia Mecatrônica,60,39,0,39
+SME0320,2026204,optativa livre,TOTAL,1,1,0,1
+SME0320,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0332,2026201,obrigatoria,TOTAL,61,56,0,56
+SME0332,2026201,obrigatoria,IFSC -  para toda a Unidade,60,52,0,52
+SME0332,2026202,obrigatoria,TOTAL,60,56,0,56
+SME0332,2026202,obrigatoria,IFSC -  para toda a Unidade,60,53,0,53
+SME0332,2026202,optativa livre,TOTAL,1,1,0,1
+SME0332,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0334,2026201,obrigatoria,TOTAL,60,38,0,38
+SME0334,2026201,obrigatoria,EESC - Engenharia Ambiental,60,37,0,37
+SME0334,2026201,optativa livre,TOTAL,1,1,0,1
+SME0334,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0341,2026201,obrigatoria,TOTAL,78,75,0,75
+SME0341,2026201,obrigatoria,EESC - Engenharia Civil,71,56,0,56
+SME0341,2026202,obrigatoria,TOTAL,61,59,0,59
+SME0341,2026202,obrigatoria,EESC - Engenharia de Produção,60,58,0,58
+SME0341,2026202,alunos especiais,TOTAL,3,3,,3
+SME0510,2026201,obrigatoria,TOTAL,65,47,0,47
+SME0510,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,65,46,0,46
+SME0510,2026201,optativa livre,TOTAL,14,13,0,13
+SME0510,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0510,2026201,extracurricular,TOTAL,1,0,0,0
+SME0800,2026201,obrigatoria,TOTAL,70,39,0,39
+SME0800,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,36,0,36
+SME0800,2026201,optativa livre,TOTAL,3,2,0,2
+SME0800,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0805,2026201,obrigatoria,TOTAL,70,51,0,51
+SME0805,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,51,0,51
+SME0805,2026201,optativa eletiva,TOTAL,1,0,0,0
+SME0805,2026201,optativa livre,TOTAL,10,6,0,6
+SME0805,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0809,2026201,obrigatoria,TOTAL,66,66,0,66
+SME0809,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,60,53,0,53
+SME0809,2026201,optativa eletiva,TOTAL,14,13,0,13
+SME0809,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,10,9,0,9
+SME0808,2026201,obrigatoria,TOTAL,70,46,0,46
+SME0808,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,40,27,0,27
+SME0808,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,30,19,0,19
+SME0808,2026201,optativa eletiva,TOTAL,15,14,0,14
+SME0808,2026201,optativa livre,TOTAL,4,3,0,3
+SME0808,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0808,2026201,alunos especiais,TOTAL,1,1,,1
+SME0810,2026201,obrigatoria,TOTAL,70,42,0,42
+SME0810,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,42,0,42
+SME0810,2026201,optativa eletiva,TOTAL,5,5,0,5
+SME0810,2026201,alunos especiais,TOTAL,1,1,,1
+SME0814,2026201,obrigatoria,TOTAL,40,14,0,14
+SME0814,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,40,0,0,0
+SME0815,2026201,obrigatoria,TOTAL,40,1,0,1
+SME0815,2026201,obrigatoria,ICMC - Estatística,40,0,0,0
+SME0818,2026201,obrigatoria,TOTAL,70,14,0,14
+SME0818,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,0,0,0
+SME0818,2026201,optativa livre,TOTAL,1,1,0,1
+SME0818,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0818,2026201,alunos especiais,TOTAL,2,2,,2
+SME0820,2026201,obrigatoria,TOTAL,71,71,0,71
+SME0820,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,40,38,0,38
+SME0820,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,25,24,0,24
+SME0820,2026201,optativa eletiva,TOTAL,1,1,0,1
+SME0822,2026201,obrigatoria,TOTAL,70,62,0,62
+SME0822,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,40,37,0,37
+SME0822,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,30,25,0,25
+SME0822,2026201,optativa eletiva,TOTAL,7,5,0,5
+SME0822,2026201,optativa livre,TOTAL,1,1,0,1
+SME0822,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0822,2026201,alunos especiais,TOTAL,2,2,,2
+SME0823,2026201,obrigatoria,TOTAL,70,14,0,14
+SME0823,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,13,0,13
+SME0823,2026201,optativa eletiva,TOTAL,3,2,0,2
+SME0823,2026201,alunos especiais,TOTAL,1,0,,0
+SME0824,2026201,obrigatoria,TOTAL,70,40,0,40
+SME0824,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,40,0,40
+SME0824,2026201,alunos especiais,TOTAL,1,1,,1
+SME0828,2026201,obrigatoria,TOTAL,70,50,0,50
+SME0828,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,47,0,47
+SME0828,2026201,optativa livre,TOTAL,33,30,0,30
+SME0828,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0828,2026201,alunos especiais,TOTAL,1,1,,1
+SME0828,2026201,extracurricular,TOTAL,1,1,0,1
+SME0873,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0873,2026201,optativa eletiva,TOTAL,70,4,0,4
+SME0873,2026201,optativa eletiva,ICMC -  Bacharelado em Estatística e Ciência de Dados,70,2,0,2
+SME0873,2026201,optativa livre,TOTAL,2,1,0,1
+SME0873,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SME0873,2026201,alunos especiais,TOTAL,1,1,,1
+SME0879,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0879,2026201,optativa eletiva,TOTAL,60,60,0,60
+SME0879,2026201,optativa eletiva,ICMC -  Bacharelado em Estatística e Ciência de Dados,60,60,0,60
+SME0879,2026201,alunos especiais,TOTAL,1,1,,1
+SME0881,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0881,2026201,optativa eletiva,TOTAL,40,0,0,0
+SME0881,2026201,optativa eletiva,ICMC - Estatística,40,0,0,0
+SME0880,2026201,obrigatoria,TOTAL,0,0,0,0
+SME0880,2026201,optativa eletiva,TOTAL,40,4,0,4
+SME0880,2026201,optativa eletiva,ICMC -  Bacharelado em Estatística e Ciência de Dados,40,0,0,0
+SSC0108,2026201,obrigatoria,TOTAL,30,30,0,30
+SSC0108,2026201,obrigatoria,ICMC - Ciências de Computação,30,30,0,30
+SSC0108,2026202,obrigatoria,TOTAL,30,28,0,28
+SSC0108,2026202,obrigatoria,ICMC - Ciências de Computação,30,24,0,24
+SSC0108,2026202,optativa livre,TOTAL,1,0,0,0
+SSC0108,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0108,2026203,obrigatoria,TOTAL,30,24,0,24
+SSC0108,2026203,obrigatoria,ICMC - Ciências de Computação,30,24,0,24
+SSC0108,2026204,obrigatoria,TOTAL,30,15,0,15
+SSC0108,2026204,obrigatoria,ICMC - Ciências de Computação,30,13,0,13
+SSC0108,2026204,optativa livre,TOTAL,2,2,0,2
+SSC0108,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0118,2026201,obrigatoria,TOTAL,65,62,0,62
+SSC0118,2026201,obrigatoria,ICMC - Ciências de Computação,65,62,0,62
+SSC0118,2026201,extracurricular,TOTAL,1,1,0,1
+SSC0118,2026202,obrigatoria,TOTAL,60,39,0,39
+SSC0118,2026202,obrigatoria,ICMC - Ciências de Computação,60,39,0,39
+SSC0118,2026202,optativa livre,TOTAL,3,2,0,2
+SSC0118,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0124,2026201,obrigatoria,TOTAL,60,60,0,60
+SSC0124,2026201,obrigatoria,ICMC - Ciências de Computação,60,60,0,60
+SSC0124,2026202,obrigatoria,TOTAL,59,31,0,31
+SSC0124,2026202,obrigatoria,ICMC - Ciências de Computação,59,30,0,30
+SSC0124,2026202,optativa eletiva,TOTAL,1,0,0,0
+SSC0124,2026202,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,1,0,0,0
+SSC0124,2026202,optativa livre,TOTAL,6,4,0,4
+SSC0124,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0124,2026202,alunos especiais,TOTAL,1,1,,1
+SSC0124,2026202,extracurricular,TOTAL,1,1,0,1
+SSC0140,2026201,obrigatoria,TOTAL,61,56,0,56
+SSC0140,2026201,obrigatoria,ICMC - Ciências de Computação,61,56,0,56
+SSC0140,2026202,obrigatoria,TOTAL,45,37,0,37
+SSC0140,2026202,obrigatoria,ICMC - Ciências de Computação,45,37,0,37
+SSC0140,2026202,optativa eletiva,TOTAL,15,9,0,9
+SSC0140,2026202,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,15,9,0,9
+SSC0140,2026202,optativa livre,TOTAL,9,9,0,9
+SSC0140,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0140,2026202,alunos especiais,TOTAL,1,1,,1
+SSC0140,2026202,extracurricular,TOTAL,2,2,0,2
+SSC0152,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0152,2026201,optativa eletiva,TOTAL,60,34,0,34
+SSC0152,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,15,9,0,9
+SSC0152,2026201,optativa eletiva,ICMC - Ciências de Computação,45,23,0,23
+SSC0152,2026201,alunos especiais,TOTAL,2,2,,2
+SSC0301,2026201,obrigatoria,TOTAL,50,42,0,42
+SSC0301,2026201,obrigatoria,EESC - Engenharia Ambiental,50,39,0,39
+SSC0301,2026202,obrigatoria,TOTAL,25,17,0,17
+SSC0301,2026202,obrigatoria,EESC - Engenharia Ambiental,25,10,0,10
+SSC0301,2026203,obrigatoria,TOTAL,25,25,0,25
+SSC0301,2026203,obrigatoria,EESC - Engenharia Ambiental,25,25,0,25
+SSC0304,2026202,obrigatoria,TOTAL,50,45,0,45
+SSC0304,2026202,obrigatoria,EESC - Engenharia Aeronáutica,50,44,0,44
+SSC0304,2026202,optativa livre,TOTAL,2,1,0,1
+SSC0304,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0304,2026202,extracurricular,TOTAL,1,1,0,1
+SSC0503,2026201,obrigatoria,TOTAL,60,53,0,53
+SSC0503,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,60,53,0,53
+SSC0503,2026201,optativa livre,TOTAL,8,6,0,6
+SSC0503,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0513,2026201,obrigatoria,TOTAL,60,59,0,59
+SSC0513,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,60,59,0,59
+SSC0524,2026201,obrigatoria,TOTAL,52,51,0,51
+SSC0524,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,50,47,0,47
+SSC0524,2026201,optativa livre,TOTAL,2,2,0,2
+SSC0524,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0531,2026201,obrigatoria,TOTAL,50,47,0,47
+SSC0531,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,50,47,0,47
+SSC0531,2026201,optativa eletiva,TOTAL,10,3,0,3
+SSC0531,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,10,3,0,3
+SSC0531,2026201,optativa livre,TOTAL,7,7,0,7
+SSC0531,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0531,2026201,extracurricular,TOTAL,1,0,0,0
+SSC0532,2026201,obrigatoria,TOTAL,60,53,0,53
+SSC0532,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,60,52,0,52
+SSC0532,2026201,optativa livre,TOTAL,9,7,0,7
+SSC0532,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0534,2026201,obrigatoria,TOTAL,54,54,0,54
+SSC0534,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,51,47,0,47
+SSC0534,2026201,optativa livre,TOTAL,1,1,0,1
+SSC0534,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0536,2026201,obrigatoria,TOTAL,50,43,0,43
+SSC0536,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,50,43,0,43
+SSC0536,2026201,optativa livre,TOTAL,1,0,0,0
+SSC0536,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0570,2026201,obrigatoria,TOTAL,50,46,0,46
+SSC0570,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,50,46,0,46
+SSC0570,2026201,optativa eletiva,TOTAL,10,8,0,8
+SSC0570,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,10,5,0,5
+SSC0570,2026201,optativa livre,TOTAL,1,1,0,1
+SSC0570,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0570,2026201,alunos especiais,TOTAL,2,2,,2
+SSC0547,2026201,obrigatoria,TOTAL,50,44,0,44
+SSC0547,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,50,42,0,42
+SSC0547,2026201,optativa livre,TOTAL,20,19,0,19
+SSC0547,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0547,2026201,alunos especiais,TOTAL,3,3,,3
+SSC0547,2026201,extracurricular,TOTAL,1,1,0,1
+SSC0577,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0577,2026201,optativa eletiva,TOTAL,50,28,0,28
+SSC0577,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,50,25,0,25
+SSC0577,2026201,alunos especiais,TOTAL,1,1,,1
+SSC0591,2026201,obrigatoria,TOTAL,30,16,0,16
+SSC0591,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0592,2026201,obrigatoria,TOTAL,30,26,0,26
+SSC0592,2026201,obrigatoria,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0593,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0593,2026201,optativa eletiva,TOTAL,30,4,0,4
+SSC0593,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0594,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0594,2026201,optativa eletiva,TOTAL,30,1,0,1
+SSC0594,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0594,2026201,alunos especiais,TOTAL,1,0,,0
+SSC0595,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0595,2026201,optativa eletiva,TOTAL,30,0,0,0
+SSC0595,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0597,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0597,2026201,optativa eletiva,TOTAL,30,1,0,1
+SSC0597,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0596,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0596,2026201,optativa eletiva,TOTAL,30,0,0,0
+SSC0596,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0598,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0598,2026201,optativa eletiva,TOTAL,30,0,0,0
+SSC0598,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,30,0,0,0
+SSC0602,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0602,2026201,optativa eletiva,TOTAL,62,59,0,59
+SSC0602,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,25,2,0,2
+SSC0602,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,25,23,0,23
+SSC0602,2026201,optativa livre,TOTAL,1,0,0,0
+SSC0602,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0603,2026201,obrigatoria,TOTAL,56,55,0,55
+SSC0603,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,56,55,0,55
+SSC0603,2026201,optativa livre,TOTAL,1,1,0,1
+SSC0603,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0621,2026201,obrigatoria,TOTAL,60,59,0,59
+SSC0621,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,56,0,56
+SSC0621,2026201,extracurricular,TOTAL,1,1,0,1
+SSC0622,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0622,2026201,optativa eletiva,TOTAL,50,20,0,20
+SSC0622,2026201,optativa livre,TOTAL,8,5,0,5
+SSC0622,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0622,2026201,alunos especiais,TOTAL,1,0,,0
+SSC0622,2026201,extracurricular,TOTAL,1,1,0,1
+SSC0641,2026201,obrigatoria,TOTAL,60,59,0,59
+SSC0641,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,56,0,56
+SSC0641,2026201,optativa livre,TOTAL,11,11,0,11
+SSC0641,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0670,2026201,obrigatoria,TOTAL,30,18,0,18
+SSC0670,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,30,0,0,0
+SSC0672,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0672,2026201,optativa eletiva,TOTAL,30,7,0,7
+SSC0672,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,30,0,0,0
+SSC0673,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0673,2026201,optativa eletiva,TOTAL,30,0,0,0
+SSC0673,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,30,0,0,0
+SSC0674,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0674,2026201,optativa eletiva,TOTAL,30,0,0,0
+SSC0674,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,30,0,0,0
+SSC0675,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0675,2026201,optativa eletiva,TOTAL,30,0,0,0
+SSC0675,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,30,0,0,0
+SSC0676,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0676,2026201,optativa eletiva,TOTAL,30,0,0,0
+SSC0676,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,30,0,0,0
+SSC0713,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0713,2026201,optativa eletiva,TOTAL,50,11,0,11
+SSC0713,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,50,3,0,3
+SSC0713,2026201,optativa livre,TOTAL,10,10,0,10
+SSC0713,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0715,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0715,2026201,optativa eletiva,TOTAL,50,13,0,13
+SSC0715,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,45,10,0,10
+SSC0715,2026201,optativa eletiva,ICMC - Ciências de Computação,5,1,0,1
+SSC0715,2026201,optativa livre,TOTAL,4,4,0,4
+SSC0715,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0741,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0741,2026201,optativa eletiva,TOTAL,60,1,0,1
+SSC0741,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,45,0,0,0
+SSC0741,2026201,optativa eletiva,ICMC - Ciências de Computação,5,1,0,1
+SSC0726,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0726,2026201,optativa eletiva,TOTAL,51,40,0,40
+SSC0726,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,6,5,0,5
+SSC0726,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,16,13,0,13
+SSC0726,2026201,optativa eletiva,ICMC - Ciências de Computação,29,17,0,17
+SSC0726,2026201,alunos especiais,TOTAL,2,2,,2
+SSC0745,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0745,2026201,optativa eletiva,TOTAL,50,6,0,6
+SSC0745,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,50,5,0,5
+SSC0745,2026201,optativa livre,TOTAL,3,3,0,3
+SSC0745,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0744,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0744,2026201,optativa eletiva,TOTAL,50,3,0,3
+SSC0744,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,50,3,0,3
+SSC0744,2026201,alunos especiais,TOTAL,3,3,,3
+SSC0800,2026201,obrigatoria,TOTAL,51,49,0,49
+SSC0800,2026201,obrigatoria,ICMC -  Bacharelado em Estatística e Ciência de Dados,51,49,0,49
+SSC0800,2026201,optativa livre,TOTAL,5,5,0,5
+SSC0800,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0800,2026201,extracurricular,TOTAL,1,1,0,1
+SSC0801,2026201,obrigatoria,TOTAL,60,46,0,46
+SSC0801,2026201,optativa livre,TOTAL,5,4,0,4
+SSC0801,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0902,2026201,obrigatoria,TOTAL,60,57,0,57
+SSC0902,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,56,0,56
+SSC0902,2026201,optativa livre,TOTAL,3,3,0,3
+SSC0902,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0901,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0901,2026201,optativa eletiva,TOTAL,50,5,0,5
+SSC0901,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,50,5,0,5
+SSC0901,2026201,optativa livre,TOTAL,1,0,0,0
+SSC0901,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0901,2026201,alunos especiais,TOTAL,1,1,,1
+SSC0903,2026201,obrigatoria,TOTAL,65,60,0,60
+SSC0903,2026201,obrigatoria,ICMC - Ciências de Computação,65,60,0,60
+SSC0903,2026202,obrigatoria,TOTAL,60,50,0,50
+SSC0903,2026202,obrigatoria,ICMC - Ciências de Computação,60,47,0,47
+SSC0903,2026202,alunos especiais,TOTAL,3,3,,3
+SSC0904,2026201,obrigatoria,TOTAL,86,86,0,86
+SSC0904,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,56,0,56
+SSC0952,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0952,2026201,optativa eletiva,TOTAL,65,35,0,35
+SSC0952,2026201,optativa eletiva,ICMC - Bacharelado em Ciência de Dados,4,0,0,0
+SSC0952,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,20,15,0,15
+SSC0952,2026201,optativa eletiva,ICMC - Ciências de Computação,28,13,0,13
+SSC0952,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,13,4,0,4
+SSC0952,2026201,alunos especiais,TOTAL,1,1,,1
+SSC0952,2026201,extracurricular,TOTAL,1,0,0,0
+SSC0951,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0951,2026201,optativa eletiva,TOTAL,50,23,0,23
+SSC0951,2026201,optativa eletiva,ICMC - Ciências de Computação,50,19,0,19
+SSC0951,2026201,optativa livre,TOTAL,5,5,0,5
+SSC0951,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0951,2026201,alunos especiais,TOTAL,2,1,,1
+SSC0953,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0953,2026201,optativa eletiva,TOTAL,71,66,0,66
+SSC0953,2026201,optativa eletiva,ICMC - Ciências de Computação,71,63,0,63
+SSC0953,2026201,optativa livre,TOTAL,3,3,0,3
+SSC0953,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0953,2026201,extracurricular,TOTAL,1,1,0,1
+SSC0954,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0954,2026201,optativa eletiva,TOTAL,50,19,0,19
+SSC0954,2026201,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,20,8,0,8
+SSC0954,2026201,optativa eletiva,ICMC - Ciências de Computação,30,9,0,9
+SSC0954,2026201,alunos especiais,TOTAL,1,1,,1
+SSC0957,2026201,obrigatoria,TOTAL,50,24,0,24
+SSC0957,2026201,obrigatoria,ICMC - Bacharelado em Ciência de Dados,50,23,0,23
+SSC0957,2026201,optativa livre,TOTAL,1,1,0,1
+SSC0957,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0967,2026201,obrigatoria,TOTAL,0,0,0,0
+SSC0967,2026201,optativa eletiva,TOTAL,50,10,0,10
+SSC0967,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,50,10,0,10
+SSC0967,2026201,optativa livre,TOTAL,3,3,0,3
+SSC0967,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SSC0967,2026201,alunos especiais,TOTAL,2,2,,2
+1800119,2026201,obrigatoria,TOTAL,0,0,0,0
+1800119,2026201,optativa eletiva,TOTAL,1,1,0,1
+1800119,2026201,optativa livre,TOTAL,30,7,0,7
+1800119,2026201,optativa livre,EESC -  para toda a Unidade,25,5,0,5
+1800119,2026201,optativa livre,EESC e ICMC - Engenharia de Computação,5,0,0,0
+1800119,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800040,2026201,obrigatoria,TOTAL,0,0,0,0
+1800040,2026201,optativa livre,TOTAL,149,148,0,148
+1800040,2026201,optativa livre,EESC -  para toda a Unidade,120,120,0,120
+1800040,2026201,optativa livre,EESC e ICMC - Engenharia de Computação,10,9,0,9
+1800040,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800040,2026201,alunos especiais,TOTAL,1,1,,1
+1800040,2026201,extracurricular,TOTAL,1,1,0,1
+1800043,2026201,obrigatoria,TOTAL,0,0,0,0
+1800043,2026201,optativa livre,TOTAL,60,50,1,49
+1800043,2026201,optativa livre,EESC -  para toda a Unidade,45,34,1,33
+1800043,2026201,optativa livre,EESC e ICMC - Engenharia de Computação,15,0,0,0
+1800043,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026201,obrigatoria,TOTAL,0,0,0,0
+1800121,2026201,optativa livre,TOTAL,60,38,0,38
+1800121,2026201,optativa livre,EESC - Engenharia Civil,60,35,0,35
+1800121,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026202,obrigatoria,TOTAL,0,0,0,0
+1800121,2026202,optativa livre,TOTAL,40,30,0,30
+1800121,2026202,optativa livre,EESC - Engenharia Ambiental,40,29,0,29
+1800121,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026203,obrigatoria,TOTAL,0,0,0,0
+1800121,2026203,optativa livre,TOTAL,100,63,0,63
+1800121,2026203,optativa livre,EESC - Eng Elétrica - Ênf Eletrônica,50,30,0,30
+1800121,2026203,optativa livre,EESC - Eng Elétrica - Ênf Sist Energia e Autom,50,29,0,29
+1800121,2026203,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026204,obrigatoria,TOTAL,0,0,0,0
+1800121,2026204,optativa livre,TOTAL,50,28,0,28
+1800121,2026204,optativa livre,EESC - Engenharia Mecânica,50,28,0,28
+1800121,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026205,obrigatoria,TOTAL,0,0,0,0
+1800121,2026205,optativa livre,TOTAL,50,35,0,35
+1800121,2026205,optativa livre,EESC - Engenharia Mecatrônica,50,34,0,34
+1800121,2026205,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026206,obrigatoria,TOTAL,0,0,0,0
+1800121,2026206,optativa livre,TOTAL,40,39,0,39
+1800121,2026206,optativa livre,EESC - Engenharia Aeronáutica,40,38,0,38
+1800121,2026206,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026207,obrigatoria,TOTAL,0,0,0,0
+1800121,2026207,optativa livre,TOTAL,50,27,0,27
+1800121,2026207,optativa livre,EESC - Engenharia de Produção,50,27,0,27
+1800121,2026207,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800121,2026208,obrigatoria,TOTAL,0,0,0,0
+1800121,2026208,optativa livre,TOTAL,51,47,0,47
+1800121,2026208,optativa livre,EESC e ICMC - Engenharia de Computação,50,47,0,47
+1800121,2026208,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800122,2026201,obrigatoria,TOTAL,20,17,0,17
+1800122,2026202,obrigatoria,TOTAL,12,12,0,12
+1800122,2026203,obrigatoria,TOTAL,50,30,0,30
+1800122,2026204,obrigatoria,TOTAL,20,13,0,13
+1800122,2026205,obrigatoria,TOTAL,20,14,0,14
+1800122,2026206,obrigatoria,TOTAL,20,8,0,8
+1800122,2026210,obrigatoria,TOTAL,2,1,0,1
+1800122,2026211,obrigatoria,TOTAL,2,0,0,0
+1800122,2026212,obrigatoria,TOTAL,2,0,0,0
+1800122,2026213,obrigatoria,TOTAL,2,1,0,1
+1800122,2026214,obrigatoria,TOTAL,2,0,0,0
+1800122,2026215,obrigatoria,TOTAL,2,0,0,0
+1800122,2026216,obrigatoria,TOTAL,2,1,0,1
+1800122,2026217,obrigatoria,TOTAL,3,3,0,3
+1800122,2026218,obrigatoria,TOTAL,2,2,0,2
+1800122,2026219,obrigatoria,TOTAL,3,3,0,3
+1800122,2026220,obrigatoria,TOTAL,2,0,0,0
+1800122,2026221,obrigatoria,TOTAL,15,6,0,6
+1800122,2026222,obrigatoria,TOTAL,15,0,0,0
+1800122,2026223,obrigatoria,TOTAL,10,1,0,1
+1800122,2026224,obrigatoria,TOTAL,15,1,0,1
+1800127,2026201,obrigatoria,TOTAL,0,0,0,0
+1800127,2026201,optativa livre,TOTAL,10,1,0,1
+1800127,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800126,2026201,obrigatoria,TOTAL,0,0,0,0
+1800126,2026201,optativa livre,TOTAL,10,1,0,1
+1800126,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800128,2026201,obrigatoria,TOTAL,0,0,0,0
+1800128,2026201,optativa livre,TOTAL,10,1,0,1
+1800128,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+1800322,2026201,obrigatoria,TOTAL,0,0,0,0
+1800322,2026201,optativa livre,TOTAL,30,19,0,18
+1800322,2026201,optativa livre,EESC -  para toda a Unidade,30,15,0,15
+1800322,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7500012,2026201,obrigatoria,TOTAL,60,50,0,50
+7500012,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,48,0,48
+7500012,2026202,obrigatoria,TOTAL,60,54,0,54
+7500012,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,60,54,0,54
+7500012,2026203,obrigatoria,TOTAL,60,47,0,47
+7500012,2026203,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,60,47,0,47
+7500012,2026204,obrigatoria,TOTAL,60,57,0,57
+7500012,2026204,obrigatoria,EESC - Engenharia Mecânica,60,56,0,56
+7500012,2026205,obrigatoria,TOTAL,55,39,0,39
+7500012,2026205,obrigatoria,IFSC - Física,25,18,0,18
+7500012,2026205,obrigatoria,IFSC - Física Computacional,25,14,0,14
+7500012,2026205,obrigatoria,IFSC - Física Biomolecular,5,4,0,4
+7500012,2026205,optativa livre,TOTAL,1,1,0,1
+7500012,2026205,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7500012,2026206,obrigatoria,TOTAL,55,25,0,25
+7500012,2026206,obrigatoria,IFSC - Física,25,11,0,11
+7500012,2026206,obrigatoria,IFSC - Física Computacional,25,13,0,13
+7500012,2026206,obrigatoria,IFSC - Física Biomolecular,5,0,0,0
+7500017,2026201,obrigatoria,TOTAL,30,20,0,20
+7500017,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,30,20,0,20
+7500017,2026202,obrigatoria,TOTAL,30,22,0,22
+7500017,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,30,22,0,22
+7500017,2026203,obrigatoria,TOTAL,30,30,0,30
+7500017,2026203,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,30,30,0,30
+7500017,2026204,obrigatoria,TOTAL,30,24,0,24
+7500017,2026204,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,30,22,0,22
+7500017,2026205,obrigatoria,TOTAL,30,25,0,25
+7500017,2026205,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,30,25,0,25
+7500017,2026206,obrigatoria,TOTAL,30,24,0,24
+7500017,2026206,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,30,23,0,23
+7500017,2026207,obrigatoria,TOTAL,30,20,0,20
+7500017,2026207,obrigatoria,EESC - Engenharia Mecânica,30,13,0,13
+7500017,2026208,obrigatoria,TOTAL,30,30,0,30
+7500017,2026208,obrigatoria,EESC - Engenharia Mecânica,30,30,0,30
+7500017,2026209,obrigatoria,TOTAL,30,13,0,13
+7500017,2026209,obrigatoria,IFSC - Física Biomolecular,30,12,0,12
+7500017,2026210,obrigatoria,TOTAL,30,13,0,13
+7500017,2026210,obrigatoria,IFSC - Física Biomolecular,30,13,0,13
+7500017,2026211,obrigatoria,TOTAL,30,11,0,11
+7500017,2026211,obrigatoria,IFSC - Física,30,10,0,10
+7500017,2026211,optativa eletiva,TOTAL,3,2,0,2
+7500017,2026212,obrigatoria,TOTAL,30,20,0,20
+7500017,2026212,obrigatoria,IFSC - Física,30,19,0,19
+7600005,2026201,obrigatoria,TOTAL,51,50,0,50
+7600005,2026201,obrigatoria,IQSC -  para toda a Unidade,28,22,0,22
+7600005,2026201,obrigatoria,IFSC -  para toda a Unidade,23,18,0,18
+7600005,2026202,obrigatoria,TOTAL,49,48,0,48
+7600005,2026202,obrigatoria,IQSC -  para toda a Unidade,43,42,0,42
+7600005,2026202,obrigatoria,IFSC -  para toda a Unidade,5,5,0,5
+7600005,2026203,obrigatoria,TOTAL,50,37,0,37
+7600005,2026203,obrigatoria,IFSC -  para toda a Unidade,50,29,0,29
+7600005,2026203,optativa livre,TOTAL,1,1,0,1
+7600005,2026203,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7500053,2026201,obrigatoria,TOTAL,24,12,0,12
+7500053,2026201,optativa eletiva,TOTAL,10,3,0,3
+7500053,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,5,3,0,3
+7500053,2026201,optativa livre,TOTAL,3,2,0,2
+7500053,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7500053,2026201,extracurricular,TOTAL,1,1,0,1
+7600006,2026201,obrigatoria,TOTAL,100,77,0,77
+7600006,2026201,obrigatoria,EESC - Engenharia de Materiais e Manufatura,60,51,0,51
+7600006,2026201,obrigatoria,EESC - Todos exceto Engenharia de Materias e Manufatura,28,14,0,14
+7600006,2026201,obrigatoria,IFSC -  para toda a Unidade,12,7,0,7
+7600006,2026202,obrigatoria,TOTAL,100,95,0,95
+7600006,2026202,obrigatoria,EESC - Engenharia Aeronáutica,42,39,0,39
+7600006,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,50,49,0,49
+7600006,2026202,obrigatoria,EESC - todos exceto Aeronáutica,8,0,0,0
+7600006,2026203,obrigatoria,TOTAL,88,86,0,86
+7600006,2026203,obrigatoria,EESC - Engenharia de Produção,72,68,0,68
+7600006,2026203,obrigatoria,EESC - todos exceto Produção,16,15,0,15
+7600006,2026204,obrigatoria,TOTAL,110,108,0,108
+7600006,2026204,obrigatoria,EESC - Engenharia Mecânica,55,54,0,54
+7600006,2026204,obrigatoria,EESC - Engenharia Mecatrônica,55,54,0,54
+7600006,2026204,optativa livre,TOTAL,1,1,0,1
+7600006,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7600006,2026205,obrigatoria,TOTAL,101,101,0,101
+7600006,2026205,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,49,49,0,49
+7600006,2026205,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,52,52,0,52
+7600006,2026206,obrigatoria,TOTAL,75,38,0,38
+7600006,2026206,obrigatoria,IFSC -  para toda a Unidade,75,32,0,32
+7600006,2026206,alunos especiais,TOTAL,1,1,,1
+7600006,2026207,obrigatoria,TOTAL,75,68,0,68
+7600006,2026207,obrigatoria,IFSC -  para toda a Unidade,65,53,0,53
+7600006,2026207,obrigatoria,EESC -  para toda a Unidade,10,1,0,1
+7600006,2026207,optativa livre,TOTAL,1,1,0,1
+7600006,2026207,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7600006,2026208,obrigatoria,TOTAL,81,71,0,71
+7600006,2026208,obrigatoria,ICMC -  para toda a Unidade,44,36,0,36
+7600006,2026208,obrigatoria,EESC -  para toda a Unidade,33,29,0,29
+7600006,2026208,obrigatoria,IFSC -  para toda a Unidade,4,3,0,3
+7600045,2026201,obrigatoria,TOTAL,0,0,0,0
+7600045,2026201,optativa eletiva,TOTAL,10,4,0,4
+7600045,2026201,optativa eletiva,IFSC - Física - Óptica e Fotônica,10,3,0,3
+7600045,2026201,optativa livre,TOTAL,15,13,0,13
+7600045,2026201,optativa livre,IFSC - Física Biomolecular,8,3,0,3
+7600045,2026201,optativa livre,EESC - Eng Elétrica - Ênf Eletrônica,5,4,0,4
+7600045,2026201,optativa livre,EESC - todos exceto Elétrica-Ênf Eletrônica,2,1,0,1
+7600045,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7600074,2026201,obrigatoria,TOTAL,0,0,0,0
+7600074,2026201,optativa livre,TOTAL,30,10,0,10
+7600074,2026201,optativa livre,IFSC - Física,15,6,0,6
+7600074,2026201,optativa livre,IFSC - Física Computacional,5,1,0,1
+7600074,2026201,optativa livre,EESC - Eng Elétrica - Ênf Eletrônica,5,2,0,2
+7600074,2026201,optativa livre,EESC - Eng Elétrica - Ênf Sist Energia e Autom,5,1,0,1
+7600074,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7600107,2026201,obrigatoria,TOTAL,50,37,0,37
+7600107,2026201,obrigatoria,EESC - Engenharia de Materiais e Manufatura,50,37,0,37
+7600107,2026201,optativa livre,TOTAL,10,10,0,10
+7600107,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7600107,2026201,alunos especiais,TOTAL,1,1,,1
+7600107,2026201,extracurricular,TOTAL,9,9,0,9
+7600107,2026202,obrigatoria,TOTAL,48,46,0,46
+7600107,2026202,obrigatoria,EESC - Engenharia Civil,47,45,0,45
+7600107,2026202,obrigatoria,EESC - Engenharia de Materiais e Manufatura,1,1,0,1
+7600110,2026201,obrigatoria,TOTAL,32,30,0,30
+7600110,2026201,obrigatoria,EESC - Engenharia Civil,32,28,0,28
+7600110,2026202,obrigatoria,TOTAL,32,29,0,29
+7600110,2026202,obrigatoria,EESC - Engenharia Civil,32,28,0,28
+7600110,2026203,obrigatoria,TOTAL,30,28,0,28
+7600110,2026203,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,30,27,0,27
+7600110,2026204,obrigatoria,TOTAL,30,29,0,29
+7600110,2026204,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,30,29,0,29
+7600110,2026205,obrigatoria,TOTAL,30,28,0,28
+7600110,2026205,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,30,27,0,27
+7600110,2026206,obrigatoria,TOTAL,30,28,0,28
+7600110,2026206,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,30,26,0,26
+7600110,2026207,obrigatoria,TOTAL,30,30,0,30
+7600110,2026207,obrigatoria,EESC - Engenharia Mecânica,30,29,0,29
+7600110,2026208,obrigatoria,TOTAL,30,22,0,22
+7600110,2026208,obrigatoria,EESC - Engenharia Mecânica,30,12,0,12
+7600110,2026209,obrigatoria,TOTAL,30,24,0,24
+7600110,2026209,obrigatoria,EESC - Engenharia Aeronáutica,30,20,0,20
+7600110,2026210,obrigatoria,TOTAL,30,22,0,22
+7600110,2026210,obrigatoria,EESC - Engenharia Aeronáutica,30,20,0,20
+7600110,2026211,obrigatoria,TOTAL,30,18,0,18
+7600110,2026211,obrigatoria,EESC - Engenharia de Produção,30,10,0,10
+7600110,2026211,extracurricular,TOTAL,1,1,0,1
+7600110,2026212,obrigatoria,TOTAL,30,30,0,30
+7600110,2026212,obrigatoria,EESC - Engenharia de Produção,30,30,0,30
+7600110,2026213,obrigatoria,TOTAL,30,29,0,29
+7600110,2026213,obrigatoria,EESC e ICMC - Engenharia de Computação,30,29,0,29
+7600110,2026214,obrigatoria,TOTAL,30,18,0,18
+7600110,2026214,obrigatoria,EESC e ICMC - Engenharia de Computação,30,18,0,18
+7600110,2026215,obrigatoria,TOTAL,30,27,0,27
+7600110,2026215,obrigatoria,EESC - Engenharia Mecatrônica,30,27,0,27
+7600110,2026216,obrigatoria,TOTAL,30,30,0,30
+7600110,2026216,obrigatoria,EESC - Engenharia Mecatrônica,30,28,0,28
+7600110,2026217,obrigatoria,TOTAL,30,28,0,28
+7600110,2026217,obrigatoria,EESC - Engenharia de Materiais e Manufatura,30,27,0,27
+7600110,2026218,obrigatoria,TOTAL,30,26,0,26
+7600110,2026218,obrigatoria,EESC - Engenharia de Materiais e Manufatura,30,23,0,23
+IAU0126,2026201,obrigatoria,TOTAL,110,64,0,64
+IAU0126,2026201,obrigatoria,EESC - Engenharia de Produção,55,8,0,8
+IAU0126,2026201,obrigatoria,EESC - Engenharia Mecatrônica,55,53,0,53
+IAU0126,2026201,optativa livre,TOTAL,20,4,0,4
+IAU0126,2026201,optativa livre,ICMC - Ciências de Computação,20,3,0,3
+IAU0126,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+IAU0315,2026201,obrigatoria,TOTAL,45,43,0,43
+IAU0315,2026201,obrigatoria,EESC - Engenharia Ambiental,45,43,0,43
+IAU0315,2026201,optativa livre,TOTAL,5,0,0,0
+IAU0315,2026201,optativa livre,ICMC -  Bacharelado em Estatística e Ciência de Dados,5,0,0,0
+IAU0315,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+RAD2401,2026202,obrigatoria,TOTAL,0,0,0,0
+RAD2401,2026202,optativa eletiva,TOTAL,31,30,0,30
+RAD2401,2026202,optativa eletiva,FEARP - Administração,29,26,0,26
+RAD2401,2026202,optativa livre,TOTAL,11,7,0,7
+RAD2401,2026202,optativa livre,Qualquer Unidade da USP,11,7,0,7
+RAD2401,2026204,obrigatoria,TOTAL,0,0,0,0
+RAD2401,2026204,optativa eletiva,TOTAL,60,24,0,24
+RAD2401,2026204,optativa eletiva,FEARP - Administração,39,3,0,3
+RAD2401,2026204,optativa eletiva,ICMC - Bacharelado em Sistemas de Informação,21,13,0,13
+RAD2401,2026204,optativa livre,TOTAL,20,8,0,8
+RAD2401,2026204,optativa livre,Qualquer Unidade da USP,20,8,0,8
+RAD2401,2026204,alunos especiais,TOTAL,5,1,,1
+RAD2810,2026202,obrigatoria,TOTAL,0,0,0,0
+RAD2810,2026202,optativa eletiva,TOTAL,27,11,0,11
+RAD2810,2026202,optativa eletiva,FEARP - Administração,27,8,0,8
+RAD2810,2026202,optativa livre,TOTAL,13,7,0,7
+RAD2810,2026202,optativa livre,Qualquer Unidade da USP,13,7,0,7
+RAD2810,2026204,obrigatoria,TOTAL,0,0,0,0
+RAD2810,2026204,optativa eletiva,TOTAL,39,10,0,10
+RAD2810,2026204,optativa eletiva,FEARP - Administração,39,4,0,4
+RAD2810,2026204,optativa livre,TOTAL,20,10,0,10
+RAD2810,2026204,optativa livre,Qualquer Unidade da USP,20,9,0,9
+RAD2810,2026204,alunos especiais,TOTAL,5,1,,1
+SAA0167,2026201,obrigatoria,TOTAL,48,44,0,44
+SAA0167,2026201,alunos especiais,TOTAL,4,3,,3
+SAA0356,2026201,obrigatoria,TOTAL,0,0,0,0
+SAA0356,2026201,optativa eletiva,TOTAL,5,2,0,2
+SAA0356,2026201,optativa livre,TOTAL,50,4,0,4
+SAA0356,2026201,optativa livre,EESC -  para toda a Unidade,50,3,0,3
+SAA0356,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SAA0356,2026201,alunos especiais,TOTAL,3,3,,3
+SAA0356,2026202,obrigatoria,TOTAL,0,0,0,0
+SAA0356,2026202,optativa livre,TOTAL,50,34,0,34
+SAA0356,2026202,optativa livre,EESC -  para toda a Unidade,50,32,0,32
+SAA0356,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SAA0356,2026202,extracurricular,TOTAL,1,0,0,0
+SEL0326,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0326,2026201,optativa eletiva,TOTAL,60,53,0,53
+SEL0326,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,11,7,0,7
+SEL0326,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,44,43,0,43
+SEL0326,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,4,1,0,1
+SEL0328,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0328,2026201,optativa eletiva,TOTAL,16,12,0,12
+SEL0328,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,10,8,0,8
+SEL0328,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,6,1,0,1
+SEL0328,2026201,optativa livre,TOTAL,1,1,0,1
+SEL0328,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0328,2026201,alunos especiais,TOTAL,2,2,,2
+SEL0328,2026202,obrigatoria,TOTAL,0,0,0,0
+SEL0328,2026202,optativa eletiva,TOTAL,16,13,0,13
+SEL0328,2026202,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,16,4,0,4
+SEL0328,2026202,optativa livre,TOTAL,1,1,0,1
+SEL0328,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0339,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0339,2026201,optativa eletiva,TOTAL,30,11,0,11
+SEL0339,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,20,9,0,9
+SEL0339,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,5,0,0,0
+SEL0339,2026201,optativa livre,TOTAL,9,3,0,3
+SEL0339,2026201,optativa livre,EESC - todos exceto Elétrica-Ênf Eletrônica,9,1,0,1
+SEL0339,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0344,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0344,2026201,optativa eletiva,TOTAL,40,27,0,27
+SEL0344,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,20,18,0,18
+SEL0344,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,20,4,0,4
+SEL0361,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0361,2026201,optativa eletiva,TOTAL,16,8,0,8
+SEL0361,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,12,7,0,7
+SEL0361,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,4,0,0,0
+SEL0367,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0367,2026201,optativa eletiva,TOTAL,30,13,0,13
+SEL0367,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,15,7,0,7
+SEL0367,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,10,4,0,4
+SEL0367,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,5,0,0,0
+SEL0371,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0371,2026201,optativa eletiva,TOTAL,16,4,0,4
+SEL0371,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,12,4,0,4
+SEL0371,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,4,0,0,0
+SEL0371,2026201,optativa livre,TOTAL,1,1,0,1
+SEL0371,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0371,2026201,alunos especiais,TOTAL,1,1,,1
+SEL0396,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0396,2026201,optativa eletiva,TOTAL,37,37,0,37
+SEL0396,2026201,optativa livre,TOTAL,22,21,0,21
+SEL0396,2026201,optativa livre,EESC -  para toda a Unidade,20,16,0,16
+SEL0396,2026201,optativa livre,EESC e ICMC - Engenharia de Computação,2,0,0,0
+SEL0396,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0397,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0397,2026201,optativa eletiva,TOTAL,25,15,0,15
+SEL0397,2026201,optativa livre,TOTAL,10,3,0,3
+SEL0397,2026201,optativa livre,EESC - todos exceto Elétrica-Ênf Eletrônica,5,1,0,1
+SEL0397,2026201,optativa livre,EESC e ICMC - Engenharia de Computação,5,0,0,0
+SEL0397,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0429,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0429,2026201,optativa eletiva,TOTAL,10,1,0,1
+SEL0431,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0431,2026201,optativa eletiva,TOTAL,16,13,0,13
+SEL0431,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,14,12,0,12
+SEL0431,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,2,0,0,0
+SEL0431,2026201,optativa livre,TOTAL,3,2,0,2
+SEL0431,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0431,2026202,obrigatoria,TOTAL,0,0,0,0
+SEL0431,2026202,optativa eletiva,TOTAL,16,16,0,16
+SEL0431,2026202,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,16,15,0,15
+SEL0431,2026202,optativa eletiva,EESC e ICMC - Engenharia de Computação,0,0,0,0
+SEL0459,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0459,2026201,optativa eletiva,TOTAL,35,14,0,14
+SEL0459,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,15,11,0,11
+SEL0459,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,10,1,0,1
+SEL0459,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,5,2,0,2
+SEL0459,2026201,optativa livre,TOTAL,10,7,0,7
+SEL0459,2026201,optativa livre,Qualquer Unidade da USP,10,0,0,0
+SEL0460,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0460,2026201,optativa eletiva,TOTAL,30,18,0,18
+SEL0460,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,12,9,0,9
+SEL0460,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,12,4,0,4
+SEL0460,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,6,2,0,2
+SEL0463,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0463,2026201,optativa eletiva,TOTAL,40,4,0,4
+SEL0463,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,15,2,0,2
+SEL0463,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,15,2,0,2
+SEL0463,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,10,0,0,0
+SEL0464,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0464,2026201,optativa eletiva,TOTAL,40,16,0,16
+SEL0464,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,15,8,0,8
+SEL0464,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,15,5,0,5
+SEL0464,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,10,1,0,1
+SEL0464,2026201,optativa livre,TOTAL,2,2,0,2
+SEL0464,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0468,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0468,2026201,optativa eletiva,TOTAL,30,5,0,5
+SEL0468,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,10,3,0,3
+SEL0468,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Sist Energia e Autom,10,2,0,2
+SEL0468,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,10,0,0,0
+SEL0606,2026201,obrigatoria,TOTAL,18,13,0,13
+SEL0606,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,18,11,0,11
+SEL0606,2026202,obrigatoria,TOTAL,18,18,0,18
+SEL0606,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,18,18,0,18
+SEL0606,2026203,obrigatoria,TOTAL,18,18,0,18
+SEL0606,2026203,obrigatoria,EESC e ICMC - Engenharia de Computação,18,16,0,16
+SEL0604,2026201,obrigatoria,TOTAL,60,54,0,54
+SEL0604,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,51,0,51
+SEL0607,2026201,obrigatoria,TOTAL,60,57,0,57
+SEL0607,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,57,0,57
+SEL0608,2026201,obrigatoria,TOTAL,60,48,0,48
+SEL0608,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,47,0,47
+SEL0608,2026201,optativa livre,TOTAL,3,3,0,3
+SEL0608,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0610,2026201,obrigatoria,TOTAL,28,28,0,28
+SEL0610,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,28,28,0,28
+SEL0610,2026202,obrigatoria,TOTAL,28,28,0,28
+SEL0610,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,28,28,0,28
+SEL0613,2026201,obrigatoria,TOTAL,62,60,0,60
+SEL0613,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,61,60,0,60
+SEL0613,2026201,optativa livre,TOTAL,2,1,0,1
+SEL0613,2026201,optativa livre,Qualquer Unidade da USP,2,0,0,0
+SEL0613,2026201,extracurricular,TOTAL,1,1,0,1
+SEL0614,2026201,obrigatoria,TOTAL,68,67,0,67
+SEL0614,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,65,60,0,60
+SEL0614,2026201,optativa livre,TOTAL,4,4,0,4
+SEL0614,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0614,2026201,alunos especiais,TOTAL,1,1,,1
+SEL0619,2026201,obrigatoria,TOTAL,60,42,0,42
+SEL0619,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,42,0,42
+SEL0619,2026201,optativa livre,TOTAL,4,4,0,4
+SEL0619,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0619,2026201,extracurricular,TOTAL,1,1,0,1
+SEL0620,2026201,obrigatoria,TOTAL,60,42,0,42
+SEL0620,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,37,0,37
+SEL0621,2026201,obrigatoria,TOTAL,30,30,0,30
+SEL0621,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,30,30,0,30
+SEL0621,2026202,obrigatoria,TOTAL,27,8,0,8
+SEL0621,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,27,8,0,8
+SEL0621,2026202,optativa eletiva,TOTAL,3,3,0,3
+SEL0621,2026202,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,3,0,0,0
+SEL0624,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0624,2026201,optativa eletiva,TOTAL,8,8,0,8
+SEL0624,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,8,8,0,8
+SEL0631,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0631,2026201,optativa eletiva,TOTAL,40,38,0,38
+SEL0631,2026201,optativa eletiva,EESC - Eng Elétrica - Ênf Eletrônica,24,21,0,21
+SEL0631,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,16,16,0,16
+SEL0631,2026201,optativa livre,TOTAL,2,2,0,2
+SEL0631,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0630,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0630,2026201,optativa eletiva,TOTAL,30,6,0,6
+SEL0630,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,30,6,0,6
+SEL0630,2026201,optativa livre,TOTAL,5,2,0,2
+SEL0630,2026201,optativa livre,EESC - Eng Elétrica - Ênf Eletrônica,5,1,0,1
+SEL0630,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0635,2026201,obrigatoria,TOTAL,0,0,0,0
+SEL0635,2026201,optativa eletiva,TOTAL,30,1,0,1
+SEL0635,2026201,optativa eletiva,EESC e ICMC - Engenharia de Computação,28,1,0,1
+SEL0635,2026201,optativa livre,TOTAL,4,4,0,4
+SEL0635,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0637,2026201,obrigatoria,TOTAL,60,57,0,57
+SEL0637,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,57,0,57
+SEM0403,2026201,obrigatoria,TOTAL,61,58,0,58
+SEM0403,2026201,obrigatoria,EESC - Engenharia Mecatrônica,60,42,0,42
+SEM0403,2026201,optativa eletiva,TOTAL,1,1,0,1
+SEM0403,2026201,optativa livre,TOTAL,1,0,0,0
+SEM0403,2026201,optativa livre,Qualquer Unidade da USP,1,0,0,0
+SEM0403,2026201,alunos especiais,TOTAL,1,1,,1
+SEM0550,2026201,obrigatoria,TOTAL,60,49,0,49
+SEM0550,2026201,obrigatoria,EESC - Engenharia Mecânica,60,45,0,45
+SEM0587,2026201,obrigatoria,TOTAL,0,0,0,0
+SEM0587,2026201,optativa eletiva,TOTAL,20,13,0,13
+SEM0587,2026201,optativa livre,TOTAL,20,7,0,7
+SEM0587,2026201,optativa livre,EESC - Engenharia Aeronáutica,5,0,0,0
+SEM0587,2026201,optativa livre,EESC - Engenharia de Produção,5,0,0,0
+SEM0587,2026201,optativa livre,EESC - Engenharia Mecânica,5,2,0,2
+SEM0587,2026201,optativa livre,EESC - Engenharia Mecatrônica,5,0,0,0
+SEM0587,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0587,2026201,alunos especiais,TOTAL,1,1,,1
+SEP0172,2026201,obrigatoria,TOTAL,60,55,0,55
+SEP0172,2026201,optativa livre,TOTAL,2,1,0,1
+SEP0172,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0254,2026201,obrigatoria,TOTAL,56,56,0,56
+SEP0254,2026201,optativa eletiva,TOTAL,4,2,0,2
+SEP0254,2026201,optativa livre,TOTAL,1,0,0,0
+SEP0254,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0305,2026201,obrigatoria,TOTAL,56,41,0,41
+SEP0305,2026201,optativa eletiva,TOTAL,4,1,0,1
+SEP0305,2026201,optativa livre,TOTAL,1,1,0,1
+SEP0305,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0305,2026201,alunos especiais,TOTAL,3,3,,3
+SEP0324,2026201,obrigatoria,TOTAL,55,32,0,32
+SEP0325,2026201,obrigatoria,TOTAL,60,59,0,59
+SEP0325,2026201,optativa livre,TOTAL,1,0,0,0
+SEP0325,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0325,2026201,alunos especiais,TOTAL,2,2,,2
+SEP0529,2026201,obrigatoria,TOTAL,60,54,0,54
+SEP0529,2026201,optativa livre,TOTAL,2,2,0,2
+SEP0529,2026201,optativa livre,EESC - Dupla Formação Arquitetura e Urbanismo,2,0,0,0
+SEP0529,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0529,2026201,alunos especiais,TOTAL,2,1,,1
+SEP0529,2026202,obrigatoria,TOTAL,62,57,0,57
+SEP0529,2026202,obrigatoria,EESC e ICMC - Engenharia de Computação,60,53,0,53
+SEP0529,2026202,alunos especiais,TOTAL,2,2,,2
+SEP0566,2026201,obrigatoria,TOTAL,50,37,0,37
+SEP0566,2026201,optativa livre,TOTAL,4,3,0,3
+SEP0566,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0566,2026201,extracurricular,TOTAL,1,1,0,1
+SEP0584,2026201,obrigatoria,TOTAL,60,52,0,52
+SEP0584,2026201,optativa livre,TOTAL,3,2,0,2
+SEP0584,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0584,2026201,extracurricular,TOTAL,1,1,0,1
+SEP0587,2026201,obrigatoria,TOTAL,92,94,1,93
+SEP0587,2026201,obrigatoria,EESC - Engenharia Civil,73,64,1,63
+SEP0587,2026201,obrigatoria,IAU - Dupla Formação Engenharia Civil,15,1,0,1
+SEP0587,2026201,optativa livre,TOTAL,6,6,0,6
+SEP0587,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0587,2026201,alunos especiais,TOTAL,1,1,,1
+SEP0587,2026202,obrigatoria,TOTAL,60,48,0,48
+SEP0587,2026202,obrigatoria,EESC - Engenharia Mecânica,60,38,0,38
+SEP0587,2026202,optativa livre,TOTAL,3,3,0,3
+SEP0587,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0587,2026202,alunos especiais,TOTAL,2,0,,0
+SEP0587,2026203,obrigatoria,TOTAL,48,45,0,45
+SEP0587,2026203,obrigatoria,EESC - Engenharia Aeronáutica,48,43,0,43
+SEP0587,2026203,optativa livre,TOTAL,2,2,0,2
+SEP0587,2026203,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0587,2026203,alunos especiais,TOTAL,1,0,,0
+SEP0587,2026204,obrigatoria,TOTAL,60,41,0,41
+SEP0587,2026204,obrigatoria,EESC - Engenharia Mecatrônica,60,36,0,36
+SEP0587,2026204,optativa livre,TOTAL,1,0,0,0
+SEP0587,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEP0587,2026204,alunos especiais,TOTAL,1,1,,1
+SEP0587,2026205,obrigatoria,TOTAL,60,23,0,23
+SEP0587,2026205,obrigatoria,EESC e ICMC - Engenharia de Computação,60,17,0,17
+SET0623,2026201,obrigatoria,TOTAL,60,50,0,50
+SET0623,2026201,obrigatoria,EESC e ICMC - Engenharia de Computação,60,50,0,50
+SHS0623,2026201,obrigatoria,TOTAL,70,58,0,58
+SHS0623,2026201,obrigatoria,EESC - Engenharia Mecânica,70,47,0,47
+SHS0623,2026201,optativa livre,TOTAL,1,1,0,1
+SHS0623,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SHS0623,2026201,alunos especiais,TOTAL,2,1,,1
+SHS0623,2026202,obrigatoria,TOTAL,60,32,0,31
+SHS0623,2026202,obrigatoria,EESC - Engenharia de Materiais e Manufatura,60,20,0,20
+SHS0623,2026202,optativa livre,TOTAL,1,0,0,0
+SHS0623,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SHS0623,2026202,alunos especiais,TOTAL,1,0,,0
+SHS0623,2026203,obrigatoria,TOTAL,55,55,0,55
+SHS0623,2026203,obrigatoria,EESC - Engenharia Aeronáutica,50,46,0,46
+SHS0623,2026203,alunos especiais,TOTAL,1,1,,1
+SLC0532,2026201,obrigatoria,TOTAL,20,12,0,12
+SLC0532,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,10,0,0,0
+SLC0532,2026201,obrigatoria,ICMC - Matemática  Licenciatura,10,3,0,3
+SLC0534,2026201,obrigatoria,TOTAL,15,7,0,7
+SLC0534,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,15,6,0,6
+SLC0534,2026201,optativa eletiva,TOTAL,5,3,0,3
+SLC0534,2026201,optativa eletiva,ICMC - Matemática  Licenciatura,5,3,0,3
+SLC0606,2026201,obrigatoria,TOTAL,50,47,0,47
+SLC0606,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,30,0,0,0
+SLC0606,2026201,obrigatoria,ICMC - Matemática  Licenciatura,20,13,0,13
+SLC0606,2026201,optativa livre,TOTAL,8,7,0,7
+SLC0606,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SLC0610,2026201,obrigatoria,TOTAL,40,31,0,31
+SLC0610,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,25,0,0,0
+SLC0610,2026201,obrigatoria,ICMC - Matemática  Licenciatura,15,9,0,9
+SLC0610,2026201,optativa livre,TOTAL,4,4,0,4
+SLC0610,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SLC0615,2026201,obrigatoria,TOTAL,45,29,0,29
+SLC0615,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,25,0,0,0
+SLC0615,2026201,obrigatoria,ICMC - Matemática  Licenciatura,20,12,0,12
+SLC0615,2026201,optativa livre,TOTAL,1,1,0,1
+SLC0615,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SLC0621,2026201,obrigatoria,TOTAL,33,31,0,31
+SLC0621,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,30,0,0,0
+SLC0621,2026201,optativa eletiva,TOTAL,5,0,0,0
+SLC0621,2026201,optativa eletiva,ICMC - Estatística,5,0,0,0
+SLC0621,2026201,optativa livre,TOTAL,4,1,0,1
+SLC0621,2026201,optativa livre,ICMC -  Bacharelado em Estatística e Ciência de Dados,4,1,0,1
+SLC0621,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SLC0631,2026201,obrigatoria,TOTAL,40,21,0,21
+SLC0631,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,40,0,0,0
+SLC0631,2026201,optativa eletiva,TOTAL,10,3,0,3
+SLC0631,2026201,optativa eletiva,ICMC - Matemática  Licenciatura,10,3,0,3
+SLC0631,2026201,optativa livre,TOTAL,5,4,0,4
+SLC0631,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SLC0680,2026201,obrigatoria,TOTAL,45,24,0,24
+SLC0680,2026201,obrigatoria,IFSC - Licenciatura Ciências Exatas - para toda a Unidade,30,0,0,0
+SLC0680,2026201,obrigatoria,ICMC - Matemática  Licenciatura,15,12,0,12
+SLC0680,2026201,optativa livre,TOTAL,22,17,0,17
+SLC0680,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+7600022,2026201,obrigatoria,TOTAL,70,66,0,66
+7600022,2026201,obrigatoria,IFSC -  para toda a Unidade,70,63,0,63
+7600022,2026201,alunos especiais,TOTAL,1,1,,1
+7600117,2026201,obrigatoria,TOTAL,80,64,0,63
+7600117,2026201,obrigatoria,IQSC -  para toda a Unidade,80,61,0,61
+7500004,2026201,obrigatoria,TOTAL,50,45,0,45
+SAA0180,2026201,obrigatoria,TOTAL,54,46,0,46
+SAA0180,2026201,alunos especiais,TOTAL,1,1,,1
+SEL0337,2026201,obrigatoria,TOTAL,20,9,0,9
+SEL0337,2026201,optativa livre,TOTAL,1,1,0,1
+SEL0337,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0337,2026202,obrigatoria,TOTAL,20,10,0,10
+SEL0337,2026202,optativa eletiva,TOTAL,3,2,0,2
+SEL0337,2026203,obrigatoria,TOTAL,20,18,0,18
+SEL0337,2026203,optativa eletiva,TOTAL,2,2,0,2
+SEL0314,2026201,obrigatoria,TOTAL,60,57,0,57
+SEL0314,2026201,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,60,33,0,33
+SEL0314,2026201,optativa livre,TOTAL,2,2,0,2
+SEL0314,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0314,2026202,obrigatoria,TOTAL,60,36,0,36
+SEL0314,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,60,24,0,24
+SEL0346,2026201,obrigatoria,TOTAL,60,32,0,32
+SEL0346,2026201,optativa livre,TOTAL,3,2,0,2
+SEL0346,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0383,2026201,obrigatoria,TOTAL,60,49,0,49
+SEL0383,2026201,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,60,46,0,46
+SEL0383,2026201,optativa livre,TOTAL,2,2,0,2
+SEL0383,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0383,2026201,alunos especiais,TOTAL,1,1,,1
+SEL0383,2026202,obrigatoria,TOTAL,60,54,0,54
+SEL0383,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,60,48,0,48
+SEL0383,2026202,alunos especiais,TOTAL,2,2,,2
+SEL0383,2026202,extracurricular,TOTAL,1,1,0,1
+SEL0415,2026201,obrigatoria,TOTAL,60,56,0,56
+SEL0415,2026201,obrigatoria,EESC - Engenharia Mecatrônica,60,50,0,50
+SEL0415,2026202,obrigatoria,TOTAL,60,57,0,57
+SEL0415,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,60,52,0,52
+SEL0415,2026203,obrigatoria,TOTAL,60,50,0,50
+SEL0415,2026203,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,60,42,0,42
+SEL0450,2026201,obrigatoria,TOTAL,70,69,0,69
+SEL0450,2026201,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,70,59,0,59
+SEL0450,2026201,optativa livre,TOTAL,6,6,0,6
+SEL0450,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0450,2026202,obrigatoria,TOTAL,73,69,0,69
+SEL0450,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,60,57,0,57
+SEL0450,2026202,optativa livre,TOTAL,1,1,0,1
+SEL0450,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0452,2026201,obrigatoria,TOTAL,62,62,0,62
+SEL0452,2026201,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,60,57,0,57
+SEL0452,2026201,optativa livre,TOTAL,2,2,0,2
+SEL0452,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0452,2026201,extracurricular,TOTAL,1,1,0,1
+SEL0452,2026202,obrigatoria,TOTAL,62,61,0,61
+SEL0452,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,60,60,0,60
+SEM0343,2026201,obrigatoria,TOTAL,61,60,0,60
+SEM0343,2026201,alunos especiais,TOTAL,2,2,,2
+SEM0388,2026201,obrigatoria,TOTAL,60,45,0,45
+SEM0388,2026201,obrigatoria,EESC - Engenharia Mecânica,60,44,0,44
+SEM0388,2026201,optativa livre,TOTAL,2,2,0,2
+SEM0388,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0388,2026201,alunos especiais,TOTAL,1,1,,1
+SEM0388,2026201,extracurricular,TOTAL,1,1,0,1
+SEM0388,2026202,obrigatoria,TOTAL,30,28,0,28
+SEM0388,2026202,obrigatoria,EESC - Engenharia Mecânica,30,27,0,27
+SEM0388,2026202,optativa livre,TOTAL,1,1,0,1
+SEM0388,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0388,2026202,alunos especiais,TOTAL,1,1,,1
+SEM0388,2026202,extracurricular,TOTAL,1,1,0,1
+SEM0388,2026203,obrigatoria,TOTAL,30,19,0,19
+SEM0388,2026203,obrigatoria,EESC - Engenharia Mecânica,30,19,0,19
+SEM0388,2026203,optativa livre,TOTAL,1,1,0,1
+SEM0388,2026203,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0388,2026204,obrigatoria,TOTAL,60,44,0,44
+SEM0388,2026204,obrigatoria,EESC - Engenharia Aeronáutica,60,38,0,38
+SEM0388,2026204,optativa livre,TOTAL,1,1,0,1
+SEM0388,2026204,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0388,2026205,obrigatoria,TOTAL,30,27,0,27
+SEM0388,2026205,obrigatoria,EESC - Engenharia Aeronáutica,30,24,0,24
+SEM0388,2026206,obrigatoria,TOTAL,30,17,0,17
+SEM0388,2026206,obrigatoria,EESC - Engenharia Aeronáutica,30,14,0,14
+SEM0388,2026206,optativa livre,TOTAL,1,1,0,1
+SEM0388,2026206,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0565,2026201,obrigatoria,TOTAL,40,39,0,39
+SEM0565,2026201,obrigatoria,EESC - Engenharia de Materiais e Manufatura,40,35,0,35
+SEM0565,2026202,obrigatoria,TOTAL,45,44,0,44
+SEM0565,2026202,obrigatoria,EESC - Engenharia Mecatrônica,45,39,0,39
+SEM0565,2026203,obrigatoria,TOTAL,40,28,0,28
+SEM0565,2026203,obrigatoria,EESC - Engenharia Mecânica,40,28,0,28
+SEM0565,2026204,obrigatoria,TOTAL,40,28,0,28
+SEM0565,2026204,obrigatoria,EESC - Engenharia Mecânica,40,19,0,19
+SEM0565,2026204,alunos especiais,TOTAL,1,1,,1
+SEM0565,2026205,obrigatoria,TOTAL,40,32,0,32
+SEM0565,2026205,obrigatoria,EESC - Engenharia de Produção,37,29,0,29
+SEM0565,2026206,obrigatoria,TOTAL,42,38,0,38
+SEM0565,2026206,obrigatoria,EESC - Engenharia Mecatrônica,7,5,0,5
+SEM0565,2026206,obrigatoria,EESC - Engenharia de Produção,21,16,0,16
+SEM0565,2026206,obrigatoria,EESC - Engenharia de Materiais e Manufatura,12,12,0,12
+SEM0565,2026206,optativa livre,TOTAL,1,1,0,1
+SEM0565,2026206,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0565,2026206,alunos especiais,TOTAL,1,0,,0
+SEM0565,2026207,obrigatoria,TOTAL,30,11,0,11
+SEM0565,2026207,obrigatoria,EESC - Engenharia Mecatrônica,30,9,0,9
+SEM0565,2026207,optativa livre,TOTAL,1,1,0,1
+SEM0565,2026207,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0566,2026201,obrigatoria,TOTAL,60,58,0,58
+SEM0566,2026201,optativa livre,TOTAL,2,2,0,2
+SEM0566,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEM0566,2026201,alunos especiais,TOTAL,1,0,,0
+SEM0566,2026201,extracurricular,TOTAL,1,0,0,0
+SEM0567,2026201,obrigatoria,TOTAL,60,34,0,34
+SEP0284,2026201,obrigatoria,TOTAL,60,53,0,53
+SEP0284,2026201,alunos especiais,TOTAL,1,0,,0
+SEL0309,2026201,obrigatoria,TOTAL,60,52,0,52
+SEL0309,2026201,obrigatoria,EESC - Eng Elétrica - Ênf Eletrônica,60,45,0,45
+SEL0309,2026201,optativa livre,TOTAL,4,4,0,4
+SEL0309,2026201,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0309,2026201,alunos especiais,TOTAL,2,1,,1
+SEL0309,2026202,obrigatoria,TOTAL,63,60,0,59
+SEL0309,2026202,obrigatoria,EESC - Eng Elétrica - Ênf Sist Energia e Autom,63,17,0,17
+SEL0309,2026202,optativa livre,TOTAL,1,1,0,1
+SEL0309,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SEL0454,2026201,obrigatoria,TOTAL,60,58,0,58
+SEP0285,2026201,obrigatoria,TOTAL,25,25,0,25
+SEP0285,2026202,obrigatoria,TOTAL,26,25,0,25
+SMM0194,2026201,obrigatoria,TOTAL,34,33,0,33
+SMM0194,2026201,obrigatoria,EESC - Engenharia Mecânica,33,26,0,26
+SMM0194,2026202,obrigatoria,TOTAL,30,21,0,21
+SMM0194,2026202,obrigatoria,EESC - Engenharia Mecânica,30,17,0,17
+SMM0194,2026202,optativa livre,TOTAL,1,1,0,1
+SMM0194,2026202,optativa livre,Qualquer Unidade da USP,0,0,0,0
+SMM0194,2026203,obrigatoria,TOTAL,30,24,0,24
+SMM0194,2026203,obrigatoria,EESC - Engenharia Mecatrônica,13,8,0,8
+SMM0194,2026203,obrigatoria,EESC - Engenharia de Produção,17,10,0,10
+SMM0194,2026204,obrigatoria,TOTAL,40,39,0,39
+SMM0194,2026204,obrigatoria,EESC - Engenharia Mecatrônica,40,34,0,34
+SMM0194,2026205,obrigatoria,TOTAL,40,39,0,39
+SMM0194,2026205,obrigatoria,EESC - Engenharia de Produção,40,27,0,27
