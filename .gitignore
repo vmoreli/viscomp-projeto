@@ -6,6 +6,7 @@ dados/cache_html/
 
 # Cópia gerada pelo notebook 02 (no repositório fica só o index.html)
 q1_interativo.html
+q2_interativo.html
 
 .ipynb_checkpoints/
 __pycache__/

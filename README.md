@@ -11,6 +11,9 @@ Projeto da disciplina SCC0252 (Visualização Computacional, ICMC-USP, 2026/2). 
 - [Q1: atraso por reprovação](https://vmoreli.github.io/viscomp-projeto/vis/q1.html)
 - [Notebook da Q1 no nbviewer](https://nbviewer.org/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb)
 - [Notebook da Q1 no Colab](https://colab.research.google.com/github/vmoreli/viscomp-projeto/blob/main/notebooks/02_q1_atraso_reprovacao.ipynb)
+- [Q2: horários da semana](https://vmoreli.github.io/viscomp-projeto/vis/q2.html)
+- [Notebook da Q2 no nbviewer](https://nbviewer.org/github/vmoreli/viscomp-projeto/blob/main/notebooks/03_q2_horarios.ipynb)
+- [Notebook da Q2 no Colab](https://colab.research.google.com/github/vmoreli/viscomp-projeto/blob/main/notebooks/03_q2_horarios.ipynb)
 
 ## Como rodar localmente
 
@@ -19,7 +22,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/
 ```
 
-O `02_q1_atraso_reprovacao.ipynb` lê os CSVs de `dados/processado` e grava `q1_interativo.html` na pasta `notebooks/`.
+O `02_q1_atraso_reprovacao.ipynb` e o `03_q2_horarios.ipynb` leem os CSVs de `dados/processado` e gravam `q1_interativo.html` e `q2_interativo.html` na pasta `notebooks/`.
 
 ## Como publicar uma visualização no site
 
@@ -37,13 +40,14 @@ O site tem uma página inicial (`index.html`) e uma página por visualização e
 |---|---|
 | `index.html` | Página inicial do site (GitHub Pages), com o menu das visualizações |
 | `menu.js` | Lista das visualizações; monta o menu do topo e os cartões da página inicial |
-| `vis/` | Uma página por visualização (`q1.html`, …) |
-| `scripts/` | `publicar_vis.py` (gera as páginas de `vis/`) e `capturas_q1.py` (gera as figuras com Playwright) |
+| `vis/` | Uma página por visualização (`q1.html`, `q2.html`, …) |
+| `scripts/` | `publicar_vis.py` (gera as páginas de `vis/`) e `capturas_q1.py` e `capturas_q2.py` (geram as figuras com Playwright) |
 | `notebooks/01_criacao_dataset.ipynb` | Coleta no JúpiterWeb, limpeza e geração das tabelas |
 | `notebooks/02_q1_atraso_reprovacao.ipynb` | Q1: quanto uma reprovação em obrigatória atrasa o curso |
+| `notebooks/03_q2_horarios.ipynb` | Q2: quando há aula, por curso e semestre ideal, e se refazer uma reprovada choca |
 | `dados/bruto/` | `disciplinas_brutas.json`: dados de cada disciplina como vieram do scraper |
 | `dados/processado/` | As 11 tabelas finais em CSV (descritas abaixo) |
-| `figuras/` | Figuras estáticas da Q1 para o relatório (`q1_bcc_aed1.png`, `q1_ecomp_sel0637.png`) |
+| `figuras/` | Figuras estáticas para o relatório: Q1 (`q1_bcc_aed1.png`, `q1_ecomp_sel0637.png`) e Q2 (`q2_visao_geral.png`, `q2_bsi_refazer_scc0502.png`) |
 
 ## Tabelas de `dados/processado`
 

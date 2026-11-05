@@ -12,6 +12,16 @@ const VISUALIZACOES = [
       "pré-requisitos se propaga.",
     figura: "figuras/q1_bcc_aed1.png",
   },
+  {
+    id: "q2",
+    arquivo: "vis/q2.html",
+    rotulo: "Q2 · Horários da semana",
+    titulo: "Quando há aula, e a grade de cada semestre cabe na semana?",
+    descricao: "Mapa de calor dia × hora das turmas de 2026/2, filtrável por curso, " +
+      "semestre ideal e tipo de disciplina, com simulação de reprovação para ver " +
+      "se refazer uma obrigatória choca com o semestre seguinte.",
+    figura: "figuras/q2_visao_geral.png",
+  },
 ];
 
 (function () {
