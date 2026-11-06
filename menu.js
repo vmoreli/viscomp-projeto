@@ -22,6 +22,15 @@ const VISUALIZACOES = [
       "se refazer uma obrigatória choca com o semestre seguinte.",
     figura: "figuras/q2_visao_geral.png",
   },
+  {
+    id: "q3",
+    arquivo: "vis/q3.html",
+    rotulo: "Q3 · Optativas disponíveis",
+    titulo: "A partir de que semestre eu consigo cursar cada optativa?",
+    descricao: "Para cada curso e semestre, quantas e quais optativas o aluno já pode " +
+      "cursar, com a sequência mínima de disciplinas até cada uma.",
+    figura: "figuras/q3_bcc_scc0270.png",
+  },
 ];
 
 (function () {
